@@ -1,0 +1,117 @@
+{
+  "common": {
+    "name": "vis-2-widgets-jaeger-design",
+    "version": "0.2.0",
+    "news": {
+      "0.2.0": {
+        "en": "implemented mobile view",
+        "de": "mobile ansicht",
+        "ru": "реализованный мобильный вид",
+        "pt": "visão móvel implementada",
+        "nl": "mobiele kijk",
+        "fr": "vue mobile mise en œuvre",
+        "it": "vista mobile implementata",
+        "es": "vista móvil aplicada",
+        "pl": "przeglądarka mobilna",
+        "uk": "реалізований мобільний вигляд",
+        "zh-cn": "执行的流动观点"
+      },
+      "0.1.4": {
+        "en": "implemented mobile view",
+        "de": "mobile ansicht",
+        "ru": "реализованный мобильный вид",
+        "pt": "visão móvel implementada",
+        "nl": "mobiele kijk",
+        "fr": "vue mobile mise en œuvre",
+        "it": "vista mobile implementata",
+        "es": "vista móvil aplicada",
+        "pl": "przeglądarka mobilna",
+        "uk": "реалізований мобільний вигляд",
+        "zh-cn": "执行的流动观点"
+      },
+      "0.1.3": {
+        "en": "initial commit",
+        "de": "erster auftrag",
+        "ru": "первоначальный коммит",
+        "pt": "commit inicial",
+        "nl": ".",
+        "fr": "initial commit",
+        "it": "commit iniziale",
+        "es": "inicial",
+        "pl": "wstępny proces",
+        "uk": "початкова комісія",
+        "zh-cn": "初步承诺"
+      },
+      "0.1.2": {
+        "en": "initial commit",
+        "de": "erster auftrag",
+        "ru": "первоначальный коммит",
+        "pt": "commit inicial",
+        "nl": ".",
+        "fr": "initial commit",
+        "it": "commit iniziale",
+        "es": "inicial",
+        "pl": "wstępny proces",
+        "uk": "початкова комісія",
+        "zh-cn": "初步承诺"
+      }
+    },
+    "title": "Vis 2 Jaeger Styled Widgets",
+    "titleLang": {
+      "en": "Vis 2 Jaeger Styled Widgets"
+    },
+    "desc": {
+      "en": "Vis 2 Jaeger Styled Widgets"
+    },
+    "authors": [
+      "bluefox <dogafox@gmail.com>"
+    ],
+    "keywords": [
+      "vis-2-widgets-jaeger-design"
+    ],
+    "license": "MIT",
+    "platform": "Javascript/Node.js",
+    "icon": "vis-2-widgets-jaeger-design.png",
+    "extIcon": "https://raw.githubusercontent.com/ioBroker/ioBroker.vis-2-widgets-jaeger-design/master/admin/vis-2-widgets-jaeger-design.png",
+    "enabled": true,
+    "readme": "https://github.com/ioBroker/ioBroker.vis-2-widgets-jaeger-design/blob/master/README.md",
+    "loglevel": "info",
+    "mode": "once",
+    "nogit": true,
+    "adminUI": {
+      "config": "json"
+    },
+    "onlyWWW": true,
+    "type": "visualization-widgets",
+    "connectionType": "cloud",
+    "dataSource": "poll",
+    "visWidgets": {
+      "i18n": "component",
+      "vis2jaegerDesignWidgets": {
+        "name": "vis2jaegerDesignWidgets",
+        "url": "vis-2-widgets-jaeger-design/customWidgets.js",
+        "components": [
+          "JaegerDesignLayout",
+          "JaegerDesignCameras",
+          "JaegerDesignDimmer",
+          "JaegerDesignNews",
+          "JaegerDesignPlayer",
+          "JaegerDesignScene",
+          "JaegerDesignShutter",
+          "JaegerDesignState",
+          "JaegerDesignThermostat"
+        ]
+      }
+    },
+    "restartAdapters": [
+      "vis",
+      "vis-2-beta"
+    ]
+  },
+  "native": {
+    "license": "",
+    "useLicenseManager": false
+  },
+  "objects": [],
+  "instanceObjects": []
+}

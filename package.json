@@ -1,0 +1,52 @@
+{
+  "name": "iobroker.vis-2-widgets-jaeger-design",
+  "version": "0.2.0",
+  "description": "ioBroker vis2 jaeger widgets",
+  "author": "bluefox <dogafox@gmail.com>",
+  "contributors": [
+    "bluefox <dogafox@gmail.com>"
+  ],
+  "homepage": "https://github.com/ioBroker/ioBroker.vis-2-widgets-jaeger-design",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ioBroker/ioBroker.vis-2-widgets-jaeger-design"
+  },
+  "keywords": [
+    "ioBroker",
+    "weather",
+    "home automation",
+    "vis-2-widgets-jaeger-design"
+  ],
+  "devDependencies": {
+    "@alcalzone/release-script": "^3.5.9",
+    "@alcalzone/release-script-plugin-iobroker": "^3.5.9",
+    "@alcalzone/release-script-plugin-license": "^3.5.9",
+    "gulp": "^4.0.2"
+  },
+  "main": "main.js",
+  "files": [
+    "admin/",
+    "img/",
+    "widgets/",
+    "!widgets/vis-2-widgets-jaeger-design/static/*.map",
+    "io-package.json",
+    "LICENSE"
+  ],
+  "scripts": {
+    "check": "tsc --noEmit -p tsconfig.check.json",
+    "lint": "eslint",
+    "build": "gulp",
+    "release": "release-script",
+    "release-patch": "release-script patch --yes",
+    "release-minor": "release-script minor --yes",
+    "release-major": "release-script major --yes"
+  },
+  "bugs": {
+    "url": "https://github.com/ioBroker/ioBroker.vis-2-widgets-jaeger-design/issues"
+  },
+  "readmeFilename": "README.md",
+  "dependencies": {
+    "react-swipeable": "^7.0.0"
+  }
+}
