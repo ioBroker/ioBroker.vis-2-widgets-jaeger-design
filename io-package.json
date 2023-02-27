@@ -1,8 +1,21 @@
 {
   "common": {
     "name": "vis-2-widgets-jaeger-design",
-    "version": "0.2.0",
+    "version": "0.2.1",
     "news": {
+      "0.2.1": {
+        "en": "Mobile views tuned",
+        "de": "Mobile Ansichten abgestimmt",
+        "ru": "Мобильные просмотры настроены",
+        "pt": "Vistas móveis sintonizadas",
+        "nl": "Mobile kijk",
+        "fr": "Vues mobiles",
+        "it": "Viste mobili sintonizzate",
+        "es": "Vistas móviles sintonizadas",
+        "pl": "Mobilne poglądy nastrojowe",
+        "uk": "Мобільні перегляди настроєний",
+        "zh-cn": "流动意见"
+      },
       "0.2.0": {
         "en": "implemented mobile view",
         "de": "mobile ansicht",
@@ -78,6 +91,7 @@
     "loglevel": "info",
     "mode": "once",
     "nogit": true,
+    "singleton": true,
     "adminUI": {
       "config": "json"
     },

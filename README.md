@@ -34,6 +34,9 @@ And then use `javascript.0.rss` object in this widget.
     ### **WORK IN PROGRESS**
 -->
 ## Changelog
+### 0.2.1 (2023-02-03)
+* (bluefox) Mobile views tuned
+
 ### 0.2.0 (2023-02-01)
 * (bluefox) implemented mobile view
 

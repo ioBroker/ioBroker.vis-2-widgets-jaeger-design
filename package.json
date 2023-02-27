@@ -1,6 +1,6 @@
 {
   "name": "iobroker.vis-2-widgets-jaeger-design",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "ioBroker vis2 jaeger widgets",
   "author": "bluefox <dogafox@gmail.com>",
   "contributors": [
@@ -35,6 +35,7 @@
   ],
   "scripts": {
     "check": "tsc --noEmit -p tsconfig.check.json",
+    "prepublishOnly": "gulp",
     "lint": "eslint",
     "build": "gulp",
     "release": "release-script",
