@@ -1,8 +1,73 @@
 {
   "common": {
     "name": "vis-2-widgets-jaeger-design",
-    "version": "0.2.1",
+    "version": "0.3.2",
     "news": {
+      "0.3.2": {
+        "en": "Corrected license problem",
+        "de": "Korrigiertes Lizenzproblem",
+        "ru": "Исправлена проблема лицензии",
+        "pt": "Problema de licença corrigido",
+        "nl": "Vertaling:",
+        "fr": "Problème de licence corrigé",
+        "it": "Problemi di licenza corretti",
+        "es": "Problema de licencia corregida",
+        "pl": "Problem licencji",
+        "uk": "Виправлена проблема ліцензії",
+        "zh-cn": "纠正被许可问题"
+      },
+      "0.3.1": {
+        "en": "Corrected build process",
+        "de": "Korrigierter Build-Prozess",
+        "ru": "Правильный процесс сборки",
+        "pt": "Processo de construção corrigido",
+        "nl": "Gecorrigeerd bouwproces",
+        "fr": "Processus de construction corrigé",
+        "it": "Processo di costruzione corretto",
+        "es": "Proceso de construcción corregido",
+        "pl": "Poprawne procesy budowlane",
+        "uk": "Виправлено процес побудови",
+        "zh-cn": "改编建筑过程"
+      },
+      "0.3.0": {
+        "en": "Implemented dark mode",
+        "de": "Implementierter dunkler Modus",
+        "ru": "Реализован темный режим",
+        "pt": "Modo escuro implementado",
+        "nl": "Vertaling:",
+        "fr": "Mode foncé appliqué",
+        "it": "Modalità oscura implementata",
+        "es": "Modo oscuro implementado",
+        "pl": "Implementacja mrocznego trybu",
+        "uk": "Реалізовано темний режим",
+        "zh-cn": "执行黑暗模式"
+      },
+      "0.2.3": {
+        "en": "update packages",
+        "de": "update-pakete",
+        "ru": "обновление пакетов",
+        "pt": "pacotes de atualização",
+        "nl": "vertaling:",
+        "fr": "mettre à jour les paquets",
+        "it": "pacchetti di aggiornamento",
+        "es": "actualizar paquetes",
+        "pl": "pakiet aktualizacji",
+        "uk": "оновлення пакетів",
+        "zh-cn": "更新包"
+      },
+      "0.2.2": {
+        "en": "Updated thermostat widget",
+        "de": "Aktualisierte Thermostat Widget",
+        "ru": "Обновленный виджет термостата",
+        "pt": "Widget de termostato atualizado",
+        "nl": "Quality over Quantity (QoQ) Releases Vertaling:",
+        "fr": "Widget thermostat mis à jour",
+        "it": "Widget termostato aggiornato",
+        "es": "Widget termostato actualizado",
+        "pl": "Widgetacja termostatowa",
+        "uk": "Оновлений термостат віджет",
+        "zh-cn": "二. 更新的动荡情况"
+      },
       "0.2.1": {
         "en": "Mobile views tuned",
         "de": "Mobile Ansichten abgestimmt",
@@ -28,45 +93,6 @@
         "pl": "przeglądarka mobilna",
         "uk": "реалізований мобільний вигляд",
         "zh-cn": "执行的流动观点"
-      },
-      "0.1.4": {
-        "en": "implemented mobile view",
-        "de": "mobile ansicht",
-        "ru": "реализованный мобильный вид",
-        "pt": "visão móvel implementada",
-        "nl": "mobiele kijk",
-        "fr": "vue mobile mise en œuvre",
-        "it": "vista mobile implementata",
-        "es": "vista móvil aplicada",
-        "pl": "przeglądarka mobilna",
-        "uk": "реалізований мобільний вигляд",
-        "zh-cn": "执行的流动观点"
-      },
-      "0.1.3": {
-        "en": "initial commit",
-        "de": "erster auftrag",
-        "ru": "первоначальный коммит",
-        "pt": "commit inicial",
-        "nl": ".",
-        "fr": "initial commit",
-        "it": "commit iniziale",
-        "es": "inicial",
-        "pl": "wstępny proces",
-        "uk": "початкова комісія",
-        "zh-cn": "初步承诺"
-      },
-      "0.1.2": {
-        "en": "initial commit",
-        "de": "erster auftrag",
-        "ru": "первоначальный коммит",
-        "pt": "commit inicial",
-        "nl": ".",
-        "fr": "initial commit",
-        "it": "commit iniziale",
-        "es": "inicial",
-        "pl": "wstępny proces",
-        "uk": "початкова комісія",
-        "zh-cn": "初步承诺"
       }
     },
     "title": "Vis 2 Jaeger Styled Widgets",
