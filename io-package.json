@@ -1,8 +1,34 @@
 {
   "common": {
     "name": "vis-2-widgets-jaeger-design",
-    "version": "0.3.2",
+    "version": "0.4.1",
     "news": {
+      "0.4.1": {
+        "en": "Corrected visualization of view",
+        "de": "Korrigierte Visualisierung der Sicht",
+        "ru": "Исправлена визуализация зрения",
+        "pt": "Visualização correta de vista",
+        "nl": "Vertaling:",
+        "fr": "Visualisation corrigée de la vue",
+        "it": "Visualizzazione corretta della vista",
+        "es": "Visualización corregida de la vista",
+        "pl": "Poprawna wizualizacja widzenia",
+        "uk": "Виправлена візуалізація зору",
+        "zh-cn": "阅读观点"
+      },
+      "0.4.0": {
+        "en": "Added exclusions\nAdded possibility to show information on the very top of layout",
+        "de": "Ausschlüsse hinzugefügt\nMöglichkeit, Informationen auf der Spitze des Layouts zu zeigen",
+        "ru": "Добавленные исключения\nДобавлена возможность показать информацию на самой вершине макета",
+        "pt": "Exclusões adicionadas\nAdicionado possibilidade de mostrar informações no topo do layout",
+        "nl": "Vervolgens\nToegevoegd om informatie te laten zien op de top van de laag",
+        "fr": "Ajout d ' exclusions\nPossibilité de montrer des informations sur le haut de la mise en page",
+        "it": "Aggiunte esclusioni\nAggiunta possibilità di mostrare informazioni sulla cima del layout",
+        "es": "Exclusiones adicionales\nPosibilidad de mostrar información en la parte superior del diseño",
+        "pl": "Wykluczanie dodane\nWstępna możliwość pokazania informacji na temat bardzo szczytu układów",
+        "uk": "Додано виключення\nДодана можливість показати інформацію на самому вершині макета",
+        "zh-cn": "增加排斥\n增加就最小的布局提供资料的可能性"
+      },
       "0.3.2": {
         "en": "Corrected license problem",
         "de": "Korrigiertes Lizenzproblem",
@@ -67,32 +93,6 @@
         "pl": "Widgetacja termostatowa",
         "uk": "Оновлений термостат віджет",
         "zh-cn": "二. 更新的动荡情况"
-      },
-      "0.2.1": {
-        "en": "Mobile views tuned",
-        "de": "Mobile Ansichten abgestimmt",
-        "ru": "Мобильные просмотры настроены",
-        "pt": "Vistas móveis sintonizadas",
-        "nl": "Mobile kijk",
-        "fr": "Vues mobiles",
-        "it": "Viste mobili sintonizzate",
-        "es": "Vistas móviles sintonizadas",
-        "pl": "Mobilne poglądy nastrojowe",
-        "uk": "Мобільні перегляди настроєний",
-        "zh-cn": "流动意见"
-      },
-      "0.2.0": {
-        "en": "implemented mobile view",
-        "de": "mobile ansicht",
-        "ru": "реализованный мобильный вид",
-        "pt": "visão móvel implementada",
-        "nl": "mobiele kijk",
-        "fr": "vue mobile mise en œuvre",
-        "it": "vista mobile implementata",
-        "es": "vista móvil aplicada",
-        "pl": "przeglądarka mobilna",
-        "uk": "реалізований мобільний вигляд",
-        "zh-cn": "执行的流动观点"
       }
     },
     "title": "Vis 2 Jaeger Styled Widgets",
