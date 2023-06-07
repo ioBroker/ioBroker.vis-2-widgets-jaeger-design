@@ -1,9 +1,9 @@
 {
   "common": {
     "name": "vis-2-widgets-jaeger-design",
-    "version": "0.4.2",
+    "version": "0.4.3",
     "news": {
-      "0.4.2": {
+      "0.4.3": {
         "en": "Corrected visualization of view",
         "de": "Korrigierte Visualisierung der Sicht",
         "ru": "Исправлена визуализация зрения",
