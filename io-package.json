@@ -1,9 +1,87 @@
 {
   "common": {
     "name": "vis-2-widgets-jaeger-design",
-    "version": "0.4.3",
+    "version": "0.6.3",
     "news": {
-      "0.4.3": {
+      "0.6.3": {
+        "en": "Added many new features",
+        "de": "Viele neue Features hinzugefügt",
+        "ru": "Добавлено множество новых функций",
+        "pt": "Adicionado muitos novos recursos",
+        "nl": "Vertaling:",
+        "fr": "Ajout de nombreuses nouvelles fonctionnalités",
+        "it": "Aggiunto molte nuove caratteristiche",
+        "es": "Añadido muchas nuevas características",
+        "pl": "Dodano wiele nowych funkcji",
+        "uk": "Додати багато нових функцій",
+        "zh-cn": "增加许多新特点"
+      },
+      "0.6.1": {
+        "en": "Added max height/width for floors",
+        "de": "Maximale Höhe/Breite für Böden",
+        "ru": "Добавлена максимальная высота/ширина для полов",
+        "pt": "Altura/largura máxima adicionada para pisos",
+        "nl": "Gevoegd max lengte/width voor vloeren",
+        "fr": "Ajout de la hauteur max/largeur pour les planchers",
+        "it": "Aggiunta massima altezza/larghezza per pavimenti",
+        "es": "Altura máxima / ancho para suelos",
+        "pl": "Dodać maksimum wysokości/widtu na podłogi",
+        "uk": "Додана максимальна висота / ширина підлоги",
+        "zh-cn": "增加三倍高/维登楼"
+      },
+      "0.6.0": {
+        "en": "Corrected some errors with information",
+        "de": "Einige Fehler mit Informationen korrigiert",
+        "ru": "Исправлены некоторые ошибки с информацией",
+        "pt": "Corrigido alguns erros com informações",
+        "nl": "Verkeerd met informatie",
+        "fr": "Correction de quelques erreurs avec l'information",
+        "it": "Corretto alcuni errori con le informazioni",
+        "es": "Corregido algunos errores con información",
+        "pl": "Poprawka niektórych błędów z informacjami",
+        "uk": "Виправлено помилки з інформацією",
+        "zh-cn": "纠正一些信息错误"
+      },
+      "0.5.2": {
+        "en": "Support of false for scenes",
+        "de": "Unterstützung von false für Szenen",
+        "ru": "Поддержка false для сцен",
+        "pt": "Suporte de falso para cenas",
+        "nl": "Vertaling:",
+        "fr": "Support de faux pour les scènes",
+        "it": "Supporto di falsi per scene",
+        "es": "Apoyo de falso para escenas",
+        "pl": "Wspieranie fałszywych scen do zdjęć",
+        "uk": "Підтримка помилкових сцен",
+        "zh-cn": "支持现场假"
+      },
+      "0.5.0": {
+        "en": "Added support for the new vis\nAdded page configurable margins",
+        "de": "Unterstützung für den neuen vis\nSeite hinzugefügt konfigurierbare Margen",
+        "ru": "Добавлена поддержка новых вис\nДобавлены настройки страницы",
+        "pt": "Adicionado suporte para o novo vis\nMargem configurável de página adicionada",
+        "nl": "Aangepast voor de nieuwe vis\nVoegde pagina toegewijde marges",
+        "fr": "Ajout du soutien à la nouvelle vis\nAjout des marges configurables de page",
+        "it": "Aggiunto il supporto per il nuovo vis\nAggiunto pagina margini configurabili",
+        "es": "Apoyo añadido para la nueva vis\nAñadido página márgenes configurables",
+        "pl": "Wsparcie dla nowej wizy\nStrona domowa",
+        "uk": "Додана підтримка нових вій\nДодано налаштування сторінок",
+        "zh-cn": "增加对新情况的支持\n增加一页可图比"
+      },
+      "0.4.6": {
+        "en": "Corrected sub menu",
+        "de": "Berichtigtes Untermenü",
+        "ru": "Правильное под меню",
+        "pt": "Sub menu corrigido",
+        "nl": "Vertaling:",
+        "fr": "Sous-menu corrigé",
+        "it": "Sotto menu corretto",
+        "es": "Menú secundario corregido",
+        "pl": "Poprawka pod menu",
+        "uk": "Виправлено під меню",
+        "zh-cn": "更正"
+      },
+      "0.4.5": {
         "en": "Corrected visualization of view",
         "de": "Korrigierte Visualisierung der Sicht",
         "ru": "Исправлена визуализация зрения",
@@ -15,84 +93,6 @@
         "pl": "Poprawna wizualizacja widzenia",
         "uk": "Виправлена візуалізація зору",
         "zh-cn": "阅读观点"
-      },
-      "0.4.0": {
-        "en": "Added exclusions\nAdded possibility to show information on the very top of layout",
-        "de": "Ausschlüsse hinzugefügt\nMöglichkeit, Informationen auf der Spitze des Layouts zu zeigen",
-        "ru": "Добавленные исключения\nДобавлена возможность показать информацию на самой вершине макета",
-        "pt": "Exclusões adicionadas\nAdicionado possibilidade de mostrar informações no topo do layout",
-        "nl": "Vervolgens\nToegevoegd om informatie te laten zien op de top van de laag",
-        "fr": "Ajout d ' exclusions\nPossibilité de montrer des informations sur le haut de la mise en page",
-        "it": "Aggiunte esclusioni\nAggiunta possibilità di mostrare informazioni sulla cima del layout",
-        "es": "Exclusiones adicionales\nPosibilidad de mostrar información en la parte superior del diseño",
-        "pl": "Wykluczanie dodane\nWstępna możliwość pokazania informacji na temat bardzo szczytu układów",
-        "uk": "Додано виключення\nДодана можливість показати інформацію на самому вершині макета",
-        "zh-cn": "增加排斥\n增加就最小的布局提供资料的可能性"
-      },
-      "0.3.2": {
-        "en": "Corrected license problem",
-        "de": "Korrigiertes Lizenzproblem",
-        "ru": "Исправлена проблема лицензии",
-        "pt": "Problema de licença corrigido",
-        "nl": "Vertaling:",
-        "fr": "Problème de licence corrigé",
-        "it": "Problemi di licenza corretti",
-        "es": "Problema de licencia corregida",
-        "pl": "Problem licencji",
-        "uk": "Виправлена проблема ліцензії",
-        "zh-cn": "纠正被许可问题"
-      },
-      "0.3.1": {
-        "en": "Corrected build process",
-        "de": "Korrigierter Build-Prozess",
-        "ru": "Правильный процесс сборки",
-        "pt": "Processo de construção corrigido",
-        "nl": "Gecorrigeerd bouwproces",
-        "fr": "Processus de construction corrigé",
-        "it": "Processo di costruzione corretto",
-        "es": "Proceso de construcción corregido",
-        "pl": "Poprawne procesy budowlane",
-        "uk": "Виправлено процес побудови",
-        "zh-cn": "改编建筑过程"
-      },
-      "0.3.0": {
-        "en": "Implemented dark mode",
-        "de": "Implementierter dunkler Modus",
-        "ru": "Реализован темный режим",
-        "pt": "Modo escuro implementado",
-        "nl": "Vertaling:",
-        "fr": "Mode foncé appliqué",
-        "it": "Modalità oscura implementata",
-        "es": "Modo oscuro implementado",
-        "pl": "Implementacja mrocznego trybu",
-        "uk": "Реалізовано темний режим",
-        "zh-cn": "执行黑暗模式"
-      },
-      "0.2.3": {
-        "en": "update packages",
-        "de": "update-pakete",
-        "ru": "обновление пакетов",
-        "pt": "pacotes de atualização",
-        "nl": "vertaling:",
-        "fr": "mettre à jour les paquets",
-        "it": "pacchetti di aggiornamento",
-        "es": "actualizar paquetes",
-        "pl": "pakiet aktualizacji",
-        "uk": "оновлення пакетів",
-        "zh-cn": "更新包"
-      },
-      "0.2.2": {
-        "en": "Updated thermostat widget",
-        "de": "Aktualisierte Thermostat Widget",
-        "ru": "Обновленный виджет термостата",
-        "pt": "Widget de termostato atualizado",
-        "nl": "Quality over Quantity (QoQ) Releases Vertaling:",
-        "fr": "Widget thermostat mis à jour",
-        "it": "Widget termostato aggiornato",
-        "es": "Widget termostato actualizado",
-        "pl": "Widgetacja termostatowa",
-        "uk": "Оновлений термостат віджет",
-        "zh-cn": "二. 更新的动荡情况"
       }
     },
     "title": "Vis 2 Jaeger Styled Widgets",
@@ -126,8 +126,8 @@
     "connectionType": "cloud",
     "dataSource": "poll",
     "visWidgets": {
-      "i18n": "component",
       "vis2jaegerDesignWidgets": {
+        "i18n": "component",
         "name": "vis2jaegerDesignWidgets",
         "url": "vis-2-widgets-jaeger-design/customWidgets.js",
         "components": [

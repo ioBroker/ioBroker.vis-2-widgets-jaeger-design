@@ -1,6 +1,6 @@
 {
   "name": "iobroker.vis-2-widgets-jaeger-design",
-  "version": "0.4.3",
+  "version": "0.6.3",
   "description": "ioBroker vis2 jaeger widgets",
   "author": "bluefox <dogafox@gmail.com>",
   "contributors": [
@@ -20,12 +20,12 @@
   ],
   "dependencies": {},
   "devDependencies": {
-    "@alcalzone/release-script": "^3.5.9",
-    "@alcalzone/release-script-plugin-iobroker": "^3.5.9",
+    "@alcalzone/release-script": "^3.6.0",
+    "@alcalzone/release-script-plugin-iobroker": "^3.6.0",
     "@alcalzone/release-script-plugin-license": "^3.5.9",
     "gulp": "^4.0.2",
     "mocha": "^10.2.0",
-    "@iobroker/vis-2-widgets-react-dev": "^0.4.0",
+    "@iobroker/vis-2-widgets-react-dev": "^0.4.4",
     "@iobroker/vis-2-widgets-testing": "^0.2.7"
   },
   "main": "main.js",
@@ -47,7 +47,8 @@
     "release-minor": "release-script minor --yes",
     "release-major": "release-script major --yes",
     "test": "mocha ./test/*.test.js",
-    "update-packages": "ncu --upgrade && cd src-widgets && ncu --upgrade && cd .."
+    "update-packages": "ncu --upgrade && cd src-widgets && ncu --upgrade && cd ..",
+    "npm": "npm i && cd src-widgets && npm i -f"
   },
   "bugs": {
     "url": "https://github.com/ioBroker/ioBroker.vis-2-widgets-jaeger-design/issues"
