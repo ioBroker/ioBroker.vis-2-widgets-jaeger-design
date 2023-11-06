@@ -34,6 +34,36 @@ And then use `javascript.0.rss` object in this widget.
     ### **WORK IN PROGRESS**
 -->
 ## Changelog
+### 1.0.8 (2023-11-06)
+* (bluefox) Corrected the cameras widget
+
+### 1.0.7 (2023-10-31)
+* (bluefox) Added possibility to reorder info on status bar
+
+### 1.0.5 (2023-10-17)
+* (bluefox) Corrected error with fakeView
+
+### 1.0.4 (2023-10-10)
+* (bluefox) Corrected layout of thermostat
+
+### 1.0.3 (2023-10-10)
+* (bluefox) Corrected error if shutter was inverted
+
+### 1.0.2 (2023-09-28)
+* (bluefox) Corrected touch behavior for dimmer and shutter
+
+### 1.0.1 (2023-09-26)
+* (bluefox) Corrected small issues
+
+### 1.0.0 (2023-08-11)
+* (bluefox) Changed style of shutter and state widgets
+
+### 0.6.5 (2023-08-09)
+* (bluefox) Corrected view selector and empty menu item
+
+### 0.6.4 (2023-07-31)
+* (bluefox) Set constant width and height of thermostat icons
+
 ### 0.6.3 (2023-07-25)
 * (bluefox) Added many new features
 
