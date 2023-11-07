@@ -34,6 +34,9 @@ And then use `javascript.0.rss` object in this widget.
     ### **WORK IN PROGRESS**
 -->
 ## Changelog
+### 1.0.9 (2023-11-07)
+* (bluefox) Allowed setting distance between actions and scenes on the home page
+
 ### 1.0.8 (2023-11-06)
 * (bluefox) Corrected the cameras widget
 

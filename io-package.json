@@ -1,8 +1,21 @@
 {
   "common": {
     "name": "vis-2-widgets-jaeger-design",
-    "version": "1.0.8",
+    "version": "1.0.9",
     "news": {
+      "1.0.9": {
+        "en": "Allowed setting distance between actions and scenes on the home page",
+        "de": "Erlaubte Einstellung Abstand zwischen Aktionen und Szenen auf der Startseite",
+        "ru": "Допустимое расстояние между действиями и сценами на главной странице",
+        "pt": "Distância de configuração permitida entre ações e cenas na página inicial",
+        "nl": "Gestreepte afstand tussen acties en scènes op de thuispagina",
+        "fr": "Distance de réglage entre les actions et les scènes sur la page d'accueil",
+        "it": "Consente di impostare la distanza tra azioni e scene nella home page",
+        "es": "Permitido establecer distancia entre acciones y escenas en la página principal",
+        "pl": "Wszystko oceniono dystans między działaniami i scenami na stronie internetowej domu",
+        "uk": "Дозвольте встановити відстань між діями і сценами на головній сторінці",
+        "zh-cn": "允许在主页上采取行动和现场间隔。"
+      },
       "1.0.8": {
         "en": "Corrected the cameras widget",
         "de": "Korrektur der Kameras Widget",
@@ -80,19 +93,6 @@
         "pl": "Nieprawidłowe błędy, jeśli kula została odwrócona",
         "uk": "Виправлена помилка, якщо вимкнено",
         "zh-cn": "如果穿梭被烧毁,则纠正错误。"
-      },
-      "1.0.2": {
-        "en": "Corrected touch behavior for dimmer and shutter",
-        "de": "Korrigiertes Berührungsverhalten für Dimmer und Shutter",
-        "ru": "Исправлено поведение касания для погружения и затвора",
-        "pt": "Comportamento de toque correto para dimmer e obturador",
-        "nl": "Gecorrigeerd gedrag voor dimmer en sluiter",
-        "fr": "Comportement tactile corrigé pour plonger et arrêter",
-        "it": "Comportamento tatto corretto per dimmer e shutter",
-        "es": "Comportamiento de contacto corregido para dimmer y obturador",
-        "pl": "Poprawne zachowanie dotyczące się dymmera i szablonku",
-        "uk": "Виправлена сенсорна поведінка для занурення і затвору",
-        "zh-cn": "直截了当和穿梭的行为"
       }
     },
     "title": "Vis 2 Jaeger Styled Widgets",
