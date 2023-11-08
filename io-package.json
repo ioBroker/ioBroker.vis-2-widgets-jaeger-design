@@ -1,8 +1,21 @@
 {
   "common": {
     "name": "vis-2-widgets-jaeger-design",
-    "version": "1.0.9",
+    "version": "1.0.10",
     "news": {
+      "1.0.10": {
+        "en": "Corrected error with scenes\nImproved state widget with custom icons",
+        "de": "Korrigierter Fehler mit Szenen\nVerbessertes State Widget mit benutzerdefinierten Icons",
+        "ru": "Исправлена ошибка с сценами\nУлучшенный виджет состояния с пользовательскими иконками",
+        "pt": "Erro corrigido com cenas\nMelhor widget de estado com ícones personalizados",
+        "nl": "Gecorrigeerde fout met scènes\nImproviserende staatswidget met gebruikelijke iconen",
+        "fr": "Erreur corrigée avec des scènes\nUn widget d'état amélioré avec des icônes personnalisées",
+        "it": "Errore corretto con scene\nWidget stato migliorato con icone personalizzate",
+        "es": "Error corregido con escenas\nWidget de estado mejorado con iconos personalizados",
+        "pl": "Nieprawdopodobny błąd z scenami\nImprovement widget with customowymi ikonami",
+        "uk": "Виправлена помилка з сценами\nПокращений державний віджет з користувальницьких ікон",
+        "zh-cn": "地点的错误\nA. 改善国家围困状况"
+      },
       "1.0.9": {
         "en": "Allowed setting distance between actions and scenes on the home page",
         "de": "Erlaubte Einstellung Abstand zwischen Aktionen und Szenen auf der Startseite",
@@ -80,19 +93,6 @@
         "pl": "Poprawny układ termostatu",
         "uk": "Правильне планування термостату",
         "zh-cn": "动荡不安的爆发"
-      },
-      "1.0.3": {
-        "en": "Corrected error if shutter was inverted",
-        "de": "Fehler behoben, wenn der Shutter invertiert wurde",
-        "ru": "Исправлена ошибка, если затвор был инвертирован",
-        "pt": "Erro correto se o obturador foi invertido",
-        "nl": "Correctie fout als sluiter werd omgedraaid",
-        "fr": "Erreur corrigée si le volet était inversé",
-        "it": "Errore corretto se l'otturatore è stato invertito",
-        "es": "Error corregido si el obturador fue invertido",
-        "pl": "Nieprawidłowe błędy, jeśli kula została odwrócona",
-        "uk": "Виправлена помилка, якщо вимкнено",
-        "zh-cn": "如果穿梭被烧毁,则纠正错误。"
       }
     },
     "title": "Vis 2 Jaeger Styled Widgets",

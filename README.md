@@ -34,6 +34,10 @@ And then use `javascript.0.rss` object in this widget.
     ### **WORK IN PROGRESS**
 -->
 ## Changelog
+### 1.0.10 (2023-11-08)
+* (bluefox) Corrected error with scenes
+* (bluefox) Improved state widget with custom icons
+
 ### 1.0.9 (2023-11-07)
 * (bluefox) Allowed setting distance between actions and scenes on the home page
 
