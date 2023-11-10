@@ -1,8 +1,21 @@
 {
   "common": {
     "name": "vis-2-widgets-jaeger-design",
-    "version": "1.0.10",
+    "version": "1.0.11",
     "news": {
+      "1.0.11": {
+        "en": "Corrected error local variables and controls",
+        "de": "Korrigierte Fehlerlokalvariablen und -kontrollen",
+        "ru": "Исправлена ошибка локальных переменных и управления",
+        "pt": "Variáveis e controles locais de erro corrigidos",
+        "nl": "Gecorrigeerde fouten in de lokale variabelen en controles",
+        "fr": "Correction des variables locales et des contrôles",
+        "it": "Corretto errore variabili e controlli locali",
+        "es": "Error corregido variables y controles locales",
+        "pl": "Postępowanie błędów lokalnych zmiennych i sterowania",
+        "uk": "Виправлено помилку локальних змінних та керування",
+        "zh-cn": "纠正当地变量和控制的错误"
+      },
       "1.0.10": {
         "en": "Corrected error with scenes\nImproved state widget with custom icons",
         "de": "Korrigierter Fehler mit Szenen\nVerbessertes State Widget mit benutzerdefinierten Icons",
@@ -80,19 +93,6 @@
         "pl": "Nieprawdopodobny błąd z fałszywym błędem. Widok",
         "uk": "Виправлена помилка з підробкою Переглянути",
         "zh-cn": "错误与缺陷相左 评 注"
-      },
-      "1.0.4": {
-        "en": "Corrected layout of thermostat",
-        "de": "Korrigiertes Layout des Thermostats",
-        "ru": "Исправлена планировка термостата",
-        "pt": "Layout corrigido do termostato",
-        "nl": "Vertaling:",
-        "fr": "Mise en page corrigée du thermostat",
-        "it": "Layout corretto del termostato",
-        "es": "Diseño corregido del termostato",
-        "pl": "Poprawny układ termostatu",
-        "uk": "Правильне планування термостату",
-        "zh-cn": "动荡不安的爆发"
       }
     },
     "title": "Vis 2 Jaeger Styled Widgets",
