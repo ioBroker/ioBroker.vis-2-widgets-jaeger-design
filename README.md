@@ -34,6 +34,16 @@ And then use `javascript.0.rss` object in this widget.
     ### **WORK IN PROGRESS**
 -->
 ## Changelog
+### 1.0.12 (2023-11-22)
+* (bluefox) Allowed reordering of the actions and scenes
+* (bluefox) Added new option to show scenes before actions
+* (bluefox) Added option to show value in dimmer
+* (bluefox) Added option for adjustable width of the right view on home page
+* (bluefox) Added option to provide icons for scenes and actions
+* (bluefox) Added option set the distance between menu items
+* (bluefox) Added possibility to set control value for scenes
+* (bluefox) Added possibility adjust font size for scenes and actions
+
 ### 1.0.11 (2023-11-10)
 * (bluefox) Corrected error local variables and controls
 
