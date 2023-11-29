@@ -1,8 +1,21 @@
 {
   "common": {
     "name": "vis-2-widgets-jaeger-design",
-    "version": "1.0.12",
+    "version": "1.1.0",
     "news": {
+      "1.1.0": {
+        "en": "Corrected license check\nAdded class names to all important layout components",
+        "de": "Korrigierte Lizenzprüfung\nHinzugefügt Klassennamen zu allen wichtigen Layout-Komponenten",
+        "ru": "Исправлена проверка лицензии\nДобавлены имена классов для всех важных элементов планировки",
+        "pt": "Verificação de licença correta\nNomes de classe adicionados a todos os componentes de layout importantes",
+        "nl": "Vertaling:\nVoegde klassenamen toe aan alle belangrijke onderdelen",
+        "fr": "Vérification de la licence corrigée\nAjout de noms de classe à tous les composants de mise en page importants",
+        "it": "Controllo della licenza corretto\nAggiunto nomi di classe a tutti i componenti di layout importanti",
+        "es": "Control de licencia corregido\nNombres de clase añadidos a todos los componentes importantes de diseño",
+        "pl": "Poprawka\nNazwy klasy dopasowane do wszystkich ważnych komponentów obliczeniowych",
+        "uk": "Виправлена перевірка ліцензії\nДодано назви класів для всіх важливих компонентів макета",
+        "zh-cn": "更正的许可证检查\n加入所有重要布局组成部分的阶级名单"
+      },
       "1.0.12": {
         "en": "Allowed reordering of the actions and scenes\nAdded new option to show scenes before actions\nAdded option to show value in dimmer\nAdded option for adjustable width of the right view on home page\nAdded option to provide icons for scenes and actions\nAdded option set the distance between menu items\nAdded possibility to set control value for scenes\nAdded possibility adjust font size for scenes and actions",
         "de": "Erlaubte Neuordnung der Handlungen und Szenen\nNeue Möglichkeit, Szenen vor Aktionen zu zeigen\nOption hinzugefügt, um Wert in Dimmer anzeigen\nOption zur einstellbaren Breite der rechten Ansicht auf der Startseite hinzugefügt\nOption hinzugefügt, um Icons für Szenen und Aktionen bereitzustellen\nOption hinzugefügt, um den Abstand zwischen Menüpunkten festzulegen\nMöglichkeit, den Steuerwert für Szenen einzustellen\nMöglichkeit hinzugefügt, Schriftgröße für Szenen und Aktionen anzupassen",
@@ -69,19 +82,6 @@
         "zh-cn": "更正摄像机组"
       },
       "1.0.7": {
-        "en": "Added possibility to reorder info on status bar",
-        "de": "Möglichkeit zur Neubestellung von Informationen auf der Statusleiste",
-        "ru": "Добавлена возможность перезаказать информацию о статус-баре",
-        "pt": "Adicionado possibilidade de reordenar informações na barra de status",
-        "nl": "Toegevoegd om informatie te herstellen over de staatsbar",
-        "fr": "Possibilité de réorganiser des informations sur la barre de statut",
-        "it": "Aggiunto possibilità di riordinare informazioni sulla barra di stato",
-        "es": "Añadido posibilidad de reordenar información sobre barra de estado",
-        "pl": "Wstępna możliwość reorderu informacji na temat statusu baru",
-        "uk": "Додана можливість перезамовити інформацію про рядок стану",
-        "zh-cn": "增加重新确定地位律师协会的可能性"
-      },
-      "1.0.6": {
         "en": "Added possibility to reorder info on status bar",
         "de": "Möglichkeit zur Neubestellung von Informationen auf der Statusleiste",
         "ru": "Добавлена возможность перезаказать информацию о статус-баре",
