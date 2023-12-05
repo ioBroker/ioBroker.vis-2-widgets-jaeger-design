@@ -1,8 +1,21 @@
 {
   "common": {
     "name": "vis-2-widgets-jaeger-design",
-    "version": "1.1.0",
+    "version": "1.1.5",
     "news": {
+      "1.1.5": {
+        "en": "Added an option to start action or scene from new line",
+        "de": "Hinzufügen einer Option, um Aktion oder Szene von der neuen Zeile zu starten",
+        "ru": "Добавлена возможность начать действие или сцену из новой строки",
+        "pt": "Adicionado uma opção para iniciar a ação ou cena de nova linha",
+        "nl": "Voeg een optie toe om actie te starten of scène van een nieuwe lijn",
+        "fr": "Ajout d'une option pour lancer l'action ou la scène de la nouvelle ligne",
+        "it": "Aggiunto un'opzione per avviare azione o scena da nuova linea",
+        "es": "Se agregó una opción para iniciar la acción o la escena desde nueva línea",
+        "pl": "Dodał możliwość rozpoczęcia akcji lub sceny z nowej linii",
+        "uk": "Додано варіант запуску дії або сцени з нової лінії",
+        "zh-cn": "增加从新线开始行动或地点的选择"
+      },
       "1.1.0": {
         "en": "Corrected license check\nAdded class names to all important layout components",
         "de": "Korrigierte Lizenzprüfung\nHinzugefügt Klassennamen zu allen wichtigen Layout-Komponenten",
@@ -67,32 +80,6 @@
         "pl": "Wszystko oceniono dystans między działaniami i scenami na stronie internetowej domu",
         "uk": "Дозвольте встановити відстань між діями і сценами на головній сторінці",
         "zh-cn": "允许在主页上采取行动和现场间隔。"
-      },
-      "1.0.8": {
-        "en": "Corrected the cameras widget",
-        "de": "Korrektur der Kameras Widget",
-        "ru": "Исправлен виджет камер",
-        "pt": "Corrigido o widget das câmeras",
-        "nl": "Correctie van de camera's",
-        "fr": "Correction des caméras widget",
-        "it": "Corretto il widget delle telecamere",
-        "es": "Corregido el widget de las cámaras",
-        "pl": "Poprawione kamery widget",
-        "uk": "Виправлено віджет камер",
-        "zh-cn": "更正摄像机组"
-      },
-      "1.0.7": {
-        "en": "Added possibility to reorder info on status bar",
-        "de": "Möglichkeit zur Neubestellung von Informationen auf der Statusleiste",
-        "ru": "Добавлена возможность перезаказать информацию о статус-баре",
-        "pt": "Adicionado possibilidade de reordenar informações na barra de status",
-        "nl": "Toegevoegd om informatie te herstellen over de staatsbar",
-        "fr": "Possibilité de réorganiser des informations sur la barre de statut",
-        "it": "Aggiunto possibilità di riordinare informazioni sulla barra di stato",
-        "es": "Añadido posibilidad de reordenar información sobre barra de estado",
-        "pl": "Wstępna możliwość reorderu informacji na temat statusu baru",
-        "uk": "Додана можливість перезамовити інформацію про рядок стану",
-        "zh-cn": "增加重新确定地位律师协会的可能性"
       }
     },
     "title": "Vis 2 Jaeger Styled Widgets",
