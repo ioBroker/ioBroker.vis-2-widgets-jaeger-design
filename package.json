@@ -1,6 +1,6 @@
 {
   "name": "iobroker.vis-2-widgets-jaeger-design",
-  "version": "1.1.5",
+  "version": "1.1.7",
   "description": "ioBroker vis2 jaeger widgets",
   "author": "bluefox <dogafox@gmail.com>",
   "contributors": [
@@ -28,7 +28,6 @@
     "@iobroker/vis-2-widgets-react-dev": "^1.0.5",
     "@iobroker/vis-2-widgets-testing": "^0.3.0"
   },
-  "main": "main.js",
   "files": [
     "admin/",
     "img/",
