@@ -1,8 +1,21 @@
 {
   "common": {
     "name": "vis-2-widgets-jaeger-design",
-    "version": "1.1.8",
+    "version": "1.1.10",
     "news": {
+      "1.1.10": {
+        "en": "Small changes on layout and added new distance settings",
+        "de": "Kleine Änderungen im Layout und neue Abstandseinstellungen",
+        "ru": "Небольшие изменения в макете и добавленные новые настройки расстояния",
+        "pt": "Pequenas mudanças no layout e adicionadas novas configurações de distância",
+        "nl": "Kleine wijzigingen op lay-out en nieuwe afstandsinstellingen toegevoegd",
+        "fr": "Petits changements sur la disposition et ajout de nouveaux paramètres de distance",
+        "it": "Piccoli cambiamenti sul layout e nuove impostazioni della distanza",
+        "es": "Pequeños cambios en el diseño y nuevos ajustes de distancia",
+        "pl": "Małe zmiany układu i dodane nowe ustawienia odległości",
+        "uk": "Невеликі зміни на макеті і додані нові налаштування відстані",
+        "zh-cn": "在布局上小幅变化并添加新的距离设置"
+      },
       "1.1.8": {
         "en": "Corrected info button in mobile view",
         "de": "Korrigierte Info-Taste in mobiler Ansicht",
@@ -80,19 +93,6 @@
         "pl": "Nieprawdopodobny błąd z scenami\nImprovement widget with customowymi ikonami",
         "uk": "Виправлена помилка з сценами\nПокращений державний віджет з користувальницьких ікон",
         "zh-cn": "地点的错误\nA. 改善国家围困状况"
-      },
-      "1.0.9": {
-        "en": "Allowed setting distance between actions and scenes on the home page",
-        "de": "Erlaubte Einstellung Abstand zwischen Aktionen und Szenen auf der Startseite",
-        "ru": "Допустимое расстояние между действиями и сценами на главной странице",
-        "pt": "Distância de configuração permitida entre ações e cenas na página inicial",
-        "nl": "Gestreepte afstand tussen acties en scènes op de thuispagina",
-        "fr": "Distance de réglage entre les actions et les scènes sur la page d'accueil",
-        "it": "Consente di impostare la distanza tra azioni e scene nella home page",
-        "es": "Permitido establecer distancia entre acciones y escenas en la página principal",
-        "pl": "Wszystko oceniono dystans między działaniami i scenami na stronie internetowej domu",
-        "uk": "Дозвольте встановити відстань між діями і сценами на головній сторінці",
-        "zh-cn": "允许在主页上采取行动和现场间隔。"
       }
     },
     "title": "Vis 2 Jaeger Styled Widgets",
