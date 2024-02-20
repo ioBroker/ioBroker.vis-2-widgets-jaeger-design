@@ -1,8 +1,21 @@
 {
   "common": {
     "name": "vis-2-widgets-jaeger-design",
-    "version": "1.1.10",
+    "version": "1.1.12",
     "news": {
+      "1.1.12": {
+        "en": "Corrected some layout issues",
+        "de": "Einige Layoutprobleme korrigiert",
+        "ru": "Исправлены некоторые вопросы макета",
+        "pt": "Corrigido alguns problemas de layout",
+        "nl": "Enkele lay-outproblemen gecorrigeerd",
+        "fr": "Correction de certains problèmes de mise en page",
+        "it": "Corretto alcuni problemi di layout",
+        "es": "Corregido algunos problemas de diseño",
+        "pl": "Naprawiono kilka problemów z układem",
+        "uk": "Виправлено деякі проблеми планування",
+        "zh-cn": "纠正了一些布局问题"
+      },
       "1.1.10": {
         "en": "Small changes on layout and added new distance settings",
         "de": "Kleine Änderungen im Layout und neue Abstandseinstellungen",
@@ -80,20 +93,11 @@
         "pl": "Postępowanie błędów lokalnych zmiennych i sterowania",
         "uk": "Виправлено помилку локальних змінних та керування",
         "zh-cn": "纠正当地变量和控制的错误"
-      },
-      "1.0.10": {
-        "en": "Corrected error with scenes\nImproved state widget with custom icons",
-        "de": "Korrigierter Fehler mit Szenen\nVerbessertes State Widget mit benutzerdefinierten Icons",
-        "ru": "Исправлена ошибка с сценами\nУлучшенный виджет состояния с пользовательскими иконками",
-        "pt": "Erro corrigido com cenas\nMelhor widget de estado com ícones personalizados",
-        "nl": "Gecorrigeerde fout met scènes\nImproviserende staatswidget met gebruikelijke iconen",
-        "fr": "Erreur corrigée avec des scènes\nUn widget d'état amélioré avec des icônes personnalisées",
-        "it": "Errore corretto con scene\nWidget stato migliorato con icone personalizzate",
-        "es": "Error corregido con escenas\nWidget de estado mejorado con iconos personalizados",
-        "pl": "Nieprawdopodobny błąd z scenami\nImprovement widget with customowymi ikonami",
-        "uk": "Виправлена помилка з сценами\nПокращений державний віджет з користувальницьких ікон",
-        "zh-cn": "地点的错误\nA. 改善国家围困状况"
       }
+    },
+    "licenseInformation": {
+      "type": "commercial",
+      "link": "https://github.com/ioBroker/ioBroker.vis-2-widgets-jaeger-design/blob/master/LICENSE"
     },
     "title": "Vis 2 Jaeger Styled Widgets",
     "titleLang": {
