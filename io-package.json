@@ -1,8 +1,21 @@
 {
   "common": {
     "name": "vis-2-widgets-jaeger-design",
-    "version": "1.1.12",
+    "version": "1.1.14",
     "news": {
+      "1.1.14": {
+        "en": "Added top info in the mobile view",
+        "de": "Top-Info in der mobilen Ansicht hinzugefügt",
+        "ru": "Добавлена информация в мобильном виде",
+        "pt": "Adicionado top info na visualização móvel",
+        "nl": "Topinfo toegevoegd in de mobiele weergave",
+        "fr": "Ajout d'informations dans la vue mobile",
+        "it": "Aggiunto le migliori informazioni nella vista mobile",
+        "es": "Información adicional en la vista móvil",
+        "pl": "Dodano najlepsze informacje w widoku mobilnym",
+        "uk": "Додана інформація про місто",
+        "zh-cn": "在移动视图中添加了顶端信息"
+      },
       "1.1.12": {
         "en": "Corrected some layout issues",
         "de": "Einige Layoutprobleme korrigiert",
@@ -80,19 +93,6 @@
         "pl": "Wszystko ocenił działania i sceny\nDodano nowe opcje pokazujące sceny przed akcją\nWstępna opcja pokazuje wartości w dalszym ciągu\nWstępna opcja dla dostosowalnej szerokości prawego widoku na stronę domową\nWstępna opcja dostarcza ikon do scen i działań\nWstępna opcja oznacza odległość pomiędzy przedmiotami menu\nWstępna możliwość podłożenia wartości sterowania dla scen\nDostosowywanie rozmiaru czcionki do scen i działań",
         "uk": "Допускається повторення дій і сцен\nДодано новий варіант показати сцени перед діями\nДодано варіант показати значення в dimmer\nДодано варіант для регульованої ширини правого вигляду на головній сторінці\nДодана можливість надати іконки для сцен і дій\nДодано параметр встановити відстань між пунктами меню\nДодано можливість встановити значення керування для сцен\nДодана можливість регулювати розмір шрифту для сцен і дій",
         "zh-cn": "允许重新安排行动和地点\n增加新的选择,以便在行动前展示现场。\n增加一线显示价值的选择\n增加在家页上调整正确观点的选择\n增加提供场地和行动的选择\n增加的选择规定男性物品之间的距离\n增加确定现场控制价值的可能性\n增加可能调整场地规模和行动"
-      },
-      "1.0.11": {
-        "en": "Corrected error local variables and controls",
-        "de": "Korrigierte Fehlerlokalvariablen und -kontrollen",
-        "ru": "Исправлена ошибка локальных переменных и управления",
-        "pt": "Variáveis e controles locais de erro corrigidos",
-        "nl": "Gecorrigeerde fouten in de lokale variabelen en controles",
-        "fr": "Correction des variables locales et des contrôles",
-        "it": "Corretto errore variabili e controlli locali",
-        "es": "Error corregido variables y controles locales",
-        "pl": "Postępowanie błędów lokalnych zmiennych i sterowania",
-        "uk": "Виправлено помилку локальних змінних та керування",
-        "zh-cn": "纠正当地变量和控制的错误"
       }
     },
     "licenseInformation": {

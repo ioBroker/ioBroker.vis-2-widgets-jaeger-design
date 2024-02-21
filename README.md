@@ -34,6 +34,9 @@ And then use `javascript.0.rss` object in this widget.
     ### **WORK IN PROGRESS**
 -->
 ## Changelog
+### 1.1.14 (2024-02-21)
+* (bluefox) Added top info in the mobile view
+
 ### 1.1.12 (2024-02-20)
 * (bluefox) Corrected some layout issues
 
