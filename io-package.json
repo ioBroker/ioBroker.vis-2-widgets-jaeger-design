@@ -1,8 +1,21 @@
 {
   "common": {
     "name": "vis-2-widgets-jaeger-design",
-    "version": "1.1.14",
+    "version": "1.1.15",
     "news": {
+      "1.1.15": {
+        "en": "Improved dimmer widget",
+        "de": "Verbessertes Dimmer-Widget",
+        "ru": "Улучшенный виджет",
+        "pt": "Melhor widget dimmer",
+        "nl": "Verbeterde dimmer-widget",
+        "fr": "Widget variateur amélioré",
+        "it": "Widget dimmer migliorato",
+        "es": "Widget de martillo mejorado",
+        "pl": "Ulepszony widżet ściemniacza",
+        "uk": "Покращений віджет Dimmer",
+        "zh-cn": "改进的 dimmer 部件"
+      },
       "1.1.14": {
         "en": "Added top info in the mobile view",
         "de": "Top-Info in der mobilen Ansicht hinzugefügt",
@@ -80,19 +93,6 @@
         "pl": "Poprawka\nNazwy klasy dopasowane do wszystkich ważnych komponentów obliczeniowych",
         "uk": "Виправлена перевірка ліцензії\nДодано назви класів для всіх важливих компонентів макета",
         "zh-cn": "更正的许可证检查\n加入所有重要布局组成部分的阶级名单"
-      },
-      "1.0.12": {
-        "en": "Allowed reordering of the actions and scenes\nAdded new option to show scenes before actions\nAdded option to show value in dimmer\nAdded option for adjustable width of the right view on home page\nAdded option to provide icons for scenes and actions\nAdded option set the distance between menu items\nAdded possibility to set control value for scenes\nAdded possibility adjust font size for scenes and actions",
-        "de": "Erlaubte Neuordnung der Handlungen und Szenen\nNeue Möglichkeit, Szenen vor Aktionen zu zeigen\nOption hinzugefügt, um Wert in Dimmer anzeigen\nOption zur einstellbaren Breite der rechten Ansicht auf der Startseite hinzugefügt\nOption hinzugefügt, um Icons für Szenen und Aktionen bereitzustellen\nOption hinzugefügt, um den Abstand zwischen Menüpunkten festzulegen\nMöglichkeit, den Steuerwert für Szenen einzustellen\nMöglichkeit hinzugefügt, Schriftgröße für Szenen und Aktionen anzupassen",
-        "ru": "Разрешено перезаказ действий и сцен\nДобавлен новый вариант, чтобы показать сцены перед действиями\nДобавлена возможность показать значение в dimmer\nДобавлена опция для регулируемой ширины правильного просмотра на главной странице\nДобавлена возможность предоставления иконок для сцен и действий\nДобавлена опция установить расстояние между пунктами меню\nДобавлена возможность установки контрольной ценности для сцен\nДобавлена возможность корректировать размер шрифта для сцен и действий",
-        "pt": "Reordenação permitida das ações e cenas\nAdicionado nova opção para mostrar cenas antes de ações\nAdicionado opção para mostrar valor em dimmer\nOpção adicionada para largura ajustável da vista certa na página inicial\nOpção adicionada para fornecer ícones para cenas e ações\nOpção adicionada definir a distância entre itens de menu\nAdicionado possibilidade de definir o valor de controle para cenas\nAdicionado possibilidade ajustar o tamanho da fonte para cenas e ações",
-        "nl": "Genoemde herordering van de acties en scènes\nVoeg nieuwe optie toe om scènes te laten zien voor acties\nToegevoegd optie om waarde te tonen in dimmer\nAangepaste optie voor aanpassing van het juiste uitzicht op de thuispagina\nToegevoegd optie om iconen te geven voor scènes en acties\nDe optie plaatst de afstand tussen menu items\nToegevoegd om de controlewaarde voor scènes te stellen\nToegevoegd de mogelijkheid aanpassen voor de scène en acties",
-        "fr": "Réorganisation des actions et des scènes\nAjout d'une nouvelle option pour montrer les scènes avant les actions\nOption supplémentaire pour afficher la valeur en dimmer\nOption supplémentaire pour la largeur réglable de la vue droite sur la page d'accueil\nOption supplémentaire pour fournir des icônes pour des scènes et des actions\nAjout de l'option définir la distance entre les éléments du menu\nPossibilité de définir la valeur de contrôle pour les scènes\nAjout de possibilité ajuster la taille de police pour les scènes et les actions",
-        "it": "Consentito riordinare le azioni e le scene\nAggiunta nuova opzione per mostrare le scene prima delle azioni\nAggiunta opzione per mostrare il valore in dimmer\nAggiunta opzione per larghezza regolabile della vista destra sulla home page\nAggiunta opzione per fornire icone per scene e azioni\nOpzione aggiunta impostare la distanza tra menu elementi\nAggiunta possibilità di impostare il valore di controllo per le scene\nAggiunta possibilità regolare dimensione del carattere per scene e azioni",
-        "es": "Permitido reordenar las acciones y escenas\nNueva opción para mostrar escenas antes de acciones\nOpción adicional para mostrar el valor en dimmer\nOpción adicional para el ancho ajustable de la vista correcta en la página de inicio\nOpción agregada para proporcionar iconos para escenas y acciones\nLa opción agregada establece la distancia entre los elementos del menú\nMayor posibilidad de establecer el valor de control para escenas\nMayor posibilidad de ajustar el tamaño de la fuente para escenas y acciones",
-        "pl": "Wszystko ocenił działania i sceny\nDodano nowe opcje pokazujące sceny przed akcją\nWstępna opcja pokazuje wartości w dalszym ciągu\nWstępna opcja dla dostosowalnej szerokości prawego widoku na stronę domową\nWstępna opcja dostarcza ikon do scen i działań\nWstępna opcja oznacza odległość pomiędzy przedmiotami menu\nWstępna możliwość podłożenia wartości sterowania dla scen\nDostosowywanie rozmiaru czcionki do scen i działań",
-        "uk": "Допускається повторення дій і сцен\nДодано новий варіант показати сцени перед діями\nДодано варіант показати значення в dimmer\nДодано варіант для регульованої ширини правого вигляду на головній сторінці\nДодана можливість надати іконки для сцен і дій\nДодано параметр встановити відстань між пунктами меню\nДодано можливість встановити значення керування для сцен\nДодана можливість регулювати розмір шрифту для сцен і дій",
-        "zh-cn": "允许重新安排行动和地点\n增加新的选择,以便在行动前展示现场。\n增加一线显示价值的选择\n增加在家页上调整正确观点的选择\n增加提供场地和行动的选择\n增加的选择规定男性物品之间的距离\n增加确定现场控制价值的可能性\n增加可能调整场地规模和行动"
       }
     },
     "licenseInformation": {
