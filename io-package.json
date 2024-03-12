@@ -1,20 +1,20 @@
 {
   "common": {
     "name": "vis-2-widgets-jaeger-design",
-    "version": "1.1.16",
+    "version": "1.1.19",
     "news": {
-      "1.1.16": {
-        "en": "Allowed to change the palette for every widget",
+      "1.1.19": {
+        "en": "Allowed changing the palette for every widget",
         "de": "Erlaubt, die Palette für jedes Widget zu ändern",
         "ru": "Позволяет изменить палитру для каждого виджета",
-        "pt": "Permitido mudar a paleta para cada widget",
-        "nl": "Palet voor elke widget wijzigen",
+        "pt": "Permitido alterar a paleta para cada widget",
+        "nl": "Palet voor elke widget wijzigen toegestaan",
         "fr": "Permet de changer la palette pour chaque widget",
-        "it": "Consentito di cambiare la tavolozza per ogni widget",
+        "it": "Consentito cambiare la tavolozza per ogni widget",
         "es": "Permitido cambiar la paleta para cada widget",
         "pl": "Dozwolone zmiany palety dla każdego widget",
         "uk": "Допускається зміна палітри для кожного віджету",
-        "zh-cn": "允许更改每个部件的调色板"
+        "zh-cn": "允许修改每个部件的调色板"
       },
       "1.1.15": {
         "en": "Improved dimmer widget",
@@ -80,19 +80,6 @@
         "pl": "Poprawiony przycisk info w widoku mobilnym",
         "uk": "Корисна інформація кнопка в мобільному виді",
         "zh-cn": "在移动视图中更正信息按钮"
-      },
-      "1.1.5": {
-        "en": "Added an option to start action or scene from new line",
-        "de": "Hinzufügen einer Option, um Aktion oder Szene von der neuen Zeile zu starten",
-        "ru": "Добавлена возможность начать действие или сцену из новой строки",
-        "pt": "Adicionado uma opção para iniciar a ação ou cena de nova linha",
-        "nl": "Voeg een optie toe om actie te starten of scène van een nieuwe lijn",
-        "fr": "Ajout d'une option pour lancer l'action ou la scène de la nouvelle ligne",
-        "it": "Aggiunto un'opzione per avviare azione o scena da nuova linea",
-        "es": "Se agregó una opción para iniciar la acción o la escena desde nueva línea",
-        "pl": "Dodał możliwość rozpoczęcia akcji lub sceny z nowej linii",
-        "uk": "Додано варіант запуску дії або сцени з нової лінії",
-        "zh-cn": "增加从新线开始行动或地点的选择"
       }
     },
     "licenseInformation": {
