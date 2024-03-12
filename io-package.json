@@ -1,8 +1,21 @@
 {
   "common": {
     "name": "vis-2-widgets-jaeger-design",
-    "version": "1.1.15",
+    "version": "1.1.16",
     "news": {
+      "1.1.16": {
+        "en": "Allowed to change the palette for every widget",
+        "de": "Erlaubt, die Palette für jedes Widget zu ändern",
+        "ru": "Позволяет изменить палитру для каждого виджета",
+        "pt": "Permitido mudar a paleta para cada widget",
+        "nl": "Palet voor elke widget wijzigen",
+        "fr": "Permet de changer la palette pour chaque widget",
+        "it": "Consentito di cambiare la tavolozza per ogni widget",
+        "es": "Permitido cambiar la paleta para cada widget",
+        "pl": "Dozwolone zmiany palety dla każdego widget",
+        "uk": "Допускається зміна палітри для кожного віджету",
+        "zh-cn": "允许更改每个部件的调色板"
+      },
       "1.1.15": {
         "en": "Improved dimmer widget",
         "de": "Verbessertes Dimmer-Widget",
@@ -80,19 +93,6 @@
         "pl": "Dodał możliwość rozpoczęcia akcji lub sceny z nowej linii",
         "uk": "Додано варіант запуску дії або сцени з нової лінії",
         "zh-cn": "增加从新线开始行动或地点的选择"
-      },
-      "1.1.0": {
-        "en": "Corrected license check\nAdded class names to all important layout components",
-        "de": "Korrigierte Lizenzprüfung\nHinzugefügt Klassennamen zu allen wichtigen Layout-Komponenten",
-        "ru": "Исправлена проверка лицензии\nДобавлены имена классов для всех важных элементов планировки",
-        "pt": "Verificação de licença correta\nNomes de classe adicionados a todos os componentes de layout importantes",
-        "nl": "Vertaling:\nVoegde klassenamen toe aan alle belangrijke onderdelen",
-        "fr": "Vérification de la licence corrigée\nAjout de noms de classe à tous les composants de mise en page importants",
-        "it": "Controllo della licenza corretto\nAggiunto nomi di classe a tutti i componenti di layout importanti",
-        "es": "Control de licencia corregido\nNombres de clase añadidos a todos los componentes importantes de diseño",
-        "pl": "Poprawka\nNazwy klasy dopasowane do wszystkich ważnych komponentów obliczeniowych",
-        "uk": "Виправлена перевірка ліцензії\nДодано назви класів для всіх важливих компонентів макета",
-        "zh-cn": "更正的许可证检查\n加入所有重要布局组成部分的阶级名单"
       }
     },
     "licenseInformation": {
