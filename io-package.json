@@ -1,8 +1,21 @@
 {
   "common": {
     "name": "vis-2-widgets-jaeger-design",
-    "version": "1.1.19",
+    "version": "1.1.20",
     "news": {
+      "1.1.20": {
+        "en": "Allowed changing font size for thermostat",
+        "de": "Erlaubte Änderung der Schriftgröße für Thermostat",
+        "ru": "Разрешено изменение размера шрифта для термостата",
+        "pt": "Permite alterar o tamanho da fonte para termostato",
+        "nl": "Toegestaan het veranderen van lettergrootte voor thermostaat",
+        "fr": "Permet de modifier la taille de police pour le thermostat",
+        "it": "Consente di modificare la dimensione del carattere per termostato",
+        "es": "Permitido cambiar el tamaño de fuente para el termostato",
+        "pl": "Dozwolone zmiany wielkości czcionki dla termostatu",
+        "uk": "Допускається зміна розміру шрифту для термостату",
+        "zh-cn": "允许更改自动调温器的字体大小"
+      },
       "1.1.19": {
         "en": "Allowed changing the palette for every widget",
         "de": "Erlaubt, die Palette für jedes Widget zu ändern",
