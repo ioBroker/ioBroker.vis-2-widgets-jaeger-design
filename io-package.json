@@ -97,7 +97,8 @@
     },
     "licenseInformation": {
       "type": "commercial",
-      "link": "https://github.com/ioBroker/ioBroker.vis-2-widgets-jaeger-design/blob/master/LICENSE"
+      "license": "MIT",
+      "link": "https://iobroker.net/www/pricing#commercial"
     },
     "title": "Vis 2 Jaeger Styled Widgets",
     "titleLang": {
@@ -112,7 +113,6 @@
     "keywords": [
       "vis-2-widgets-jaeger-design"
     ],
-    "license": "MIT",
     "platform": "Javascript/Node.js",
     "icon": "vis-2-widgets-jaeger-design.png",
     "extIcon": "https://raw.githubusercontent.com/ioBroker/ioBroker.vis-2-widgets-jaeger-design/master/admin/vis-2-widgets-jaeger-design.png",
