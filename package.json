@@ -1,13 +1,13 @@
 {
   "name": "iobroker.vis-2-widgets-jaeger-design",
-  "version": "1.1.20",
+  "version": "1.1.21",
   "description": "ioBroker vis2 jaeger widgets",
   "author": "bluefox <dogafox@gmail.com>",
   "contributors": [
     "bluefox <dogafox@gmail.com>"
   ],
   "homepage": "https://github.com/ioBroker/ioBroker.vis-2-widgets-jaeger-design",
-  "license": "MIT",
+  "license": "SEE LICENSE IN LICENSE",
   "repository": {
     "type": "git",
     "url": "https://github.com/ioBroker/ioBroker.vis-2-widgets-jaeger-design"
@@ -25,8 +25,8 @@
     "@alcalzone/release-script-plugin-license": "^3.7.0",
     "gulp": "^4.0.2",
     "mocha": "^10.4.0",
-    "@iobroker/vis-2-widgets-react-dev": "^1.0.5",
-    "@iobroker/vis-2-widgets-testing": "^1.0.0"
+    "@iobroker/vis-2-widgets-react-dev": "^1.0.6",
+    "@iobroker/vis-2-widgets-testing": "^1.0.3"
   },
   "files": [
     "admin/",

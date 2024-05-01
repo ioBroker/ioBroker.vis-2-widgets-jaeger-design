@@ -1,8 +1,21 @@
 {
   "common": {
     "name": "vis-2-widgets-jaeger-design",
-    "version": "1.1.20",
+    "version": "1.1.21",
     "news": {
+      "1.1.21": {
+        "en": "Changed layout for mobile view",
+        "de": "Geändertes Layout für mobile Ansicht",
+        "ru": "Изменение макета для мобильного просмотра",
+        "pt": "Layout alterado para visualização móvel",
+        "nl": "Veranderde layout voor mobiele weergave",
+        "fr": "Mise en page modifiée pour la vue mobile",
+        "it": "Cambiato layout per la vista mobile",
+        "es": "Diseño cambiado para la vista móvil",
+        "pl": "Zmieniony układ widoku mobilnego",
+        "uk": "Змінено макет для мобільного вигляду",
+        "zh-cn": "移动视图改变布局"
+      },
       "1.1.20": {
         "en": "Allowed changing font size for thermostat",
         "de": "Erlaubte Änderung der Schriftgröße für Thermostat",
@@ -80,19 +93,6 @@
         "pl": "Małe zmiany układu i dodane nowe ustawienia odległości",
         "uk": "Невеликі зміни на макеті і додані нові налаштування відстані",
         "zh-cn": "在布局上小幅变化并添加新的距离设置"
-      },
-      "1.1.8": {
-        "en": "Corrected info button in mobile view",
-        "de": "Korrigierte Info-Taste in mobiler Ansicht",
-        "ru": "Корректированная кнопка информации в мобильном просмотре",
-        "pt": "Botão de informação correto na visualização móvel",
-        "nl": "Gecorrigeerde infoknop in mobiele weergave",
-        "fr": "Bouton info corrigé en vue mobile",
-        "it": "Pulsante di informazioni corretto in vista mobile",
-        "es": "Botón de información corregido en la vista móvil",
-        "pl": "Poprawiony przycisk info w widoku mobilnym",
-        "uk": "Корисна інформація кнопка в мобільному виді",
-        "zh-cn": "在移动视图中更正信息按钮"
       }
     },
     "licenseInformation": {
@@ -112,7 +112,6 @@
     "keywords": [
       "vis-2-widgets-jaeger-design"
     ],
-    "license": "MIT",
     "platform": "Javascript/Node.js",
     "icon": "vis-2-widgets-jaeger-design.png",
     "extIcon": "https://raw.githubusercontent.com/ioBroker/ioBroker.vis-2-widgets-jaeger-design/master/admin/vis-2-widgets-jaeger-design.png",
