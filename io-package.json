@@ -1,8 +1,21 @@
 {
   "common": {
     "name": "vis-2-widgets-jaeger-design",
-    "version": "1.1.21",
+    "version": "1.1.22",
     "news": {
+      "1.1.22": {
+        "en": "Added possibility to show a simple state without a border\nAdded possibility to add a caption for some widgets",
+        "de": "Möglichkeit, einen einfachen Zustand ohne Grenze zu zeigen\nZusätzliche Möglichkeit, eine Kaption für einige Widgets hinzuzufügen",
+        "ru": "Добавлена возможность показать простое состояние без границы\nДобавлена возможность добавить заголовок для некоторых виджетов",
+        "pt": "Adicionado possibilidade de mostrar um estado simples sem uma borda\nAdicionado possibilidade de adicionar uma legenda para alguns widgets",
+        "nl": "Toegevoegde mogelijkheid om een eenvoudige toestand zonder rand te tonen\nMogelijkheid toegevoegd om een bijschrift toe te voegen voor sommige widgets",
+        "fr": "Possibilité de montrer un état simple sans frontière\nPossibilité d'ajouter une légende pour certains widgets",
+        "it": "Aggiunta possibilità di mostrare uno stato semplice senza un confine\nAggiunta possibilità di aggiungere una didascalia per alcuni widget",
+        "es": "Posibilidad de mostrar un estado simple sin frontera\nAñadido posibilidad de añadir una capción para algunos widgets",
+        "pl": "Dodano możliwość pokazania prostego stanu bez granicy\nDodano możliwość dodania podpisu dla niektórych widżetów",
+        "uk": "Додана можливість показати простий стан без кордону\nДодано можливість додати підписку для деяких віджетів",
+        "zh-cn": "添加显示没有边框的简单状态的可能性\n为一些部件添加标题的可能性"
+      },
       "1.1.21": {
         "en": "Changed layout for mobile view",
         "de": "Geändertes Layout für mobile Ansicht",
@@ -80,19 +93,6 @@
         "pl": "Naprawiono kilka problemów z układem",
         "uk": "Виправлено деякі проблеми планування",
         "zh-cn": "纠正了一些布局问题"
-      },
-      "1.1.10": {
-        "en": "Small changes on layout and added new distance settings",
-        "de": "Kleine Änderungen im Layout und neue Abstandseinstellungen",
-        "ru": "Небольшие изменения в макете и добавленные новые настройки расстояния",
-        "pt": "Pequenas mudanças no layout e adicionadas novas configurações de distância",
-        "nl": "Kleine wijzigingen op lay-out en nieuwe afstandsinstellingen toegevoegd",
-        "fr": "Petits changements sur la disposition et ajout de nouveaux paramètres de distance",
-        "it": "Piccoli cambiamenti sul layout e nuove impostazioni della distanza",
-        "es": "Pequeños cambios en el diseño y nuevos ajustes de distancia",
-        "pl": "Małe zmiany układu i dodane nowe ustawienia odległości",
-        "uk": "Невеликі зміни на макеті і додані нові налаштування відстані",
-        "zh-cn": "在布局上小幅变化并添加新的距离设置"
       }
     },
     "licenseInformation": {
