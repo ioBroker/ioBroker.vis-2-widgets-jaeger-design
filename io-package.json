@@ -1,8 +1,21 @@
 {
   "common": {
     "name": "vis-2-widgets-jaeger-design",
-    "version": "1.1.22",
+    "version": "1.1.23",
     "news": {
+      "1.1.23": {
+        "en": "Corrected font-size of thermostat",
+        "de": "Korrigierte Schriftgröße von Thermostat",
+        "ru": "Исправленный размер шрифта термостата",
+        "pt": "Tamanho de fonte corrigido do termostato",
+        "nl": "Gecorrigeerde lettergrootte van thermostaat",
+        "fr": "Taille de police corrigée du thermostat",
+        "it": "Formato del carattere corretto del termostato",
+        "es": "Tamaño de fuente corregido del termostato",
+        "pl": "Poprawiony rozmiar font- termostatu",
+        "uk": "Виправлено розмір шрифту термостату",
+        "zh-cn": "修正自动调温器的字体大小"
+      },
       "1.1.22": {
         "en": "Added possibility to show a simple state without a border\nAdded possibility to add a caption for some widgets",
         "de": "Möglichkeit, einen einfachen Zustand ohne Grenze zu zeigen\nZusätzliche Möglichkeit, eine Kaption für einige Widgets hinzuzufügen",
@@ -80,19 +93,6 @@
         "pl": "Dodano najlepsze informacje w widoku mobilnym",
         "uk": "Додана інформація про місто",
         "zh-cn": "在移动视图中添加了顶端信息"
-      },
-      "1.1.12": {
-        "en": "Corrected some layout issues",
-        "de": "Einige Layoutprobleme korrigiert",
-        "ru": "Исправлены некоторые вопросы макета",
-        "pt": "Corrigido alguns problemas de layout",
-        "nl": "Enkele lay-outproblemen gecorrigeerd",
-        "fr": "Correction de certains problèmes de mise en page",
-        "it": "Corretto alcuni problemi di layout",
-        "es": "Corregido algunos problemas de diseño",
-        "pl": "Naprawiono kilka problemów z układem",
-        "uk": "Виправлено деякі проблеми планування",
-        "zh-cn": "纠正了一些布局问题"
       }
     },
     "licenseInformation": {
