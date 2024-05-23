@@ -1,8 +1,21 @@
 {
   "common": {
     "name": "vis-2-widgets-jaeger-design",
-    "version": "1.1.23",
+    "version": "1.1.25",
     "news": {
+      "1.1.25": {
+        "en": "Corrected font-size of thermostat",
+        "de": "Korrigierte Schriftgröße von Thermostat",
+        "ru": "Исправленный размер шрифта термостата",
+        "pt": "Tamanho de fonte corrigido do termostato",
+        "nl": "Gecorrigeerde lettergrootte van thermostaat",
+        "fr": "Taille de police corrigée du thermostat",
+        "it": "Formato del carattere corretto del termostato",
+        "es": "Tamaño de fuente corregido del termostato",
+        "pl": "Poprawiony rozmiar font- termostatu",
+        "uk": "Виправлено розмір шрифту термостату",
+        "zh-cn": "修正自动调温器的字体大小"
+      },
       "1.1.23": {
         "en": "Corrected font-size of thermostat",
         "de": "Korrigierte Schriftgröße von Thermostat",
@@ -80,19 +93,6 @@
         "pl": "Ulepszony widżet ściemniacza",
         "uk": "Покращений віджет Dimmer",
         "zh-cn": "改进的 dimmer 部件"
-      },
-      "1.1.14": {
-        "en": "Added top info in the mobile view",
-        "de": "Top-Info in der mobilen Ansicht hinzugefügt",
-        "ru": "Добавлена информация в мобильном виде",
-        "pt": "Adicionado top info na visualização móvel",
-        "nl": "Topinfo toegevoegd in de mobiele weergave",
-        "fr": "Ajout d'informations dans la vue mobile",
-        "it": "Aggiunto le migliori informazioni nella vista mobile",
-        "es": "Información adicional en la vista móvil",
-        "pl": "Dodano najlepsze informacje w widoku mobilnym",
-        "uk": "Додана інформація про місто",
-        "zh-cn": "在移动视图中添加了顶端信息"
       }
     },
     "licenseInformation": {

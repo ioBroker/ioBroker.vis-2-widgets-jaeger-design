@@ -1,6 +1,6 @@
 {
   "name": "iobroker.vis-2-widgets-jaeger-design",
-  "version": "1.1.23",
+  "version": "1.1.25",
   "description": "ioBroker vis2 jaeger widgets",
   "author": "bluefox <dogafox@gmail.com>",
   "contributors": [
