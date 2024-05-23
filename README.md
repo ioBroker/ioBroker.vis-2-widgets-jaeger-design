@@ -34,7 +34,7 @@ And then use `javascript.0.rss` object in this widget.
     ### **WORK IN PROGRESS**
 -->
 ## Changelog
-### 1.1.25 (2024-05-23)
+### 1.1.26 (2024-05-23)
 * (bluefox) Corrected font-size of thermostat
 
 ### 1.1.22 (2024-05-14)

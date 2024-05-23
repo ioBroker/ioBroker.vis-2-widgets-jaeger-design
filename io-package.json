@@ -1,22 +1,9 @@
 {
   "common": {
     "name": "vis-2-widgets-jaeger-design",
-    "version": "1.1.25",
+    "version": "1.1.26",
     "news": {
-      "1.1.25": {
-        "en": "Corrected font-size of thermostat",
-        "de": "Korrigierte Schriftgröße von Thermostat",
-        "ru": "Исправленный размер шрифта термостата",
-        "pt": "Tamanho de fonte corrigido do termostato",
-        "nl": "Gecorrigeerde lettergrootte van thermostaat",
-        "fr": "Taille de police corrigée du thermostat",
-        "it": "Formato del carattere corretto del termostato",
-        "es": "Tamaño de fuente corregido del termostato",
-        "pl": "Poprawiony rozmiar font- termostatu",
-        "uk": "Виправлено розмір шрифту термостату",
-        "zh-cn": "修正自动调温器的字体大小"
-      },
-      "1.1.23": {
+      "1.1.26": {
         "en": "Corrected font-size of thermostat",
         "de": "Korrigierte Schriftgröße von Thermostat",
         "ru": "Исправленный размер шрифта термостата",
