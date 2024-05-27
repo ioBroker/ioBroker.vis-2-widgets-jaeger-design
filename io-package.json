@@ -1,8 +1,21 @@
 {
   "common": {
     "name": "vis-2-widgets-jaeger-design",
-    "version": "1.1.26",
+    "version": "1.1.27",
     "news": {
+      "1.1.27": {
+        "en": "Added descriptions",
+        "de": "Beschreibungen hinzugefügt",
+        "ru": "Добавленные описания",
+        "pt": "Descrições adicionadas",
+        "nl": "Toegevoegde beschrijvingen",
+        "fr": "Autres descriptions",
+        "it": "Aggiunto descrizioni",
+        "es": "Descripciónes adicionales",
+        "pl": "Dodano opisy",
+        "uk": "Додано опис",
+        "zh-cn": "添加说明"
+      },
       "1.1.26": {
         "en": "Corrected font-size of thermostat",
         "de": "Korrigierte Schriftgröße von Thermostat",
