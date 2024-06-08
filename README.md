@@ -6,6 +6,10 @@
 
 [![NPM](https://nodei.co/npm/iobroker.vis-2-widgets-jaeger-design.png?downloads=true)](https://nodei.co/npm/iobroker.vis-2-widgets-jaeger-design/)
 
+You can find the video how to use the widgets [here](https://www.youtube.com/watch?v=4bctUvfpPuQ) (in german).
+
+Das Video wie man die Widgets benutzt kann man [hier](https://www.youtube.com/watch?v=4bctUvfpPuQ) finden.
+
 ## Widgets
 ### Buttons and switches
 
@@ -34,6 +38,16 @@ And then use `javascript.0.rss` object in this widget.
     ### **WORK IN PROGRESS**
 -->
 ## Changelog
+### 1.1.27 (2024-05-27)
+* (bluefox) Added descriptions
+
+### 1.1.26 (2024-05-23)
+* (bluefox) Corrected font-size of thermostat
+
+### 1.1.22 (2024-05-14)
+* (bluefox) Added possibility to show a simple state without a border
+* (bluefox) Added possibility to add a caption for some widgets
+
 ### 1.1.21 (2024-05-01)
 * (bluefox) Changed layout for mobile view
 
