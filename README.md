@@ -12,6 +12,8 @@ You can find the video how to use the widgets [here](https://www.youtube.com/wat
 
 Das Video wie man die Widgets benutzt kann man [hier](https://www.youtube.com/watch?v=4bctUvfpPuQ) finden.
 
+Das Video wie man die Widgets benutzt kann man [hier](https://youtu.be/Rplr2Ba-G7o) (in german) (TEIL2)
+
 ## Widgets
 ### Buttons and switches
 
