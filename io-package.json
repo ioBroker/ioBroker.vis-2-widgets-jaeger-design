@@ -1,8 +1,21 @@
 {
   "common": {
     "name": "vis-2-widgets-jaeger-design",
-    "version": "1.1.27",
+    "version": "1.2.1",
     "news": {
+      "1.2.1": {
+        "en": "Removed withStyles usage\nAdded confirmation dialog",
+        "de": "MitStyles-Nutzung entfernt\nBestätigungsdialog hinzugefügt",
+        "ru": "Удалено с помощьюStyles\nДобавить диалог подтверждения",
+        "pt": "Removido comStyles uso\nAdicionado diálogo de confirmação",
+        "nl": "Verwijderd metStyles gebruik\nBevestigingsdialoog toegevoegd",
+        "fr": "Supprimé avec l'utilisationStyles\nAjout de la boîte de dialogue de confirmation",
+        "it": "Rimosso conStyles utilizzo\nFinestra di conferma aggiunta",
+        "es": "Eliminado con el uso de los estilos\nDiálogo de confirmación adicional",
+        "pl": "Usunięty ze stylem\nDodano okno potwierdzenia",
+        "uk": "Вилучені з використаннямStyles\nДоданий діалогове вікно підтвердження",
+        "zh-cn": "以样式用法删除\n添加确认对话框"
+      },
       "1.1.27": {
         "en": "Added descriptions",
         "de": "Beschreibungen hinzugefügt",
@@ -80,19 +93,6 @@
         "pl": "Dozwolone zmiany palety dla każdego widget",
         "uk": "Допускається зміна палітри для кожного віджету",
         "zh-cn": "允许修改每个部件的调色板"
-      },
-      "1.1.15": {
-        "en": "Improved dimmer widget",
-        "de": "Verbessertes Dimmer-Widget",
-        "ru": "Улучшенный виджет",
-        "pt": "Melhor widget dimmer",
-        "nl": "Verbeterde dimmer-widget",
-        "fr": "Widget variateur amélioré",
-        "it": "Widget dimmer migliorato",
-        "es": "Widget de martillo mejorado",
-        "pl": "Ulepszony widżet ściemniacza",
-        "uk": "Покращений віджет Dimmer",
-        "zh-cn": "改进的 dimmer 部件"
       }
     },
     "licenseInformation": {

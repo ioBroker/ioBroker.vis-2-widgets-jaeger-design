@@ -40,6 +40,10 @@ And then use `javascript.0.rss` object in this widget.
     ### **WORK IN PROGRESS**
 -->
 ## Changelog
+### 1.2.1 (2024-07-07)
+* (bluefox) Removed withStyles usage
+* (bluefox) Added confirmation dialog
+
 ### 1.1.27 (2024-05-27)
 * (bluefox) Added descriptions
 
