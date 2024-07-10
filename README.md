@@ -40,6 +40,11 @@ And then use `javascript.0.rss` object in this widget.
     ### **WORK IN PROGRESS**
 -->
 ## Changelog
+### 1.2.4 (2024-07-10)
+* (bluefox) Added possibility to control other IDs with memory buttons (Dimmer, Shutter)
+* (bluefox) Added the power option for thermostat
+* (bluefox) Implemented the writing of specific values for state widget
+
 ### 1.2.1 (2024-07-07)
 * (bluefox) Removed withStyles usage
 * (bluefox) Added confirmation dialog

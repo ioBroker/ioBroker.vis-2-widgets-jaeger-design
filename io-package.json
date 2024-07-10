@@ -1,8 +1,21 @@
 {
   "common": {
     "name": "vis-2-widgets-jaeger-design",
-    "version": "1.2.1",
+    "version": "1.2.4",
     "news": {
+      "1.2.4": {
+        "en": "Added possibility to control other IDs with memory buttons (Dimmer, Shutter)\nAdded the power option for thermostat\nImplemented the writing of specific values for state widget",
+        "de": "Möglichkeit, andere IDs mit Speichertasten zu steuern (Dimmer, Shutter)\nHinzufügen der Leistungsoption für Thermostat\nErgänzt das Schreiben von bestimmten Werten für State Widget",
+        "ru": "Добавлена возможность управления другими идентификаторами с кнопками памяти (Dimmer, Shutter)\nДобавлена опция мощности для термостата\nРеализовано написание конкретных ценностей для государственного виджета",
+        "pt": "Adicionado possibilidade de controlar outros IDs com botões de memória (Dimmer, Shutter)\nAdicionado a opção de energia para termostato\nImplementado a escrita de valores específicos para widget de estado",
+        "nl": "Toegevoegde mogelijkheid om andere ID's te bedienen met geheugenknoppen (Dimmer, Shutter)\nToegevoegd de power optie voor thermostaat\nImplementeerde het schrijven van specifieke waarden voor state widget",
+        "fr": "Ajout de la possibilité de contrôler d'autres ID avec des boutons mémoire (Dimmer, Shutter)\nAjout de l'option de puissance pour le thermostat\nImplémenté l'écriture de valeurs spécifiques pour le widget d'état",
+        "it": "Aggiunta possibilità di controllare altri ID con pulsanti di memoria (Dimmer, Shutter)\nAggiunto l'opzione di potenza per termostato\nImplementato la scrittura di valori specifici per widget di stato",
+        "es": "Añadido posibilidad de controlar otros IDs con botones de memoria (Dimmer, Shutter)\nAñadido la opción de potencia para el termostato\nImplementó la escritura de valores específicos para el widget del estado",
+        "pl": "Dodano możliwość sterowania innymi identyfikatorami z przyciskami pamięci (Dimmer, Shutter)\nDodano opcję zasilania termostatu\nWdrożenie zapisu konkretnych wartości widgetu stanu",
+        "uk": "Додана можливість керування іншими ідентифікаторами з кнопками пам'яті (Dimmer, Shutter)\nДодано опцію живлення термостату\nРеалізовано написання специфічних значень для державного віджету",
+        "zh-cn": "添加使用内存按钮控制其他ID的可能性( Dimmer, Shutter)\n添加自动调温器的电源选项\n执行州部件特定值的写入"
+      },
       "1.2.1": {
         "en": "Removed withStyles usage\nAdded confirmation dialog",
         "de": "MitStyles-Nutzung entfernt\nBestätigungsdialog hinzugefügt",
@@ -67,32 +80,6 @@
         "pl": "Zmieniony układ widoku mobilnego",
         "uk": "Змінено макет для мобільного вигляду",
         "zh-cn": "移动视图改变布局"
-      },
-      "1.1.20": {
-        "en": "Allowed changing font size for thermostat",
-        "de": "Erlaubte Änderung der Schriftgröße für Thermostat",
-        "ru": "Разрешено изменение размера шрифта для термостата",
-        "pt": "Permite alterar o tamanho da fonte para termostato",
-        "nl": "Toegestaan het veranderen van lettergrootte voor thermostaat",
-        "fr": "Permet de modifier la taille de police pour le thermostat",
-        "it": "Consente di modificare la dimensione del carattere per termostato",
-        "es": "Permitido cambiar el tamaño de fuente para el termostato",
-        "pl": "Dozwolone zmiany wielkości czcionki dla termostatu",
-        "uk": "Допускається зміна розміру шрифту для термостату",
-        "zh-cn": "允许更改自动调温器的字体大小"
-      },
-      "1.1.19": {
-        "en": "Allowed changing the palette for every widget",
-        "de": "Erlaubt, die Palette für jedes Widget zu ändern",
-        "ru": "Позволяет изменить палитру для каждого виджета",
-        "pt": "Permitido alterar a paleta para cada widget",
-        "nl": "Palet voor elke widget wijzigen toegestaan",
-        "fr": "Permet de changer la palette pour chaque widget",
-        "it": "Consentito cambiare la tavolozza per ogni widget",
-        "es": "Permitido cambiar la paleta para cada widget",
-        "pl": "Dozwolone zmiany palety dla każdego widget",
-        "uk": "Допускається зміна палітри для кожного віджету",
-        "zh-cn": "允许修改每个部件的调色板"
       }
     },
     "licenseInformation": {
