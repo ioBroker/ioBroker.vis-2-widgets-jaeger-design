@@ -1,8 +1,21 @@
 {
   "common": {
     "name": "vis-2-widgets-jaeger-design",
-    "version": "1.2.5",
+    "version": "1.2.6",
     "news": {
+      "1.2.6": {
+        "en": "Corrected the power state of the thermostat",
+        "de": "Der Leistungszustand des Thermostats korrigiert",
+        "ru": "Исправлено состояние мощности термостата",
+        "pt": "Corrigido o estado de energia do termostato",
+        "nl": "Correctie van de vermogenstoestand van de thermostaat",
+        "fr": "Correction de l'état de puissance du thermostat",
+        "it": "Corretto lo stato di potenza del termostato",
+        "es": "Corregido el estado de poder del termostato",
+        "pl": "Poprawiono stan mocy termostatu",
+        "uk": "Виправлено стан живлення термостату",
+        "zh-cn": "纠正了自动调温器的电源状态"
+      },
       "1.2.5": {
         "en": "Added possibility to control other IDs with memory buttons (Dimmer, Shutter)\nAdded the power option for thermostat\nImplemented the writing of specific values for state widget\nAdded label to state widget",
         "de": "Möglichkeit, andere IDs mit Speichertasten zu steuern (Dimmer, Shutter)\nHinzufügen der Leistungsoption für Thermostat\nErgänzt das Schreiben von bestimmten Werten für State Widget\nHinzugefügt Label zu state widget",

@@ -42,6 +42,9 @@ And then use `javascript.0.rss` object in this widget.
     ### **WORK IN PROGRESS**
 -->
 ## Changelog
+### 1.2.6 (2024-07-16)
+* (bluefox) Corrected the power state of the thermostat
+
 ### 1.2.5 (2024-07-12)
 * (bluefox) Added possibility to control other IDs with memory buttons (Dimmer, Shutter)
 * (bluefox) Added the power option for thermostat
