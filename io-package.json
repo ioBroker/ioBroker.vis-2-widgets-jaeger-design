@@ -1,8 +1,21 @@
 {
   "common": {
     "name": "vis-2-widgets-jaeger-design",
-    "version": "1.2.6",
+    "version": "1.2.7",
     "news": {
+      "1.2.7": {
+        "en": "allowed multi-line buttons for the thermostat",
+        "de": "multi-line-tasten für den thermostat erlaubt",
+        "ru": "разрешенные многолинейные кнопки для термостата",
+        "pt": "botões multi-linha permitidos para o termostato",
+        "nl": "toegelaten multi-line knoppen voor de thermostaat",
+        "fr": "boutons multilignes autorisés pour le thermostat",
+        "it": "pulsanti multilinea per termostato",
+        "es": "permite botones multilínea para el termostato",
+        "pl": "dozwolone przyciski wieloliniowe do termostatu",
+        "uk": "допускається багатолінійні кнопки для термостату",
+        "zh-cn": "允许自动调温器的多行按钮"
+      },
       "1.2.6": {
         "en": "Corrected the power state of the thermostat",
         "de": "Der Leistungszustand des Thermostats korrigiert",
@@ -80,19 +93,6 @@
         "pl": "Dodano możliwość pokazania prostego stanu bez granicy\nDodano możliwość dodania podpisu dla niektórych widżetów",
         "uk": "Додана можливість показати простий стан без кордону\nДодано можливість додати підписку для деяких віджетів",
         "zh-cn": "添加显示没有边框的简单状态的可能性\n为一些部件添加标题的可能性"
-      },
-      "1.1.21": {
-        "en": "Changed layout for mobile view",
-        "de": "Geändertes Layout für mobile Ansicht",
-        "ru": "Изменение макета для мобильного просмотра",
-        "pt": "Layout alterado para visualização móvel",
-        "nl": "Veranderde layout voor mobiele weergave",
-        "fr": "Mise en page modifiée pour la vue mobile",
-        "it": "Cambiato layout per la vista mobile",
-        "es": "Diseño cambiado para la vista móvil",
-        "pl": "Zmieniony układ widoku mobilnego",
-        "uk": "Змінено макет для мобільного вигляду",
-        "zh-cn": "移动视图改变布局"
       }
     },
     "licenseInformation": {

@@ -42,6 +42,9 @@ And then use `javascript.0.rss` object in this widget.
     ### **WORK IN PROGRESS**
 -->
 ## Changelog
+### 1.2.7 (2024-07-17)
+* (bluefox) allowed multi-line buttons for the thermostat
+
 ### 1.2.6 (2024-07-16)
 * (bluefox) Corrected the power state of the thermostat
 
