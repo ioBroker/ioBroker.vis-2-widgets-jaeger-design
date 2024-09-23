@@ -1,8 +1,21 @@
 {
   "common": {
     "name": "vis-2-widgets-jaeger-design",
-    "version": "1.2.7",
+    "version": "1.3.1",
     "news": {
+      "1.3.1": {
+        "en": "Removed gulp from a build process\nAdded the possibility to select camera from the \"cameras\" adapter",
+        "de": "Aus einem Build-Prozess entfernt\nHinzugefügt die Möglichkeit, die Kamera aus dem \"Kameras\" Adapter auszuwählen",
+        "ru": "Удаленный глоток из строительного процесса\nДобавлена возможность выбора камеры из адаптера «камеры»",
+        "pt": "Gulp removido de um processo de compilação\nAdicionado a possibilidade de selecionar a câmera do adaptador \"câmaras\"",
+        "nl": "Gulp uit een bouwproces verwijderd\nToegevoegd de mogelijkheid om camera uit de \"camera's\" adapter te selecteren",
+        "fr": "Supprimé gulp d'un processus de construction\nAjout de la possibilité de sélectionner la caméra à partir de l'adaptateur \"cameras\"",
+        "it": "Golp rimosso da un processo di costruzione\nAggiunta la possibilità di selezionare la fotocamera dall'adattatore \"camere\"",
+        "es": "Golp eliminado de un proceso de construcción\nSe agregó la posibilidad de seleccionar la cámara del adaptador \"cameras\"",
+        "pl": "Usunięto przełyk z procesu budowania\nDodano możliwość wyboru kamery z adaptera \"kamery\"",
+        "uk": "Зняти ковпачок з процесу будівництва\nДодано можливість вибору камери з адаптера \"камери\"",
+        "zh-cn": "从构建过程中移除 gulp\n添加从“ 相机” 适配器中选择相机的可能性"
+      },
       "1.2.7": {
         "en": "allowed multi-line buttons for the thermostat",
         "de": "multi-line-tasten für den thermostat erlaubt",
@@ -80,19 +93,6 @@
         "pl": "Poprawiony rozmiar font- termostatu",
         "uk": "Виправлено розмір шрифту термостату",
         "zh-cn": "修正自动调温器的字体大小"
-      },
-      "1.1.22": {
-        "en": "Added possibility to show a simple state without a border\nAdded possibility to add a caption for some widgets",
-        "de": "Möglichkeit, einen einfachen Zustand ohne Grenze zu zeigen\nZusätzliche Möglichkeit, eine Kaption für einige Widgets hinzuzufügen",
-        "ru": "Добавлена возможность показать простое состояние без границы\nДобавлена возможность добавить заголовок для некоторых виджетов",
-        "pt": "Adicionado possibilidade de mostrar um estado simples sem uma borda\nAdicionado possibilidade de adicionar uma legenda para alguns widgets",
-        "nl": "Toegevoegde mogelijkheid om een eenvoudige toestand zonder rand te tonen\nMogelijkheid toegevoegd om een bijschrift toe te voegen voor sommige widgets",
-        "fr": "Possibilité de montrer un état simple sans frontière\nPossibilité d'ajouter une légende pour certains widgets",
-        "it": "Aggiunta possibilità di mostrare uno stato semplice senza un confine\nAggiunta possibilità di aggiungere una didascalia per alcuni widget",
-        "es": "Posibilidad de mostrar un estado simple sin frontera\nAñadido posibilidad de añadir una capción para algunos widgets",
-        "pl": "Dodano możliwość pokazania prostego stanu bez granicy\nDodano możliwość dodania podpisu dla niektórych widżetów",
-        "uk": "Додана можливість показати простий стан без кордону\nДодано можливість додати підписку для деяких віджетів",
-        "zh-cn": "添加显示没有边框的简单状态的可能性\n为一些部件添加标题的可能性"
       }
     },
     "licenseInformation": {
