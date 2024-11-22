@@ -1,8 +1,21 @@
 {
   "common": {
     "name": "vis-2-widgets-jaeger-design",
-    "version": "1.3.1",
+    "version": "1.3.2",
     "news": {
+      "1.3.2": {
+        "en": "Corrected \"close on click\" option for shutter and dimmer",
+        "de": "Bestimmte Option \"Close on click\" für Shutter und Dimmer",
+        "ru": "Исправлена опция \"закрыть нажатие\" для затвора и диммера",
+        "pt": "Opção correta de \"close on click\" para obturador e dimmer",
+        "nl": "Gecorrigeerde \"close on click\" optie voor sluiter en dimmer",
+        "fr": "Option corrigée \"fermer le clic\" pour obturateur et variateur",
+        "it": "Corretto \"chiudi su click\" opzione per l'otturatore e dimmer",
+        "es": "Opción \"cerrar en clic\" corregida para obturador y dimmer",
+        "pl": "Skorygowana opcja \"close on click\" dla migawki i przyciemniacza",
+        "uk": "Виправлено \"закривати натискання\" варіант для затвору і занурення",
+        "zh-cn": "更正了“ 点击时关闭” 选项, 用于关闭和淡化"
+      },
       "1.3.1": {
         "en": "Removed gulp from a build process\nAdded the possibility to select camera from the \"cameras\" adapter",
         "de": "Aus einem Build-Prozess entfernt\nHinzugefügt die Möglichkeit, die Kamera aus dem \"Kameras\" Adapter auszuwählen",
@@ -80,19 +93,6 @@
         "pl": "Dodano opisy",
         "uk": "Додано опис",
         "zh-cn": "添加说明"
-      },
-      "1.1.26": {
-        "en": "Corrected font-size of thermostat",
-        "de": "Korrigierte Schriftgröße von Thermostat",
-        "ru": "Исправленный размер шрифта термостата",
-        "pt": "Tamanho de fonte corrigido do termostato",
-        "nl": "Gecorrigeerde lettergrootte van thermostaat",
-        "fr": "Taille de police corrigée du thermostat",
-        "it": "Formato del carattere corretto del termostato",
-        "es": "Tamaño de fuente corregido del termostato",
-        "pl": "Poprawiony rozmiar font- termostatu",
-        "uk": "Виправлено розмір шрифту термостату",
-        "zh-cn": "修正自动调温器的字体大小"
       }
     },
     "licenseInformation": {
