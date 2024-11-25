@@ -4,15 +4,13 @@
 ![Number of Installations](http://iobroker.live/badges/vis-2-widgets-jaeger-design-installed.svg) ![Number of Installations](http://iobroker.live/badges/vis-2-widgets-jaeger-design-stable.svg) [![NPM version](http://img.shields.io/npm/v/iobroker.vis-2-widgets-jaeger-design.svg)](https://www.npmjs.com/package/iobroker.vis-2-widgets-jaeger-design)
 [![Downloads](https://img.shields.io/npm/dm/iobroker.vis-2-widgets-jaeger-design.svg)](https://www.npmjs.com/package/iobroker.vis-2-widgets-jaeger-design)
 
-[![NPM](https://nodei.co/npm/iobroker.vis-2-widgets-jaeger-design.png?downloads=true)](https://nodei.co/npm/iobroker.vis-2-widgets-jaeger-design/)
-
-![youtube](img/youtube.png)
+![youtube](img/youtube.jpg)
 
 You can find the video how to use the widgets [here](https://www.youtube.com/watch?v=4bctUvfpPuQ) (in german).
 
-Das Video wie man die Widgets benutzt kann man [hier](https://www.youtube.com/watch?v=4bctUvfpPuQ) finden.
+Das Video wie die Widgets benutzt werden können, kann man [hier](https://www.youtube.com/watch?v=4bctUvfpPuQ) finden.
 
-Das Video wie man die Widgets benutzt kann man [hier](https://youtu.be/Rplr2Ba-G7o) (in German) (TEIL2)
+Das Video wie die Widgets benutzt werden können, kann man [hier](https://youtu.be/Rplr2Ba-G7o) (in German) (TEIL2)
 
 ## Widgets
 ### Buttons and switches
@@ -42,8 +40,9 @@ And then use `javascript.0.rss` object in this widget.
     ### **WORK IN PROGRESS**
 -->
 ## Changelog
-### 1.3.2 (2024-11-22)
+### 1.3.3 (2024-11-25)
 * (bluefox) Corrected "close on click" option for shutter and dimmer
+* (bluefox) Improved the build pipeline
 
 ### 1.3.1 (2024-09-23)
 * (bluefox) Removed gulp from a build process

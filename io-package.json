@@ -1,20 +1,20 @@
 {
   "common": {
     "name": "vis-2-widgets-jaeger-design",
-    "version": "1.3.2",
+    "version": "1.3.3",
     "news": {
-      "1.3.2": {
-        "en": "Corrected \"close on click\" option for shutter and dimmer",
-        "de": "Bestimmte Option \"Close on click\" für Shutter und Dimmer",
-        "ru": "Исправлена опция \"закрыть нажатие\" для затвора и диммера",
-        "pt": "Opção correta de \"close on click\" para obturador e dimmer",
-        "nl": "Gecorrigeerde \"close on click\" optie voor sluiter en dimmer",
-        "fr": "Option corrigée \"fermer le clic\" pour obturateur et variateur",
-        "it": "Corretto \"chiudi su click\" opzione per l'otturatore e dimmer",
-        "es": "Opción \"cerrar en clic\" corregida para obturador y dimmer",
-        "pl": "Skorygowana opcja \"close on click\" dla migawki i przyciemniacza",
-        "uk": "Виправлено \"закривати натискання\" варіант для затвору і занурення",
-        "zh-cn": "更正了“ 点击时关闭” 选项, 用于关闭和淡化"
+      "1.3.3": {
+        "en": "Corrected \"close on click\" option for shutter and dimmer\nImproved the build pipeline",
+        "de": "Bestimmte Option \"Close on click\" für Shutter und Dimmer\nVerbessert die Baupipeline",
+        "ru": "Исправлена опция \"закрыть нажатие\" для затвора и диммера\nУлучшен трубопровод",
+        "pt": "Opção correta de \"close on click\" para obturador e dimmer\nMelhorou o pipeline de compilação",
+        "nl": "Gecorrigeerde \"close on click\" optie voor sluiter en dimmer\nVerbeterde bouwpijpleiding",
+        "fr": "Option corrigée \"fermer le clic\" pour obturateur et variateur\nAmélioration du pipeline de construction",
+        "it": "Corretto \"chiudi su click\" opzione per l'otturatore e dimmer\nMigliorata la pipeline di costruzione",
+        "es": "Opción \"cerrar en clic\" corregida para obturador y dimmer\nMejorado el oleoducto de construcción",
+        "pl": "Skorygowana opcja \"close on click\" dla migawki i przyciemniacza\nUlepszenie rurociągu budowlanego",
+        "uk": "Виправлено \"закривати натискання\" варіант для затвору і занурення\nПокращення будівельного трубопроводу",
+        "zh-cn": "更正了“ 点击时关闭” 选项, 用于关闭和淡化\n改善建设管道"
       },
       "1.3.1": {
         "en": "Removed gulp from a build process\nAdded the possibility to select camera from the \"cameras\" adapter",
