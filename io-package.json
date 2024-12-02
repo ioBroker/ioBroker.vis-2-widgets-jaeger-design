@@ -1,8 +1,21 @@
 {
   "common": {
     "name": "vis-2-widgets-jaeger-design",
-    "version": "1.3.3",
+    "version": "1.3.4",
     "news": {
+      "1.3.4": {
+        "en": "Corrected the icon dialog",
+        "de": "Korrektur des Symboldialogs",
+        "ru": "Исправлен диалог значка",
+        "pt": "Corrigido o ícone diálogo",
+        "nl": "Het pictogramdialoogvenster gecorrigeerd",
+        "fr": "Correction de la boîte de dialogue icône",
+        "it": "Corretto il dialogo icona",
+        "es": "Corregido el diálogo icono",
+        "pl": "Poprawiono okno dialogowe ikon",
+        "uk": "Виправлено діалог іконки",
+        "zh-cn": "更正图标对话框"
+      },
       "1.3.3": {
         "en": "Corrected \"close on click\" option for shutter and dimmer\nImproved the build pipeline",
         "de": "Bestimmte Option \"Close on click\" für Shutter und Dimmer\nVerbessert die Baupipeline",
@@ -80,19 +93,6 @@
         "pl": "Usunięty ze stylem\nDodano okno potwierdzenia",
         "uk": "Вилучені з використаннямStyles\nДоданий діалогове вікно підтвердження",
         "zh-cn": "以样式用法删除\n添加确认对话框"
-      },
-      "1.1.27": {
-        "en": "Added descriptions",
-        "de": "Beschreibungen hinzugefügt",
-        "ru": "Добавленные описания",
-        "pt": "Descrições adicionadas",
-        "nl": "Toegevoegde beschrijvingen",
-        "fr": "Autres descriptions",
-        "it": "Aggiunto descrizioni",
-        "es": "Descripciónes adicionales",
-        "pl": "Dodano opisy",
-        "uk": "Додано опис",
-        "zh-cn": "添加说明"
       }
     },
     "licenseInformation": {

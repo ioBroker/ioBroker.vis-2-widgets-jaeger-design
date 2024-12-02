@@ -40,6 +40,9 @@ And then use `javascript.0.rss` object in this widget.
     ### **WORK IN PROGRESS**
 -->
 ## Changelog
+### 1.3.4 (2024-12-02)
+* (bluefox) Corrected the icon dialog
+
 ### 1.3.3 (2024-11-25)
 * (bluefox) Corrected "close on click" option for shutter and dimmer
 * (bluefox) Improved the build pipeline
