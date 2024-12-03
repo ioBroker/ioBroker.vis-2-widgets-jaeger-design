@@ -40,8 +40,10 @@ And then use `javascript.0.rss` object in this widget.
     ### **WORK IN PROGRESS**
 -->
 ## Changelog
-### 1.3.4 (2024-12-02)
+### 1.3.5 (2024-12-03)
 * (bluefox) Corrected the icon dialog
+* (bluefox) Corrected the ID select dialog
+* (bluefox) Corrected the scene buttons
 
 ### 1.3.3 (2024-11-25)
 * (bluefox) Corrected "close on click" option for shutter and dimmer

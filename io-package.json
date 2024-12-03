@@ -1,8 +1,21 @@
 {
   "common": {
     "name": "vis-2-widgets-jaeger-design",
-    "version": "1.3.4",
+    "version": "1.3.5",
     "news": {
+      "1.3.5": {
+        "en": "Corrected the icon dialog\nCorrected the ID select dialog\nCorrected the scene buttons",
+        "de": "Korrektur des Symboldialogs\nKorrektur des ID-Auswahl-Dialogs\nKorrektur der Szenentasten",
+        "ru": "Исправлен диалог значка\nИсправлен диалог выбора идентификатора\nИсправлены кнопки сцены",
+        "pt": "Corrigido o ícone diálogo\nCorrigido o ID selecionar diálogo\nCorrigido os botões de cena",
+        "nl": "Het pictogramdialoogvenster gecorrigeerd\nHet dialoogvenster ID selecteren corrigeren\nGecorrigeerde scèneknoppen",
+        "fr": "Correction de la boîte de dialogue icône\nCorrection de la boîte de dialogue de sélection d'ID\nCorrection des boutons de la scène",
+        "it": "Corretto il dialogo icona\nCorretto il ID selezionare la finestra di dialogo\nCorretto i pulsanti della scena",
+        "es": "Corregido el diálogo icono\nCorregido el diálogo de selección de ID\nCorregido los botones de escena",
+        "pl": "Poprawiono okno dialogowe ikon\nPoprawiono okno wyboru ID\nPoprawiono przyciski sceny",
+        "uk": "Виправлено діалог іконки\nВиправлено діалогове вікно ідентифікатора\nВиправлено кнопки сцени",
+        "zh-cn": "更正图标对话框\n更正了 ID 选择对话框\n校正了场景按钮"
+      },
       "1.3.4": {
         "en": "Corrected the icon dialog",
         "de": "Korrektur des Symboldialogs",
@@ -80,19 +93,6 @@
         "pl": "Dodano możliwość sterowania innymi identyfikatorami z przyciskami pamięci (Dimmer, Shutter)\nDodano opcję zasilania termostatu\nWdrożenie zapisu konkretnych wartości widgetu stanu\nDodano etykietę do stanu widget",
         "uk": "Додана можливість керування іншими ідентифікаторами з кнопками пам'яті (Dimmer, Shutter)\nДодано опцію живлення термостату\nРеалізовано написання специфічних значень для державного віджету\nДодано тег до державного віджету",
         "zh-cn": "添加使用内存按钮控制其他ID的可能性( Dimmer, Shutter)\n添加自动调温器的电源选项\n执行州部件特定值的写入\n添加到状态部件的标签"
-      },
-      "1.2.1": {
-        "en": "Removed withStyles usage\nAdded confirmation dialog",
-        "de": "MitStyles-Nutzung entfernt\nBestätigungsdialog hinzugefügt",
-        "ru": "Удалено с помощьюStyles\nДобавить диалог подтверждения",
-        "pt": "Removido comStyles uso\nAdicionado diálogo de confirmação",
-        "nl": "Verwijderd metStyles gebruik\nBevestigingsdialoog toegevoegd",
-        "fr": "Supprimé avec l'utilisationStyles\nAjout de la boîte de dialogue de confirmation",
-        "it": "Rimosso conStyles utilizzo\nFinestra di conferma aggiunta",
-        "es": "Eliminado con el uso de los estilos\nDiálogo de confirmación adicional",
-        "pl": "Usunięty ze stylem\nDodano okno potwierdzenia",
-        "uk": "Вилучені з використаннямStyles\nДоданий діалогове вікно підтвердження",
-        "zh-cn": "以样式用法删除\n添加确认对话框"
       }
     },
     "licenseInformation": {
