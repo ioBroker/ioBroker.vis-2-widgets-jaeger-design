@@ -1,9 +1,9 @@
 {
   "common": {
     "name": "vis-2-widgets-jaeger-design",
-    "version": "1.3.5",
+    "version": "1.3.6",
     "news": {
-      "1.3.5": {
+      "1.3.6": {
         "en": "Corrected the icon dialog\nCorrected the ID select dialog\nCorrected the scene buttons",
         "de": "Korrektur des Symboldialogs\nKorrektur des ID-Auswahl-Dialogs\nKorrektur der Szenentasten",
         "ru": "Исправлен диалог значка\nИсправлен диалог выбора идентификатора\nИсправлены кнопки сцены",

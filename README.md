@@ -40,7 +40,7 @@ And then use `javascript.0.rss` object in this widget.
     ### **WORK IN PROGRESS**
 -->
 ## Changelog
-### 1.3.5 (2024-12-03)
+### 1.3.6 (2024-12-04)
 * (bluefox) Corrected the icon dialog
 * (bluefox) Corrected the ID select dialog
 * (bluefox) Corrected the scene buttons
