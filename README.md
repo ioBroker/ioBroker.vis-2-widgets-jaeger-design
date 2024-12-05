@@ -16,7 +16,7 @@ Das Video wie die Widgets benutzt werden können, kann man [hier](https://youtu.
 ### Buttons and switches
 
 ### Actual news
-![Actual news ](img/news.png)
+![Actual news ](img/news.png)[README.md](../ioBroker.vis-2-widgets-jaeger-design-git/README.md)
 
 To use this widget, you need to create a small script in Javascript adapter:
 ```js
@@ -40,8 +40,9 @@ And then use `javascript.0.rss` object in this widget.
     ### **WORK IN PROGRESS**
 -->
 ## Changelog
-### 1.3.7 (2024-12-05)
+### 1.3.8 (2024-12-05)
 * (bluefox) Corrected confirmation dialog. Close now works
+* (bluefox) Caught the possible error in thermostat
 
 ### 1.3.6 (2024-12-04)
 * (bluefox) Corrected the icon dialog
