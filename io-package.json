@@ -1,8 +1,21 @@
 {
   "common": {
     "name": "vis-2-widgets-jaeger-design",
-    "version": "1.3.6",
+    "version": "1.3.7",
     "news": {
+      "1.3.7": {
+        "en": "Corrected confirmation dialog. Close now works",
+        "de": "Korrigierte Bestätigung Dialog. Jetzt schließen",
+        "ru": "Исправлен диалог подтверждения. Закрыть сейчас работает",
+        "pt": "Diálogo de confirmação corrigido. Fechar agora funciona",
+        "nl": "Gecorrigeerde bevestigingsdialoog. Sluiten werkt nu",
+        "fr": "Boîte de dialogue de confirmation corrigée. Fermer fonctionne maintenant",
+        "it": "Finestra di conferma corretta. Chiudi ora i lavori",
+        "es": "Diálogo de confirmación corregido. Cerrar ahora funciona",
+        "pl": "Poprawione okno potwierdzenia. Zamknij teraz działa",
+        "uk": "Виправлений діалог підтвердження. Закрити зараз роботи",
+        "zh-cn": "更正确认对话框 。 关闭现在工作"
+      },
       "1.3.6": {
         "en": "Corrected the icon dialog\nCorrected the ID select dialog\nCorrected the scene buttons",
         "de": "Korrektur des Symboldialogs\nKorrektur des ID-Auswahl-Dialogs\nKorrektur der Szenentasten",
@@ -80,19 +93,6 @@
         "pl": "Poprawiono stan mocy termostatu",
         "uk": "Виправлено стан живлення термостату",
         "zh-cn": "纠正了自动调温器的电源状态"
-      },
-      "1.2.5": {
-        "en": "Added possibility to control other IDs with memory buttons (Dimmer, Shutter)\nAdded the power option for thermostat\nImplemented the writing of specific values for state widget\nAdded label to state widget",
-        "de": "Möglichkeit, andere IDs mit Speichertasten zu steuern (Dimmer, Shutter)\nHinzufügen der Leistungsoption für Thermostat\nErgänzt das Schreiben von bestimmten Werten für State Widget\nHinzugefügt Label zu state widget",
-        "ru": "Добавлена возможность управления другими идентификаторами с кнопками памяти (Dimmer, Shutter)\nДобавлена опция мощности для термостата\nРеализовано написание конкретных ценностей для государственного виджета\nДобавить ярлык в виджет состояния",
-        "pt": "Adicionado possibilidade de controlar outros IDs com botões de memória (Dimmer, Shutter)\nAdicionado a opção de energia para termostato\nImplementado a escrita de valores específicos para widget de estado\nAdicionado rótulo para widget de estado",
-        "nl": "Toegevoegde mogelijkheid om andere ID's te bedienen met geheugenknoppen (Dimmer, Shutter)\nToegevoegd de power optie voor thermostaat\nImplementeerde het schrijven van specifieke waarden voor state widget\nLabel toegevoegd aan status widget",
-        "fr": "Ajout de la possibilité de contrôler d'autres ID avec des boutons mémoire (Dimmer, Shutter)\nAjout de l'option de puissance pour le thermostat\nImplémenté l'écriture de valeurs spécifiques pour le widget d'état\nAjout de l'étiquette au widget d'état",
-        "it": "Aggiunta possibilità di controllare altri ID con pulsanti di memoria (Dimmer, Shutter)\nAggiunto l'opzione di potenza per termostato\nImplementato la scrittura di valori specifici per widget di stato\nAggiunta etichetta per widget di stato",
-        "es": "Añadido posibilidad de controlar otros IDs con botones de memoria (Dimmer, Shutter)\nAñadido la opción de potencia para el termostato\nImplementó la escritura de valores específicos para el widget del estado\nEtiqueta agregada al widget del estado",
-        "pl": "Dodano możliwość sterowania innymi identyfikatorami z przyciskami pamięci (Dimmer, Shutter)\nDodano opcję zasilania termostatu\nWdrożenie zapisu konkretnych wartości widgetu stanu\nDodano etykietę do stanu widget",
-        "uk": "Додана можливість керування іншими ідентифікаторами з кнопками пам'яті (Dimmer, Shutter)\nДодано опцію живлення термостату\nРеалізовано написання специфічних значень для державного віджету\nДодано тег до державного віджету",
-        "zh-cn": "添加使用内存按钮控制其他ID的可能性( Dimmer, Shutter)\n添加自动调温器的电源选项\n执行州部件特定值的写入\n添加到状态部件的标签"
       }
     },
     "licenseInformation": {
