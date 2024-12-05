@@ -40,7 +40,7 @@ And then use `javascript.0.rss` object in this widget.
     ### **WORK IN PROGRESS**
 -->
 ## Changelog
-### 1.3.8 (2024-12-05)
+### 1.3.9 (2024-12-05)
 * (bluefox) Corrected confirmation dialog. Close now works
 * (bluefox) Caught the possible error in thermostat
 

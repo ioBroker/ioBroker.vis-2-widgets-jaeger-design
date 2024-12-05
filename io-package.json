@@ -1,9 +1,9 @@
 {
   "common": {
     "name": "vis-2-widgets-jaeger-design",
-    "version": "1.3.8",
+    "version": "1.3.9",
     "news": {
-      "1.3.8": {
+      "1.3.9": {
         "en": "Corrected confirmation dialog. Close now works\nCaught the possible error in thermostat",
         "de": "Korrigierte Bestätigung Dialog. Jetzt schließen\nErwischt den möglichen Fehler in Thermostat",
         "ru": "Исправлен диалог подтверждения. Закрыть сейчас работает\nПоймать возможную ошибку в термостате",
@@ -15,19 +15,6 @@
         "pl": "Poprawione okno potwierdzenia. Zamknij teraz działa\nZłapał możliwy błąd w termostacie",
         "uk": "Виправлений діалог підтвердження. Закрити зараз роботи\nСпіймана можливою помилкою в термостаті",
         "zh-cn": "更正确认对话框 。 关闭现在工作\n在自动调温器中发现可能的错误"
-      },
-      "1.3.7": {
-        "en": "Corrected confirmation dialog. Close now works",
-        "de": "Korrigierte Bestätigung Dialog. Jetzt schließen",
-        "ru": "Исправлен диалог подтверждения. Закрыть сейчас работает",
-        "pt": "Diálogo de confirmação corrigido. Fechar agora funciona",
-        "nl": "Gecorrigeerde bevestigingsdialoog. Sluiten werkt nu",
-        "fr": "Boîte de dialogue de confirmation corrigée. Fermer fonctionne maintenant",
-        "it": "Finestra di conferma corretta. Chiudi ora i lavori",
-        "es": "Diálogo de confirmación corregido. Cerrar ahora funciona",
-        "pl": "Poprawione okno potwierdzenia. Zamknij teraz działa",
-        "uk": "Виправлений діалог підтвердження. Закрити зараз роботи",
-        "zh-cn": "更正确认对话框 。 关闭现在工作"
       },
       "1.3.6": {
         "en": "Corrected the icon dialog\nCorrected the ID select dialog\nCorrected the scene buttons",
