@@ -24,7 +24,7 @@ Die Oberfläche besteht aus mehreren Bereichen:
 - **Hauptmenü**: Links befindet sich eine Spalte mit den Hauptmenüpunkten, die einfach angelegt werden können.
 - **Statusleiste**: Oben können verschiedene wichtige Statusanzeigen hinzugefügt werden.
 - **Mittlerer Bereich**: Hier können Szenen, Aktionen und Hinweise angezeigt werden. Die rechte Seite ist frei gestaltbar und kann Informationen wie Sicherheit, Wetter, Hausgeräte und Energieverbrauch anzeigen.
-![iobroker Schnittstellen1](https://github.com/user-attachments/assets/d0323e58-ba6e-455c-8a06-81f9acda9ef9)
+  ![iobroker Schnittstellen1](https://github.com/user-attachments/assets/d0323e58-ba6e-455c-8a06-81f9acda9ef9)
 
 ### Beleuchtung
 Im Hauptmenü können verschiedene Stockwerke ausgewählt werden. Der Grundriss des Erdgeschosses zeigt alle Lichter, die durch Icons dargestellt werden. Einige Icons können nur an- oder ausgeschaltet werden, während andere dimmbar sind. Durch längeres Drücken auf ein Icon öffnet sich ein Pop-up-Fenster mit einem Slider zur Einstellung der Helligkeit.
@@ -32,8 +32,8 @@ Im Hauptmenü können verschiedene Stockwerke ausgewählt werden. Der Grundriss 
 Beleuchtungsszenen auf der rechten Seite können einfach abgerufen und auch Lichteinstellungen gespeichert werden:
 ![iobroker-jaeger-design-beleuchtung_szenen_speichern](https://github.com/user-attachments/assets/d9099048-0d26-4cfb-9b74-04a36b07131b)
 
-### Rolladen
-Im Menü "Rolladen" kann der Zustand der Beschattung gesehen werden. Icons zeigen die Höhe der Rolladen an, und durch Klicken auf ein Icon öffnet sich ein Pop-up-Fenster zur Einstellung der Höhe und Lamellenneigung.
+### Rollladen
+Im Menü "Rollladen" kann der Zustand der Beschattung gesehen werden. Icons zeigen die Höhe der Rollladen an, und durch Klicken auf ein Icon öffnet sich ein Pop-up-Fenster zur Einstellung der Höhe und Lamellenneigung.
 ![Beschattung-iobroker-smarthome](https://github.com/user-attachments/assets/a808b0c2-0e84-4586-b482-3d63b49e4706)
 
 ### Energie
@@ -63,6 +63,9 @@ Für detaillierte Anleitungen und weitere Informationen wird empfohlen, die verl
     ### **WORK IN PROGRESS**
 -->
 ## Changelog
+### 1.3.12 (2025-04-29)
+* (bluefox) Corrected min/max by thermostat
+
 ### 1.3.9 (2024-12-05)
 * (bluefox) Corrected confirmation dialog. Close now works
 * (bluefox) Caught the possible error in thermostat
@@ -238,5 +241,5 @@ Für detaillierte Anleitungen und weitere Informationen wird empfohlen, die verl
 * (bluefox) initial commit
 
 ## License
-Copyright (c) 2022-2024 bluefox <dogafox@gmail.com>
+Copyright (c) 2022-2025 bluefox <dogafox@gmail.com>
 All rights reserved.
