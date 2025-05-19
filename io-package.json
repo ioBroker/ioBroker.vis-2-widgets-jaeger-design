@@ -1,8 +1,21 @@
 {
   "common": {
     "name": "vis-2-widgets-jaeger-design",
-    "version": "1.3.12",
+    "version": "1.4.0",
     "news": {
+      "1.4.0": {
+        "en": "Migrated to TypeScript and vite",
+        "de": "Zu TypeScript und Vite migriert",
+        "ru": "Иммиграция в TypeScript и Vite",
+        "pt": "Migrado para TypeScript e vite",
+        "nl": "Migreren naar TypeScript en Vite",
+        "fr": "Migré pour TypeScript et rite",
+        "it": "Migrato a TypeScript e vite",
+        "es": "Migrado a TipoScript y vite",
+        "pl": "Migrated to TypeScript and vite",
+        "uk": "Міграція на TypeScript і vite",
+        "zh-cn": "移动到类型脚本和 vite"
+      },
       "1.3.12": {
         "en": "Corrected min/max by thermostat",
         "de": "Korrektur min/max durch Thermostat",
@@ -80,19 +93,6 @@
         "pl": "Usunięto przełyk z procesu budowania\nDodano możliwość wyboru kamery z adaptera \"kamery\"",
         "uk": "Зняти ковпачок з процесу будівництва\nДодано можливість вибору камери з адаптера \"камери\"",
         "zh-cn": "从构建过程中移除 gulp\n添加从“ 相机” 适配器中选择相机的可能性"
-      },
-      "1.2.7": {
-        "en": "allowed multi-line buttons for the thermostat",
-        "de": "multi-line-tasten für den thermostat erlaubt",
-        "ru": "разрешенные многолинейные кнопки для термостата",
-        "pt": "botões multi-linha permitidos para o termostato",
-        "nl": "toegelaten multi-line knoppen voor de thermostaat",
-        "fr": "boutons multilignes autorisés pour le thermostat",
-        "it": "pulsanti multilinea per termostato",
-        "es": "permite botones multilínea para el termostato",
-        "pl": "dozwolone przyciski wieloliniowe do termostatu",
-        "uk": "допускається багатолінійні кнопки для термостату",
-        "zh-cn": "允许自动调温器的多行按钮"
       }
     },
     "licenseInformation": {
@@ -133,6 +133,7 @@
         "i18n": "component",
         "name": "vis2jaegerDesignWidgets",
         "url": "vis-2-widgets-jaeger-design/customWidgets.js",
+        "bundlerType": "module",
         "components": [
           "JaegerDesignLayout",
           "JaegerDesignCameras",
@@ -149,7 +150,10 @@
     "restartAdapters": [
       "vis-2"
     ],
-    "tier": 3
+    "tier": 3,
+    "globalDependencies": {
+      "vis": ">=2.12.8"
+    }
   },
   "native": {
     "license": "",

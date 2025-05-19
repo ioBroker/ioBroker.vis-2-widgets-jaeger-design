@@ -57,12 +57,14 @@ Es können auch frei definierte Oberflächen erstellt werden, wie z.B. die Verbr
 ### YouTube Tutorials
 Für detaillierte Anleitungen und weitere Informationen wird empfohlen, die verlinkten YouTube Tutorials anzuschauen.
 
-
 <!--
     Placeholder for the next version (at the beginning of the line):
     ### **WORK IN PROGRESS**
 -->
 ## Changelog
+### 1.4.0 (2025-05-19)
+* (bluefox) Migrated to TypeScript and vite
+
 ### 1.3.12 (2025-04-29)
 * (bluefox) Corrected min/max by thermostat
 
