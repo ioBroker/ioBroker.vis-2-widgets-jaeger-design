@@ -62,8 +62,9 @@ Für detaillierte Anleitungen und weitere Informationen wird empfohlen, die verl
     ### **WORK IN PROGRESS**
 -->
 ## Changelog
-### 1.4.0 (2025-05-19)
+### 1.4.1 (2025-05-20)
 * (bluefox) Migrated to TypeScript and vite
+* (bluefox) Corrected error with license check
 
 ### 1.3.12 (2025-04-29)
 * (bluefox) Corrected min/max by thermostat

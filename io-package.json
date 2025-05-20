@@ -1,20 +1,20 @@
 {
   "common": {
     "name": "vis-2-widgets-jaeger-design",
-    "version": "1.4.0",
+    "version": "1.4.1",
     "news": {
-      "1.4.0": {
-        "en": "Migrated to TypeScript and vite",
-        "de": "Zu TypeScript und Vite migriert",
-        "ru": "Иммиграция в TypeScript и Vite",
-        "pt": "Migrado para TypeScript e vite",
-        "nl": "Migreren naar TypeScript en Vite",
-        "fr": "Migré pour TypeScript et rite",
-        "it": "Migrato a TypeScript e vite",
-        "es": "Migrado a TipoScript y vite",
-        "pl": "Migrated to TypeScript and vite",
-        "uk": "Міграція на TypeScript і vite",
-        "zh-cn": "移动到类型脚本和 vite"
+      "1.4.1": {
+        "en": "Migrated to TypeScript and vite\nCorrected error with license check",
+        "de": "Zu TypeScript und Vite migriert\nFehler behoben mit Lizenzüberprüfung",
+        "ru": "Иммиграция в TypeScript и Vite\nИсправлена ошибка при проверке лицензии",
+        "pt": "Migrado para TypeScript e vite\nErro corrigido com verificação de licença",
+        "nl": "Migreren naar TypeScript en Vite\nGecorrigeerde fout met licentiecontrole",
+        "fr": "Migré pour TypeScript et rite\nErreur corrigée avec vérification de licence",
+        "it": "Migrato a TypeScript e vite\nErrore corretto con controllo della licenza",
+        "es": "Migrado a TipoScript y vite\nError corregido con cheque de licencia",
+        "pl": "Migrated to TypeScript and vite\nSkorygowany błąd przy sprawdzaniu licencji",
+        "uk": "Міграція на TypeScript і vite\nВиправлена помилка з перевіркою ліцензії",
+        "zh-cn": "移动到类型脚本和 vite\n检查许可证时纠正错误"
       },
       "1.3.12": {
         "en": "Corrected min/max by thermostat",
