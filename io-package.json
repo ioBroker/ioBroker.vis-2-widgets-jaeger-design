@@ -1,8 +1,21 @@
 {
   "common": {
     "name": "vis-2-widgets-jaeger-design",
-    "version": "1.4.1",
+    "version": "1.4.2",
     "news": {
+      "1.4.2": {
+        "en": "Allowed setting ON value for dimmer\nAllowed inverting values in the popup dialog for shutter and blinds control\nAdded the control dialog for state widget\nAllowed setting up the title padding\nAdded possibility to show the last change time for scenes",
+        "de": "Erlaubte Einstellung ON-Wert für Dimmer\nErlaubt invertierende Werte im Popup-Dialog für Shutter- und Blindsteuerung\nHinzugefügt die Steuerung Dialog für Zustand Widget\nErlaubte Einrichtung der Titelpolsterung\nMöglichkeit, die letzte Änderungszeit für Szenen zu zeigen",
+        "ru": "Разрешенная установка значения ON для диммера\nРазрешены инвертирующие значения в всплывающем диалоге для контроля затвора и жалюзи\nДобавлен диалог управления для государственного виджета\nРазрешено настроить title padding\nДобавлена возможность показать последнее время смены сцен",
+        "pt": "Configuração permitida Valor ON para dimmer\nValores de inversão permitidos na caixa de diálogo pop-up para controle do obturador e blinds\nAdicionado a caixa de diálogo de controle para widget de estado\nPermite configurar o título padding\nAdicionado possibilidade de mostrar o último tempo de mudança para cenas",
+        "nl": "Toegestaan om ON-waarde voor dimmer in te stellen\nToegestaan omkeren van waarden in het popup-dialoogvenster voor sluiter en blinds control\nHet controlevenster voor status-widget toegevoegd\nInstellen van de titelopvulling is toegestaan\nToegevoegde mogelijkheid om de laatste veranderingstijd voor scènes te tonen",
+        "fr": "Réglage autorisé de la valeur ON pour varimer\nValeurs d'inversion autorisées dans la boîte de dialogue popup pour le contrôle de l'obturateur et des stores\nAjout de la boîte de dialogue de contrôle pour le widget d'état\nPermet la mise en place du rembourrage du titre\nAjout de la possibilité de montrer la dernière heure de changement pour les scènes",
+        "it": "Impostazione consentita Valore ON per dimmer\nConsentito invertire i valori nella finestra di dialogo popup per il controllo dell'otturatore e delle tende\nAggiunto la finestra di dialogo di controllo per widget di stato\nConsentito di impostare il titolo imbottitura\nAggiunta possibilità di mostrare l'ultimo cambiamento tempo per le scene",
+        "es": "Ajuste permitido Valor ON para dimmer\nPermitido invertir valores en el diálogo popup para el control de obturación y persianas\nAñadido el diálogo de control para el widget del estado\nPermitido establecer el título\nAñadido posibilidad de mostrar el último tiempo de cambio para escenas",
+        "pl": "Dozwolone ustawienie wartości ON dla ściemniacza\nDozwolone wartości inwertujące w oknie wyskakującym do sterowania migawką i żaluzjami\nDodano okno kontrolne dla widżetu stanu\nDozwolone tworzenie wyściełania tytułu\nDodano możliwość pokazania ostatniej zmiany czasu dla scen",
+        "uk": "Дозволена установка ON значення для dimmer\nДозволені інвертуючі значення в діалоговому вікні для завершення та контролю жалюзі\nДодано діалогове вікно керування для державного віджету\nНастроювання заголовку\nДодана можливість показати останні зміни часу для сцен",
+        "zh-cn": "允许设置沉积值\n为百叶窗和百叶窗控制在弹出对话框中允许反转值\n添加状态部件的控制对话框\n允许设置标题编码\n添加显示场景上次更改时间的可能性"
+      },
       "1.4.1": {
         "en": "Migrated to TypeScript and vite\nCorrected error with license check",
         "de": "Zu TypeScript und Vite migriert\nFehler behoben mit Lizenzüberprüfung",
@@ -80,31 +93,19 @@
         "pl": "Skorygowana opcja \"close on click\" dla migawki i przyciemniacza\nUlepszenie rurociągu budowlanego",
         "uk": "Виправлено \"закривати натискання\" варіант для затвору і занурення\nПокращення будівельного трубопроводу",
         "zh-cn": "更正了“ 点击时关闭” 选项, 用于关闭和淡化\n改善建设管道"
-      },
-      "1.3.1": {
-        "en": "Removed gulp from a build process\nAdded the possibility to select camera from the \"cameras\" adapter",
-        "de": "Aus einem Build-Prozess entfernt\nHinzugefügt die Möglichkeit, die Kamera aus dem \"Kameras\" Adapter auszuwählen",
-        "ru": "Удаленный глоток из строительного процесса\nДобавлена возможность выбора камеры из адаптера «камеры»",
-        "pt": "Gulp removido de um processo de compilação\nAdicionado a possibilidade de selecionar a câmera do adaptador \"câmaras\"",
-        "nl": "Gulp uit een bouwproces verwijderd\nToegevoegd de mogelijkheid om camera uit de \"camera's\" adapter te selecteren",
-        "fr": "Supprimé gulp d'un processus de construction\nAjout de la possibilité de sélectionner la caméra à partir de l'adaptateur \"cameras\"",
-        "it": "Golp rimosso da un processo di costruzione\nAggiunta la possibilità di selezionare la fotocamera dall'adattatore \"camere\"",
-        "es": "Golp eliminado de un proceso de construcción\nSe agregó la posibilidad de seleccionar la cámara del adaptador \"cameras\"",
-        "pl": "Usunięto przełyk z procesu budowania\nDodano możliwość wyboru kamery z adaptera \"kamery\"",
-        "uk": "Зняти ковпачок з процесу будівництва\nДодано можливість вибору камери з адаптера \"камери\"",
-        "zh-cn": "从构建过程中移除 gulp\n添加从“ 相机” 适配器中选择相机的可能性"
       }
     },
     "licenseInformation": {
       "type": "commercial",
       "link": "https://github.com/ioBroker/ioBroker.vis-2-widgets-jaeger-design/blob/master/LICENSE"
     },
-    "title": "Vis 2 Jaeger Styled Widgets",
     "titleLang": {
-      "en": "Vis 2 Jaeger Styled Widgets"
+      "en": "Vis 2 Jaeger Styled Widgets",
+      "de": "Vis 2 Jaeger Styled Widgets"
     },
     "desc": {
-      "en": "Vis 2 Jaeger Styled Widgets"
+      "en": "Vis 2 Jaeger Styled Widgets",
+      "de": "Vis 2 Jaeger Styled Widgets"
     },
     "authors": [
       "bluefox <dogafox@gmail.com>"
@@ -151,9 +152,14 @@
       "vis-2"
     ],
     "tier": 3,
-    "globalDependencies": {
-      "vis": ">=2.12.8"
-    }
+    "globalDependencies": [
+      {
+        "vis-2": ">=2.12.8"
+      },
+      {
+        "admin": ">=7.6.1"
+      }
+    ]
   },
   "native": {
     "license": "",
