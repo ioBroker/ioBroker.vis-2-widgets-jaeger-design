@@ -1,8 +1,21 @@
 {
   "common": {
     "name": "vis-2-widgets-jaeger-design",
-    "version": "1.4.2",
+    "version": "1.4.3",
     "news": {
+      "1.4.3": {
+        "en": "Implemented the full-screen mode for cameras\nAdded the possibility of disabling \"swipe to open the menu\" in the mobile view\nCorrected issue with confirmation dialog for the state widget\nAdded settings for submenu width and gap between submenu items",
+        "de": "Implementierung des Vollbildmodus für Kameras\nHinzufügen der Möglichkeit, das Menü zu öffnen \"zu deaktivieren\" in der mobilen Ansicht\nKorrigierte Ausgabe mit Bestätigungsdialog für das Zustandswidget\nEinstellungen für Untermenübreite und Spalt zwischen Untermenüs hinzugefügt",
+        "ru": "Реализован полноэкранный режим для камер\nДобавлена возможность отключения \"свайпа для открытия меню\" в мобильном виде\nИсправлен вопрос с диалогом подтверждения для государственного виджета\nДобавлены настройки для ширины подменю и зазора между элементами подменю",
+        "pt": "Implementado o modo de tela cheia para câmeras\nAdicionado a possibilidade de desabilitar \"swipe para abrir o menu\" na visualização móvel\nProblema corrigido com caixa de diálogo de confirmação para o widget do estado\nConfigurações adicionadas para largura submenu e lacuna entre submenu itens",
+        "nl": "De volledige schermmodus voor camera's geïmplementeerd\nToegevoegd de mogelijkheid van het uitschakelen van \"vegen om het menu te openen\" in de mobiele weergave\nGecorrigeerd probleem met bevestigingsdialoog voor het status-widget\nInstellingen toegevoegd voor submenubreedte en ruimte tussen submenu-items",
+        "fr": "Implémenté le mode plein écran pour les caméras\nAjout de la possibilité de désactiver \"swipe pour ouvrir le menu\" dans la vue mobile\nProblème corrigé avec boîte de dialogue de confirmation pour le widget d'état\nAjout de paramètres pour la largeur du sous-menu et l'écart entre les éléments du sous-menu",
+        "it": "Implementato la modalità a schermo intero per le telecamere\nAggiunto la possibilità di disabilitare \"swipe per aprire il menu\" nella vista mobile\nProblema corretto con la finestra di dialogo di conferma per il widget di stato\nAggiunte le impostazioni per la larghezza del sottomenu e il divario tra gli elementi submenu",
+        "es": "Implementado el modo de pantalla completa para las cámaras\nAgregó la posibilidad de desactivar \"swipe para abrir el menú\" en la vista móvil\nEdición corregida con diálogo de confirmación para el widget del estado\nAjustes adicionales para el ancho del submenú y la brecha entre submenú",
+        "pl": "Wdrożenie trybu pełnoekranowego dla kamer\nDodano możliwość wyłączenia \"swipe do otwarcia menu\" w widoku mobilnym\nPoprawiony numer z dialogiem potwierdzającym widget stanu\nDodano ustawienia dla szerokości podmenu i przepaść pomiędzy elementami podmenu",
+        "uk": "Реалізовано повноекранний режим для камер\nДодана можливість відключення \"попередньо відкрити меню\" у мобільному виді\nВиправлено проблему з діалогом підтвердження для державного віджету\nДодано налаштування ширини підменю і проміжок між предметами підменю",
+        "zh-cn": "实施摄像头全屏模式\n增加了移动视图中禁用\"刷子打开菜单\"的可能性\n纠正状态部件的确认对话框中的问题\n添加子菜单宽度和子菜单项目间间间隔的设置"
+      },
       "1.4.2": {
         "en": "Allowed setting ON value for dimmer\nAllowed inverting values in the popup dialog for shutter and blinds control\nAdded the control dialog for state widget\nAllowed setting up the title padding\nAdded possibility to show the last change time for scenes",
         "de": "Erlaubte Einstellung ON-Wert für Dimmer\nErlaubt invertierende Werte im Popup-Dialog für Shutter- und Blindsteuerung\nHinzugefügt die Steuerung Dialog für Zustand Widget\nErlaubte Einrichtung der Titelpolsterung\nMöglichkeit, die letzte Änderungszeit für Szenen zu zeigen",
@@ -80,19 +93,6 @@
         "pl": "Poprawiono okno dialogowe ikon",
         "uk": "Виправлено діалог іконки",
         "zh-cn": "更正图标对话框"
-      },
-      "1.3.3": {
-        "en": "Corrected \"close on click\" option for shutter and dimmer\nImproved the build pipeline",
-        "de": "Bestimmte Option \"Close on click\" für Shutter und Dimmer\nVerbessert die Baupipeline",
-        "ru": "Исправлена опция \"закрыть нажатие\" для затвора и диммера\nУлучшен трубопровод",
-        "pt": "Opção correta de \"close on click\" para obturador e dimmer\nMelhorou o pipeline de compilação",
-        "nl": "Gecorrigeerde \"close on click\" optie voor sluiter en dimmer\nVerbeterde bouwpijpleiding",
-        "fr": "Option corrigée \"fermer le clic\" pour obturateur et variateur\nAmélioration du pipeline de construction",
-        "it": "Corretto \"chiudi su click\" opzione per l'otturatore e dimmer\nMigliorata la pipeline di costruzione",
-        "es": "Opción \"cerrar en clic\" corregida para obturador y dimmer\nMejorado el oleoducto de construcción",
-        "pl": "Skorygowana opcja \"close on click\" dla migawki i przyciemniacza\nUlepszenie rurociągu budowlanego",
-        "uk": "Виправлено \"закривати натискання\" варіант для затвору і занурення\nПокращення будівельного трубопроводу",
-        "zh-cn": "更正了“ 点击时关闭” 选项, 用于关闭和淡化\n改善建设管道"
       }
     },
     "licenseInformation": {

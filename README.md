@@ -69,6 +69,12 @@ For detailed instructions and more information, it is recommended to watch the l
     ### **WORK IN PROGRESS**
 -->
 ## Changelog
+### 1.4.3 (2025-05-31)
+* (bluefox) Implemented the full-screen mode for cameras
+* (bluefox) Added the possibility of disabling "swipe to open the menu" in the mobile view
+* (bluefox) Corrected issue with confirmation dialog for the state widget
+* (bluefox) Added settings for submenu width and gap between submenu items
+
 ### 1.4.2 (2025-05-25)
 * (bluefox) Allowed setting ON value for dimmer
 * (bluefox) Allowed inverting values in the popup dialog for shutter and blinds control
