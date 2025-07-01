@@ -1,9 +1,9 @@
 {
   "common": {
     "name": "vis-2-widgets-jaeger-design",
-    "version": "1.4.4",
+    "version": "1.4.5",
     "news": {
-      "1.4.4": {
+      "1.4.5": {
         "en": "Corrected the editing of scenes\nAdded the right padding for the time",
         "de": "Korrektur der Bearbeitung von Szenen\nHinzufügen der richtigen Polsterung für die Zeit",
         "ru": "Исправлено редактирование сцен\nДобавлена правильная подкладка на время",
