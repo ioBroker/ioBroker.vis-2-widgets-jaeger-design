@@ -1,6 +1,6 @@
 {
   "name": "iobroker.vis-2-widgets-jaeger-design",
-  "version": "1.4.6",
+  "version": "1.4.7",
   "description": "ioBroker vis2 jaeger widgets",
   "author": "bluefox <dogafox@gmail.com>",
   "contributors": [
@@ -26,7 +26,7 @@
     "@iobroker/build-tools": "^2.0.15",
     "@iobroker/eslint-config": "^2.0.2",
     "@iobroker/vis-2-widgets-testing": "^1.0.6",
-    "@types/node": "^24.0.7"
+    "@types/node": "^24.0.8"
   },
   "files": [
     "admin/",

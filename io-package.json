@@ -1,22 +1,9 @@
 {
   "common": {
     "name": "vis-2-widgets-jaeger-design",
-    "version": "1.4.6",
+    "version": "1.4.7",
     "news": {
-      "1.4.6": {
-        "en": "Corrected the editing of scenes\nAdded the right padding for the time",
-        "de": "Korrektur der Bearbeitung von Szenen\nHinzufügen der richtigen Polsterung für die Zeit",
-        "ru": "Исправлено редактирование сцен\nДобавлена правильная подкладка на время",
-        "pt": "Corrigido a edição de cenas\nAdicionado o enchimento certo para o tempo",
-        "nl": "Het bewerken van scènes gecorrigeerd\nDe juiste opvulling voor de tijd toegevoegd",
-        "fr": "Correction de l'édition des scènes\nAjout du bon rembourrage pour le temps",
-        "it": "Corretto il montaggio delle scene\nAggiunto il diritto imbottitura per il tempo",
-        "es": "Corregido la edición de escenas\nAñadido el relleno derecho por el tiempo",
-        "pl": "Naprawiono edycję scen\nDodano prawy wyściełacz na czas",
-        "uk": "Виправлено редагування сцен\nДодана права начинка на час",
-        "zh-cn": "更正了场景的编辑\n添加了时间的右补丁"
-      },
-      "1.4.5": {
+      "1.4.7": {
         "en": "Corrected the editing of scenes\nAdded the right padding for the time",
         "de": "Korrektur der Bearbeitung von Szenen\nHinzufügen der richtigen Polsterung für die Zeit",
         "ru": "Исправлено редактирование сцен\nДобавлена правильная подкладка на время",
