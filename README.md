@@ -69,7 +69,7 @@ For detailed instructions and more information, it is recommended to watch the l
     ### **WORK IN PROGRESS**
 -->
 ## Changelog
-### 1.4.5 (2025-07-01)
+### 1.4.6 (2025-07-01)
 * (bluefox) Corrected the editing of scenes
 * (bluefox) Added the right padding for the time
 
