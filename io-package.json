@@ -1,8 +1,21 @@
 {
   "common": {
     "name": "vis-2-widgets-jaeger-design",
-    "version": "1.4.7",
+    "version": "1.4.8",
     "news": {
+      "1.4.8": {
+        "en": "Corrected the icon selection dialog",
+        "de": "Der Dialog zur Auswahl des Symbols wurde korrigiert",
+        "ru": "Исправлен диалог выбора иконок",
+        "pt": "Corrigido o diálogo de seleção de ícones",
+        "nl": "Het pictogramselectiedialoogvenster corrigeren",
+        "fr": "Correction de la boîte de dialogue de sélection des icônes",
+        "it": "Corretto il dialogo di selezione dell'icona",
+        "es": "Corregido el diálogo de selección de iconos",
+        "pl": "Poprawiono okno wyboru ikon",
+        "uk": "Виправлено діалог вибору ікони",
+        "zh-cn": "更正图标选择对话框"
+      },
       "1.4.7": {
         "en": "Corrected the editing of scenes\nAdded the right padding for the time",
         "de": "Korrektur der Bearbeitung von Szenen\nHinzufügen der richtigen Polsterung für die Zeit",
