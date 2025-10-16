@@ -1,8 +1,21 @@
 {
   "common": {
     "name": "vis-2-widgets-jaeger-design",
-    "version": "1.4.8",
+    "version": "1.4.9",
     "news": {
+      "1.4.9": {
+        "en": "Corrected the icon selection dialog\nCorrected actions selection",
+        "de": "Der Dialog zur Auswahl des Symbols wurde korrigiert\nAuswahl der korrigierten Aktionen",
+        "ru": "Исправлен диалог выбора иконок\nИсправленный выбор действий",
+        "pt": "Corrigido o diálogo de seleção de ícones\nSeleção de ações corrigidas",
+        "nl": "Het pictogramselectiedialoogvenster corrigeren\nSelectie van gecorrigeerde acties",
+        "fr": "Correction de la boîte de dialogue de sélection des icônes\nSélection des actions corrigées",
+        "it": "Corretto il dialogo di selezione dell'icona\nSelezione delle azioni corrette",
+        "es": "Corregido el diálogo de selección de iconos\nSelección de acciones corregidas",
+        "pl": "Poprawiono okno wyboru ikon\nWybór skorygowanych działań",
+        "uk": "Виправлено діалог вибору ікони\nПравильний вибір дій",
+        "zh-cn": "更正图标选择对话框\n已更正的动作选择"
+      },
       "1.4.8": {
         "en": "Corrected the icon selection dialog",
         "de": "Der Dialog zur Auswahl des Symbols wurde korrigiert",
@@ -80,19 +93,6 @@
         "pl": "Poprawione min / max przez termostat",
         "uk": "Виправлено min/max термостат",
         "zh-cn": "通过自动调温器修正的分钟/最大值"
-      },
-      "1.3.9": {
-        "en": "Corrected confirmation dialog. Close now works\nCaught the possible error in thermostat",
-        "de": "Korrigierte Bestätigung Dialog. Jetzt schließen\nErwischt den möglichen Fehler in Thermostat",
-        "ru": "Исправлен диалог подтверждения. Закрыть сейчас работает\nПоймать возможную ошибку в термостате",
-        "pt": "Diálogo de confirmação corrigido. Fechar agora funciona\nApanhado o possível erro no termostato",
-        "nl": "Gecorrigeerde bevestigingsdialoog. Sluiten werkt nu\nDe mogelijke fout in thermostaat gevonden",
-        "fr": "Boîte de dialogue de confirmation corrigée. Fermer fonctionne maintenant\nAttrapé l'erreur possible dans le thermostat",
-        "it": "Finestra di conferma corretta. Chiudi ora i lavori\nCattura il possibile errore nel termostato",
-        "es": "Diálogo de confirmación corregido. Cerrar ahora funciona\nTrajo el posible error en el termostato",
-        "pl": "Poprawione okno potwierdzenia. Zamknij teraz działa\nZłapał możliwy błąd w termostacie",
-        "uk": "Виправлений діалог підтвердження. Закрити зараз роботи\nСпіймана можливою помилкою в термостаті",
-        "zh-cn": "更正确认对话框 。 关闭现在工作\n在自动调温器中发现可能的错误"
       }
     },
     "licenseInformation": {
