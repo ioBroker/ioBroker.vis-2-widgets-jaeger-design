@@ -272,5 +272,5 @@ For detailed instructions and more information, it is recommended to watch the l
 * (bluefox) initial commit
 
 ## License
-Copyright (c) 2022-2025 bluefox <dogafox@gmail.com>
+Copyright (c) 2022-2026 bluefox <dogafox@gmail.com>
 All rights reserved.
