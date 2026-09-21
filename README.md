@@ -277,6 +277,8 @@ For detailed instructions and more information, it is recommended to watch the l
 ### 0.1.3 (2023-01-30)
 * (bluefox) initial commit
 
+[Older changelogs can be found there](CHANGELOG_OLD.md)
+
 ## License
 Copyright (c) 2022-2026 bluefox <dogafox@gmail.com>
 All rights reserved.
