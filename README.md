@@ -370,6 +370,8 @@ A media player card: title, artist, cover, play/pause, previous/next, shuffle, m
 ### 0.1.3 (2023-01-30)
 * (bluefox) initial commit
 
+[Older changelogs can be found there](CHANGELOG_OLD.md)
+
 ## License
 Copyright (c) 2022-2026 bluefox <dogafox@gmail.com>
 All rights reserved.
