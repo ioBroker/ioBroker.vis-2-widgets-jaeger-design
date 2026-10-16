@@ -1,6 +1,6 @@
 {
   "name": "iobroker.vis-2-widgets-jaeger-design",
-  "version": "1.4.16",
+  "version": "2.0.0",
   "description": "ioBroker vis2 jaeger widgets",
   "author": "bluefox <dogafox@gmail.com>",
   "contributors": [
@@ -19,14 +19,13 @@
     "vis-2-widgets-jaeger-design"
   ],
   "devDependencies": {
-    "@alcalzone/release-script": "^5.0.0",
-    "@alcalzone/release-script-plugin-iobroker": "^4.0.0",
-    "@alcalzone/release-script-plugin-license": "^4.0.0",
-    "@iobroker/adapter-react-v5": "^8.0.13",
-    "@iobroker/build-tools": "^2.0.15",
-    "@iobroker/eslint-config": "^2.2.0",
-    "@iobroker/vis-2-widgets-testing": "^1.0.6",
-    "@types/node": "^25.0.2"
+    "@alcalzone/release-script": "^5.2.1",
+    "@alcalzone/release-script-plugin-iobroker": "^5.2.0",
+    "@alcalzone/release-script-plugin-license": "^5.2.2",
+    "@iobroker/build-tools": "^3.0.3",
+    "@iobroker/eslint-config": "^2.3.4",
+    "@iobroker/vis-2-widgets-testing": "^2.0.0",
+    "@types/node": "^26.6.5"
   },
   "files": [
     "admin/",
@@ -37,7 +36,6 @@
     "LICENSE"
   ],
   "scripts": {
-    "check": "tsc --noEmit -p tsconfig.check.json",
     "prepublishOnly": "node tasks",
     "lint": "eslint",
     "build": "node tasks",
@@ -52,7 +50,7 @@
     "test": "mocha ./test/*.test.js",
     "test:integration": "mocha ./test/*.test.js",
     "update-packages": "npx -y npm-check-updates --upgrade && cd src-widgets && npx -y npm-check-updates --upgrade",
-    "npm": "npm i && cd src-widgets && npm i -f"
+    "npm": "npm i && cd src-widgets && npm i"
   },
   "bugs": {
     "url": "https://github.com/ioBroker/ioBroker.vis-2-widgets-jaeger-design/issues"

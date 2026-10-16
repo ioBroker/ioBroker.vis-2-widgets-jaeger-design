@@ -1,8 +1,60 @@
 {
   "common": {
     "name": "vis-2-widgets-jaeger-design",
-    "version": "1.4.16",
+    "version": "2.0.0",
     "news": {
+      "2.0.0": {
+        "en": "Migrated to React 19 and vis-2 2.20.0",
+        "de": "Migration zu React 19 und Vis-2 2.20.0",
+        "ru": "Перешел на React 19 и vis-2 2.20.0",
+        "pt": "Migrou para React 19 e vis-2 2.20.0",
+        "nl": "Gemigreerd naar React 19 en vis-2 2.20.0",
+        "fr": "Migré vers React 19 et vis-2 2.20.0",
+        "it": "Migrato a React 19 e vis-2 2.20.0",
+        "es": "Migró a React 19 y vis-2 2.20.0",
+        "pl": "Migracja do React 19 i vis-2 2.20.0",
+        "uk": "Перемічено до React 19 та vis-2 2.20.0",
+        "zh-cn": "迁移到 React 19 和 vis-2 2.20.0"
+      },
+      "1.4.20": {
+        "en": "Hide the menu on mobile devices if no scenes or actions are defined",
+        "de": "Verstecken Sie das Menü auf mobilen Geräten, wenn keine Szenen oder Aktionen definiert sind",
+        "ru": "Скрыть меню на мобильных устройствах, если не определены сцены или действия",
+        "pt": "Ocultar o menu em dispositivos móveis se não forem definidas cenas ou ações",
+        "nl": "Verberg het menu op mobiele apparaten als er geen scènes of acties zijn gedefinieerd",
+        "fr": "Cacher le menu sur les appareils mobiles si aucune scène ou action n'est définie",
+        "it": "Nascondi il menu sui dispositivi mobili se non vengono definite scene o azioni",
+        "es": "Ocultar el menú en dispositivos móviles si no se definen escenas o acciones",
+        "pl": "Ukryj menu na urządzeniach mobilnych, jeśli nie są zdefiniowane sceny lub działania",
+        "uk": "Приховати меню на мобільних пристроях, якщо не визначені події або дії",
+        "zh-cn": "如果没有定义场景或动作, 在移动设备上隐藏菜单"
+      },
+      "1.4.19": {
+        "en": "Corrected possible error with invalid theme name",
+        "de": "Mögliche Fehler mit ungültigem Themennamen behoben",
+        "ru": "Исправлена возможная ошибка с некорректным названием темы",
+        "pt": "Corrigido possível erro com nome de tema inválido",
+        "nl": "Verbeterde mogelijke fout met ongeldige themanaam",
+        "fr": "Erreur possible corrigée avec nom de thème invalide",
+        "it": "Corretto errore possibile con il nome a tema non valido",
+        "es": "Corregido posible error con nombre de tema inválido",
+        "pl": "Poprawiony możliwy błąd z nieprawidłową nazwą motywu",
+        "uk": "Виправлена можлива помилка з недійсною назвою теми",
+        "zh-cn": "用无效的主题名称更正了可能的错误"
+      },
+      "1.4.18": {
+        "en": "Added configurable label for scenes and actions\nCorrected order of the scenes and actions",
+        "de": "Konfigurierbares Label für Szenen und Aktionen hinzugefügt\nKorrigierte Reihenfolge der Szenen und Aktionen",
+        "ru": "Добавлена настраиваемая метка для сцен и действий\nИсправленный порядок сцен и действий",
+        "pt": "Rótulo configurável adicionado para cenas e ações\nOrdem corrigida das cenas e ações",
+        "nl": "Configureerbaar label toegevoegd voor scènes en acties\nGecorrigeerde volgorde van de scènes en acties",
+        "fr": "Ajout d'une étiquette configurable pour les scènes et les actions\nOrdre corrigé des scènes et des actions",
+        "it": "Aggiunta etichetta configurabile per scene e azioni\nOrdine corretto delle scene e delle azioni",
+        "es": "Etiqueta configurable agregada para escenas y acciones\nOrden corregido de las escenas y acciones",
+        "pl": "Dodano konfigurowalną etykietę dla scen i akcji\nPoprawiony porządek scen i działań",
+        "uk": "Додано конфігурацію етикетки для сцен і дій\nВиправлено порядок сцен і дій",
+        "zh-cn": "为场景和行动添加的可配置标签\n已更正的场景和行动顺序"
+      },
       "1.4.16": {
         "en": "Added ON/OFF object ID for dimmer",
         "de": "Objekt-ID für Dimmer hinzugefügt",
@@ -30,58 +82,6 @@
         "zh-cn": "未找到底片的更正案件"
       },
       "1.4.14": {
-        "en": "Corrected case if the floor was not found",
-        "de": "Korrigierter Fall, wenn der Boden nicht gefunden wurde",
-        "ru": "Исправлено дело, если пол не был найден",
-        "pt": "Caso corrigido se o piso não foi encontrado",
-        "nl": "Gecorrigeerd geval indien de vloer niet is gevonden",
-        "fr": "Cas corrigé si le plancher n'a pas été trouvé",
-        "it": "Caso corretto se il pavimento non è stato trovato",
-        "es": "Caso corregido si no se encontró el piso",
-        "pl": "Poprawiony przypadek, jeśli podłoga nie została znaleziona",
-        "uk": "Виправлений випадок, якщо підлогу не знайдено",
-        "zh-cn": "未找到底片的更正案件"
-      },
-      "1.4.13": {
-        "en": "Corrected case if the floor was not found",
-        "de": "Korrigierter Fall, wenn der Boden nicht gefunden wurde",
-        "ru": "Исправлено дело, если пол не был найден",
-        "pt": "Caso corrigido se o piso não foi encontrado",
-        "nl": "Gecorrigeerd geval indien de vloer niet is gevonden",
-        "fr": "Cas corrigé si le plancher n'a pas été trouvé",
-        "it": "Caso corretto se il pavimento non è stato trovato",
-        "es": "Caso corregido si no se encontró el piso",
-        "pl": "Poprawiony przypadek, jeśli podłoga nie została znaleziona",
-        "uk": "Виправлений випадок, якщо підлогу не знайдено",
-        "zh-cn": "未找到底片的更正案件"
-      },
-      "1.4.12": {
-        "en": "Corrected case if the floor was not found",
-        "de": "Korrigierter Fall, wenn der Boden nicht gefunden wurde",
-        "ru": "Исправлено дело, если пол не был найден",
-        "pt": "Caso corrigido se o piso não foi encontrado",
-        "nl": "Gecorrigeerd geval indien de vloer niet is gevonden",
-        "fr": "Cas corrigé si le plancher n'a pas été trouvé",
-        "it": "Caso corretto se il pavimento non è stato trovato",
-        "es": "Caso corregido si no se encontró el piso",
-        "pl": "Poprawiony przypadek, jeśli podłoga nie została znaleziona",
-        "uk": "Виправлений випадок, якщо підлогу не знайдено",
-        "zh-cn": "未找到底片的更正案件"
-      },
-      "1.4.11": {
-        "en": "Corrected case if the floor was not found",
-        "de": "Korrigierter Fall, wenn der Boden nicht gefunden wurde",
-        "ru": "Исправлено дело, если пол не был найден",
-        "pt": "Caso corrigido se o piso não foi encontrado",
-        "nl": "Gecorrigeerd geval indien de vloer niet is gevonden",
-        "fr": "Cas corrigé si le plancher n'a pas été trouvé",
-        "it": "Caso corretto se il pavimento non è stato trovato",
-        "es": "Caso corregido si no se encontró el piso",
-        "pl": "Poprawiony przypadek, jeśli podłoga nie została znaleziona",
-        "uk": "Виправлений випадок, якщо підлогу не знайдено",
-        "zh-cn": "未找到底片的更正案件"
-      },
-      "1.4.10": {
         "en": "Corrected case if the floor was not found",
         "de": "Korrigierter Fall, wenn der Boden nicht gefunden wurde",
         "ru": "Исправлено дело, если пол не был найден",
@@ -154,7 +154,7 @@
     "tier": 3,
     "globalDependencies": [
       {
-        "vis-2": ">=2.12.8"
+        "vis-2": ">=2.20.0"
       },
       {
         "admin": ">=7.6.1"
