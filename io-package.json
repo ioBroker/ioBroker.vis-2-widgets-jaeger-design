@@ -1,9 +1,9 @@
 {
   "common": {
     "name": "vis-2-widgets-jaeger-design",
-    "version": "2.0.0",
+    "version": "1.5.0",
     "news": {
-      "2.0.0": {
+      "1.5.0": {
         "en": "Migrated to React 19 and vis-2 2.20.0",
         "de": "Migration zu React 19 und Vis-2 2.20.0",
         "ru": "Перешел на React 19 и vis-2 2.20.0",

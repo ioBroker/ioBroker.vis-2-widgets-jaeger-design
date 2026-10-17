@@ -149,7 +149,7 @@ A media player card: title, artist, cover, play/pause, previous/next, shuffle, m
     ### **WORK IN PROGRESS**
 -->
 ## Changelog
-### 2.0.0 (2026-10-16)
+### 1.5.0 (2026-10-17)
 * (bluefox) Migrated to React 19 and vis-2 2.20.0
 
 ### 1.4.20 (2026-04-27)
@@ -369,8 +369,6 @@ A media player card: title, artist, cover, play/pause, previous/next, shuffle, m
 
 ### 0.1.3 (2023-01-30)
 * (bluefox) initial commit
-
-[Older changelogs can be found there](CHANGELOG_OLD.md)
 
 ## License
 Copyright (c) 2022-2026 bluefox <dogafox@gmail.com>
