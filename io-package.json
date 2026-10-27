@@ -1,9 +1,35 @@
 {
   "common": {
     "name": "vis-2-widgets-jaeger-design",
-    "version": "2.0.0",
+    "version": "1.5.2",
     "news": {
-      "2.0.0": {
+      "1.5.2": {
+        "en": "Shutter and dimmer popups: percent and memory buttons have the widget height on mobile devices",
+        "de": "Shutter- und Dimmer-Popups: Prozent- und Speichertasten auf Mobilgeräten",
+        "ru": "Всплывающие окна с затвором и диммером: кнопки процентов и памяти имеют высоту виджета на мобильных устройствах",
+        "pt": "Obturador e dimmer: botões de porcentagem e memória têm a altura do widget em dispositivos móveis",
+        "nl": "Pop-ups met sluiter en dimmer: de procent- en geheugenknoppen hebben de hoogte van de widget op mobiele apparaten",
+        "fr": "Volet et gradateur : les boutons % et mémoire ont la hauteur du widget sur les appareils mobiles",
+        "it": "Popup Shutter e dimmer: i tasti% e memory hanno l'altezza del widget sui dispositivi mobili",
+        "es": "Obturador y atenuador: los botones de porcentaje y memoria tienen la altura del widget en los dispositivos móviles",
+        "pl": "Wyskakujące okienka migawki i ściemniacze: procent i przyciski pamięci mają wysokość widżetu na urządzeniach mobilnych",
+        "uk": "Спливаючі вікна затвора та диммера: кнопки відсотків та пам'яті мають висоту віджета на мобільних пристроях",
+        "zh-cn": "快门和调光器弹出窗口：百分比和内存按钮具有移动设备上的小部件高度"
+      },
+      "1.5.1": {
+        "en": "Corrected the layout of the thermostat dialog on mobile devices\nThermostat dialog shows humidity and valve position even if no actual temperature is configured",
+        "de": "Das Layout des Thermostat-Dialogs auf Mobilgeräten wurde korrigiert\nThermostat-Dialog zeigt Feuchte und Ventilposition, auch wenn keine Temperatur konfiguriert ist",
+        "ru": "Исправлено расположение диалогового окна термостата на мобильных устройствах\nДиалоговое окно термостата показывает влажность и положение клапана, даже если фактическая температура не настроена",
+        "pt": "Corrigido o layout do diálogo do termostato em celulares\nO diálogo do termostato mostra a umidade e a posição da válvula mesmo sem temperatura",
+        "nl": "De indeling van het thermostaatdialoogvenster op mobiele apparaten gecorrigeerd\nHet thermostaatdialoogvenster toont de luchtvochtigheid en de positie van de klep, zelfs als er geen werkelijke temperatuur is ingesteld",
+        "fr": "La disposition du dialogue du thermostat sur les appareils mobiles a été corrigée\nLe dialogue du thermostat indique l'humidité et la position de la vanne même si aucune température n'est configurée",
+        "it": "Corretto il layout del termostato sui dispositivi mobili\nIl termostato mostra umidità e posizione della valvola anche se non è impostata",
+        "es": "Se ha corregido el diseño del cuadro de diálogo del termostato en los móviles\nEl termostato muestra la humedad y la posición de la válvula aunque no esté configurada",
+        "pl": "Poprawiono układ okna dialogowego termostatu na urządzeniach mobilnych\nOkno dialogowe termostatu pokazuje wilgotność i położenie zaworu, nawet jeśli faktyczna temperatura nie jest skonfigurowana",
+        "uk": "Виправлено розташування діалогового вікна термостата на мобільних пристроях\nДіалогове вікно термостата показує вологість і положення клапана, навіть якщо фактична температура не налаштована",
+        "zh-cn": "更正了移动设备上恒温器对话框的布局\n即使没有配置实际温度，恒温器对话框也会显示湿度和阀门位置"
+      },
+      "1.5.0": {
         "en": "Migrated to React 19 and vis-2 2.20.0",
         "de": "Migration zu React 19 und Vis-2 2.20.0",
         "ru": "Перешел на React 19 и vis-2 2.20.0",
@@ -67,32 +93,6 @@
         "pl": "Dodano identyfikator obiektu dla przyciemniacza",
         "uk": "Додано ідентифікатор об'єкта ON/OFF для dimmer",
         "zh-cn": "为 dimmer 添加 ON/OFF 对象ID"
-      },
-      "1.4.15": {
-        "en": "Corrected case if the floor was not found",
-        "de": "Korrigierter Fall, wenn der Boden nicht gefunden wurde",
-        "ru": "Исправлено дело, если пол не был найден",
-        "pt": "Caso corrigido se o piso não foi encontrado",
-        "nl": "Gecorrigeerd geval indien de vloer niet is gevonden",
-        "fr": "Cas corrigé si le plancher n'a pas été trouvé",
-        "it": "Caso corretto se il pavimento non è stato trovato",
-        "es": "Caso corregido si no se encontró el piso",
-        "pl": "Poprawiony przypadek, jeśli podłoga nie została znaleziona",
-        "uk": "Виправлений випадок, якщо підлогу не знайдено",
-        "zh-cn": "未找到底片的更正案件"
-      },
-      "1.4.14": {
-        "en": "Corrected case if the floor was not found",
-        "de": "Korrigierter Fall, wenn der Boden nicht gefunden wurde",
-        "ru": "Исправлено дело, если пол не был найден",
-        "pt": "Caso corrigido se o piso não foi encontrado",
-        "nl": "Gecorrigeerd geval indien de vloer niet is gevonden",
-        "fr": "Cas corrigé si le plancher n'a pas été trouvé",
-        "it": "Caso corretto se il pavimento non è stato trovato",
-        "es": "Caso corregido si no se encontró el piso",
-        "pl": "Poprawiony przypadek, jeśli podłoga nie została znaleziona",
-        "uk": "Виправлений випадок, якщо підлогу не знайдено",
-        "zh-cn": "未找到底片的更正案件"
       }
     },
     "licenseInformation": {
