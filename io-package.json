@@ -96,16 +96,35 @@
       }
     },
     "licenseInformation": {
+      "license": "UNLICENSED",
       "type": "commercial",
-      "link": "https://github.com/ioBroker/ioBroker.vis-2-widgets-jaeger-design/blob/master/LICENSE"
+      "link": "https://www.iobroker.com/productoverview"
     },
     "titleLang": {
       "en": "Vis 2 Jaeger Styled Widgets",
-      "de": "Vis 2 Jaeger Styled Widgets"
+      "de": "Vis 2 Jaeger Styled Widgets",
+      "ru": "Vis 2 Jaeger Styled Widgets",
+      "pt": "Vis 2 Jaeger Styled Widgets",
+      "nl": "Vis 2 Jaeger Styled Widgets",
+      "fr": "Vis 2 Jaeger Styled Widgets",
+      "it": "Vis 2 Jaeger Styled Widgets",
+      "es": "Vis 2 Jaeger Styled Widgets",
+      "pl": "Vis 2 Jaeger Styled Widgets",
+      "uk": "Vis 2 Jaeger Styled Widgets",
+      "zh-cn": "Vis 2 Jaeger Styled Widgets"
     },
     "desc": {
       "en": "Vis 2 Jaeger Styled Widgets",
-      "de": "Vis 2 Jaeger Styled Widgets"
+      "de": "Vis 2 Jaeger Styled Widgets",
+      "ru": "Vis 2 Jaeger Styled Widgets",
+      "pt": "Vis 2 Jaeger Styled Widgets",
+      "nl": "Vis 2 Jaeger Styled Widgets",
+      "fr": "Vis 2 Jaeger Styled Widgets",
+      "it": "Vis 2 Jaeger Styled Widgets",
+      "es": "Vis 2 Jaeger Styled Widgets",
+      "pl": "Vis 2 Jaeger Styled Widgets",
+      "uk": "Vis 2 Jaeger Styled Widgets",
+      "zh-cn": "Vis 2 Jaeger Styled Widgets"
     },
     "authors": [
       "bluefox <dogafox@gmail.com>"
@@ -157,7 +176,7 @@
         "vis-2": ">=2.20.0"
       },
       {
-        "admin": ">=7.6.1"
+        "admin": ">=7.6.17"
       }
     ]
   },

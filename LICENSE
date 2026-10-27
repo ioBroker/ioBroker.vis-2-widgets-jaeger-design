@@ -1,2 +1,25 @@
 Copyright (c) 2022-2026 bluefox <dogafox@gmail.com>
 All rights reserved.
+
+This software is proprietary and commercial. It is not open source.
+
+1. Use of this software requires a valid license purchased from ioBroker GmbH.
+   Prices, license terms and purchase options: https://www.iobroker.com/productoverview
+
+2. A valid license entitles the licensee to install and use the software within ioBroker
+   on the systems covered by the license. Without a valid license the software may only
+   be used for evaluation purposes to the extent permitted by the built-in license check.
+
+3. Without prior written permission of the copyright holder it is not permitted to:
+   - copy, distribute, sublicense, rent, lend or sell the software or parts of it,
+   - modify, translate or create derivative works of the software,
+   - decompile, disassemble or otherwise reverse engineer the software, except where
+     expressly permitted by applicable law,
+   - remove, disable or circumvent the license check or any copyright notices.
+
+4. THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED,
+   INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR
+   PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE
+   FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR
+   OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER
+   DEALINGS IN THE SOFTWARE, EXCEPT WHERE SUCH LIABILITY IS MANDATORY UNDER APPLICABLE LAW.

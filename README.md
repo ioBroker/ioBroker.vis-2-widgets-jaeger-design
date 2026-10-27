@@ -149,6 +149,12 @@ A media player card: title, artist, cover, play/pause, previous/next, shuffle, m
     ### **WORK IN PROGRESS**
 -->
 ## Changelog
+### **WORK IN PROGRESS**
+* (bluefox) Home page shows the info even if no scenes and no actions are defined
+* (bluefox) Info groups wrap instead of pushing the right side out of the screen; the width of info lines is configurable
+* (bluefox) State widget: for display-only numbers the color does not depend on the max value of the object anymore
+* (bluefox) Thermostat: the power button can be inverted (e.g., for HomematicIP control mode)
+
 ### 1.5.2 (2026-10-27)
 * (bluefox) Shutter and dimmer popups: percent and memory buttons have the widget height on mobile devices
 
@@ -165,6 +171,11 @@ A media player card: title, artist, cover, play/pause, previous/next, shuffle, m
 ### 1.4.19 (2026-03-13)
 * (bluefox) Corrected possible error with invalid theme name
 
+Older changes can be found in [CHANGELOG_OLD.md](CHANGELOG_OLD.md)
+
 ## License
 Copyright (c) 2022-2026 bluefox <dogafox@gmail.com>
 All rights reserved.
+
+This is a commercial adapter. Use requires a license, see https://www.iobroker.com/productoverview.
+The full license text can be found in the [LICENSE](LICENSE) file.
