@@ -1,4 +1,11 @@
 # Older changes
+## 1.5.1 (2026-10-27)
+* (bluefox) Corrected the layout of the thermostat dialog on mobile devices
+* (bluefox) Thermostat dialog shows humidity and valve position even if no actual temperature is configured
+
+## 1.5.0 (2026-10-17)
+* (bluefox) Migrated to React 19 and vis-2 2.20.0
+
 ## 1.4.20 (2026-04-27)
 * (bluefox) Hide the menu on mobile devices if no scenes or actions are defined
 

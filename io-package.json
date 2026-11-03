@@ -1,8 +1,34 @@
 {
   "common": {
     "name": "vis-2-widgets-jaeger-design",
-    "version": "1.5.5",
+    "version": "1.5.7",
     "news": {
+      "1.5.7": {
+        "en": "Copying a submenu gives its items new IDs, so the copied pages no longer take the settings (e.g., included or excluded scenes) of the original pages\nMenu items with the same ID are repaired when the layout settings are opened or imported from JSON",
+        "de": "Beim Kopieren von Untermenüs erhalten die Elemente neue IDs, sodass sie nicht mehr wie die Originalseiten sind\nMenüeinträge mit derselben ID werden beim Öffnen oder Import aus JSON repariert",
+        "ru": "Копирование подменю дает его элементам новые идентификаторы, поэтому скопированные страницы больше не используют настройки (например, включенные или исключенные сцены) исходных страниц\nЭлементы меню с одинаковым идентификатором восстанавливаются при открытии или импорте настроек макета из JSON",
+        "pt": "Copiar um submenu dá novos IDs para que as páginas copiadas não usem mais as configurações (ex: cenas incluídas ou excluídas).\nItens de menu com o mesmo ID são reparados ao abrir ou importar o layout do JSON",
+        "nl": "Als u een submenu kopieert, krijgen de items nieuwe ID's, zodat op de gekopieerde pagina's niet langer de instellingen (bijvoorbeeld opgenomen of uitgesloten scènes) van de originele pagina's worden gebruikt\nMenu-items met dezelfde ID worden gerepareerd wanneer de lay-outinstellingen worden geopend of geïmporteerd uit JSON",
+        "fr": "Copier un sous-menu donne un nouvel identifiant à ses éléments, de sorte que les pages copiées ne sont plus paramétrées (scènes incluses ou exclues, par exemple)\nLes éléments de menu portant le même identifiant sont réparés lorsque la mise en page est ouverte ou importée depuis JSON",
+        "it": "Copiare un sottomenu dà alle voci nuovi ID, quindi le pagine copiate non hanno più le impostazioni (scene incluse o escluse)\nLe voci di menu con lo stesso ID vengono riparate aprendo o importando il layout da JSON",
+        "es": "Copiar un submenú da a sus elementos nuevos ID, por lo que las páginas copiadas ya no toman los ajustes (p. ej., escenas incluidas o excluidas) de las originales\nLos elementos del menú con el mismo ID se reparan cuando se abren los ajustes de diseño o se importan de JSON",
+        "pl": "Kopiowanie podmenu daje jego elementom nowe identyfikatory, więc skopiowane strony nie mają już ustawień (np. scen dołączonych lub wykluczonych) oryginalnych stron\nElementy menu z tym samym identyfikatorem są naprawiane po otwarciu lub importowaniu ustawień układu z JSON",
+        "uk": "Копіювання підменю дає його елементам нові ідентифікатори, тому скопійовані сторінки більше не приймають налаштування (наприклад, включені або виключені сцени) оригінальних сторінок\nПункти меню з однаковим ідентифікатором відновлюються, коли параметри макета відкриваються або імпортуються з JSON",
+        "zh-cn": "复制子菜单会为其项目提供新的 ID，因此复制的页面不再采用原始页面的设置（例如，包含或排除的场景）\n打开布局设置或从 JSON 导入时，具有相同 ID 的菜单项会得到修复"
+      },
+      "1.5.6": {
+        "en": "Scene widgets placed in a page no longer get a too big font and save button on mobile phones",
+        "de": "Szene-Widgets auf einer Seite sind nicht mehr zu groß und speichern auf Handys",
+        "ru": "Виджеты сцен, размещенные на странице, больше не имеют слишком большого шрифта и кнопки сохранения на мобильных телефонах",
+        "pt": "Widgets de cena em uma página não têm mais fonte e botão de salvar em celulares",
+        "nl": "Scènewidgets die op een pagina worden geplaatst, krijgen niet langer een te groot lettertype en een knop Opslaan op mobiele telefoons",
+        "fr": "Les widgets de scène placés sur une page ne sont plus trop gros ni trop gros sur le bouton Enregistrer",
+        "it": "I widget di scena in una pagina non hanno più caratteri grandi e salva",
+        "es": "Los widgets de escena de una página ya no tienen una fuente muy grande y el botón Guardar en los móviles",
+        "pl": "Widżety scen umieszczone na stronie nie otrzymują już zbyt dużej czcionki i przycisku zapisywania na telefonach komórkowych",
+        "uk": "Віджети сцени, розміщені на сторінці, більше не отримують занадто великого шрифту та кнопки збереження на мобільних телефоні",
+        "zh-cn": "放置在页面中的场景控件在手机上的字体和保存按钮不再太大"
+      },
       "1.5.5": {
         "en": "Dimmer: the popup shows the value in percent on the bar (can be hidden in the widget settings)\nPages with \"Include scenes\" or \"Include actions\" show only the scenes and actions of the current floor, the same as with \"Exclude\"\nMenu settings: \"Include scenes/actions\" offers only the items assigned to floors and shows which ones are visible on every floor\nUpdated packages",
         "de": "Dimmer: Das Popup zeigt den Wert in% auf der Leiste (in den Widget-Einstellungen verdeckbar)\nSeiten mit „Szenen einbeziehen“ oder „Aktionen einbeziehen“ zeigen nur Szenen und Aktionen der aktuellen Etage, genau wie „Ausschließen“\nMenüeinstellungen: „Szenen/Aktionen einbeziehen“ zeigt nur die Elemente der Stockwerke an und zeigt, welche sichtbar sind\nNeue Pakete",
@@ -67,32 +93,6 @@
         "pl": "Migracja do React 19 i vis-2 2.20.0",
         "uk": "Перемічено до React 19 та vis-2 2.20.0",
         "zh-cn": "迁移到 React 19 和 vis-2 2.20.0"
-      },
-      "1.4.20": {
-        "en": "Hide the menu on mobile devices if no scenes or actions are defined",
-        "de": "Verstecken Sie das Menü auf mobilen Geräten, wenn keine Szenen oder Aktionen definiert sind",
-        "ru": "Скрыть меню на мобильных устройствах, если не определены сцены или действия",
-        "pt": "Ocultar o menu em dispositivos móveis se não forem definidas cenas ou ações",
-        "nl": "Verberg het menu op mobiele apparaten als er geen scènes of acties zijn gedefinieerd",
-        "fr": "Cacher le menu sur les appareils mobiles si aucune scène ou action n'est définie",
-        "it": "Nascondi il menu sui dispositivi mobili se non vengono definite scene o azioni",
-        "es": "Ocultar el menú en dispositivos móviles si no se definen escenas o acciones",
-        "pl": "Ukryj menu na urządzeniach mobilnych, jeśli nie są zdefiniowane sceny lub działania",
-        "uk": "Приховати меню на мобільних пристроях, якщо не визначені події або дії",
-        "zh-cn": "如果没有定义场景或动作, 在移动设备上隐藏菜单"
-      },
-      "1.4.19": {
-        "en": "Corrected possible error with invalid theme name",
-        "de": "Mögliche Fehler mit ungültigem Themennamen behoben",
-        "ru": "Исправлена возможная ошибка с некорректным названием темы",
-        "pt": "Corrigido possível erro com nome de tema inválido",
-        "nl": "Verbeterde mogelijke fout met ongeldige themanaam",
-        "fr": "Erreur possible corrigée avec nom de thème invalide",
-        "it": "Corretto errore possibile con il nome a tema non valido",
-        "es": "Corregido posible error con nombre de tema inválido",
-        "pl": "Poprawiony możliwy błąd z nieprawidłową nazwą motywu",
-        "uk": "Виправлена можлива помилка з недійсною назвою теми",
-        "zh-cn": "用无效的主题名称更正了可能的错误"
       }
     },
     "licenseInformation": {
