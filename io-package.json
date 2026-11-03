@@ -1,8 +1,34 @@
 {
   "common": {
     "name": "vis-2-widgets-jaeger-design",
-    "version": "1.5.2",
+    "version": "1.5.5",
     "news": {
+      "1.5.5": {
+        "en": "Dimmer: the popup shows the value in percent on the bar (can be hidden in the widget settings)\nPages with \"Include scenes\" or \"Include actions\" show only the scenes and actions of the current floor, the same as with \"Exclude\"\nMenu settings: \"Include scenes/actions\" offers only the items assigned to floors and shows which ones are visible on every floor\nUpdated packages",
+        "de": "Dimmer: Das Popup zeigt den Wert in% auf der Leiste (in den Widget-Einstellungen verdeckbar)\nSeiten mit „Szenen einbeziehen“ oder „Aktionen einbeziehen“ zeigen nur Szenen und Aktionen der aktuellen Etage, genau wie „Ausschließen“\nMenüeinstellungen: „Szenen/Aktionen einbeziehen“ zeigt nur die Elemente der Stockwerke an und zeigt, welche sichtbar sind\nNeue Pakete",
+        "ru": "Диммер: во всплывающем окне отображается значение в процентах на панели (его можно скрыть в настройках виджета)\nНа страницах с надписью «Включить сцены» или «Включить действия» отображаются только сцены и действия текущего этажа, как и на странице «Исключить»\nНастройки меню: «Включить сцены/действия» предлагает только элементы, назначенные этажам, и показывает, какие из них видны на каждом этаже\nОбновленные пакеты",
+        "pt": "Dimmer: o pop-up mostra o valor em% na barra (pode ser ocultado no widget)\nPáginas com “Incluir cenas” ou “Incluir ações” mostram somente as cenas e ações do andar atual, como em “Excluir”\nConfigurações do menu: “Incluir cenas/ações” oferece apenas os itens atribuídos aos pisos e os visíveis em cada andar\nPacotes novos",
+        "nl": "Dimmer: de pop-up toont de waarde in procenten op de balk (kan worden verborgen in de instellingen van de widget)\nOp pagina's met „Scènes opnemen” of „Acties opnemen” worden alleen de scènes en acties van de huidige verdieping weergegeven, net zoals bij „Uitsluiten”\nMenu-instellingen: „Scènes/acties opnemen” biedt alleen de items die zijn toegewezen aan verdiepingen en laat zien welke op elke verdieping zichtbaar zijn\nBijgewerkte pakketten",
+        "fr": "Dimmer : la fenêtre affiche la valeur en pourcentage sur la barre (peut être masquée dans le widget)\nLes pages « Inclure des scènes » ou « Inclure des actions » n'affichent que les scènes et les actions de l'étage actuel, comme pour « Exclure »\nParamètres du menu : « Inclure des scènes/actions » ne propose que les éléments attribués aux étages et indique ceux qui sont visibles à chaque étage\nPackages mis à jour",
+        "it": "Dimmer: il popup mostra la percentuale sulla barra (nascosta nelle impostazioni del widget)\nLe pagine con «Includi scene» o «Includi azioni» mostrano solo le scene e le azioni del piano attuale, come con «Escludi»\nImpostazioni del menu: «Includi scene/azioni» offre solo le voci assegnate ai piani e mostra quelle visibili su ogni piano\nPacchi nuovi",
+        "es": "Atenuador: la ventana muestra el valor porcentual en la barra (se puede ocultar en los ajustes del widget)\nLas páginas con «Incluir escenas» o «Incluir acciones» muestran solo las escenas y acciones del piso actual, igual que con «Excluir»\nAjustes del menú: «Incluir escenas o acciones» solo ofrece los artículos asignados a las plantas y muestra cuáles están visibles en cada planta\nPaquetes nuevos",
+        "pl": "Ściemniacz: wyskakujące okienko pokazuje wartość w procentach na pasku (można ją ukryć w ustawieniach widżetu)\nStrony zawierające „Dołącz sceny” lub „Dołącz akcje” pokazują tylko sceny i akcje bieżącego piętra, tak samo jak w przypadku „Wyklucz”\nUstawienia menu: „Dołącz sceny/akcje” oferuje tylko elementy przypisane do pięter i pokazuje, które z nich są widoczne na każdym piętrze\nZaktualizowane pakiety",
+        "uk": "Диммер: спливаюче вікно показує значення у відсотках на панелі (може бути приховано в налаштуваннях віджета)\nСторінки з «Включити сцени» або «Включити дії» показують лише сцени та дії поточного поверху, як і у «Виключити»\nНалаштування меню: «Включити сцени/дії» пропонує лише елементи, призначені для поверхів, і показує, які з них видно на кожному поверсі\nОновлені пакети",
+        "zh-cn": "调光器：弹出窗口在栏上以百分比显示值（可以在小部件设置中隐藏）\n带有 “包含场景” 或 “包含动作” 的页面仅显示当前楼层的场景和动作，与 “排除” 相同\n菜单设置：“包括场景/动作” 仅提供分配给楼层的物品，并显示哪些物品在每个楼层可见\n更新的软件包"
+      },
+      "1.5.4": {
+        "en": "Home page shows the info even if no scenes and no actions are defined\nInfo groups wrap instead of pushing the right side out of the screen; the width of info lines is configurable\nState widget: for display-only numbers the color does not depend on the max value of the object anymore\nThermostat: the power button can be inverted (e.g., for HomematicIP control mode)\nCameras: the image is replaced only after the next image was loaded completely, so it does not disappear anymore",
+        "de": "Die Homepage zeigt die Infos, auch wenn keine Szenen und Aktionen definiert sind\nInfogruppen ziehen nicht nach rechts, die Breite der Infozeilen ist konfigurierbar\nStatus-Widget: Bei reinen Zahlen hängt die Farbe nicht mehr vom Maximalwert des Objekts ab\nThermostat: Der Netzschalter ist umkehrbar (z. B. für HomeMaticIP)\nKameras: Das Bild wird erst nach dem Laden des nächsten Bilds ersetzt, es verschwindet also nicht mehr",
+        "ru": "На главной странице отображается информация, даже если не определены ни сцены, ни действия\nИнформационные группы обертываются вместо того, чтобы отодвигать правую часть экрана; ширина информационных строк настраивается\nВиджет состояния: для чисел, доступных только для отображения, цвет больше не зависит от максимального значения объекта\nТермостат: кнопку питания можно инвертировать (например, для режима управления HomeaticIP)\nКамеры: изображение заменяется только после полной загрузки следующего изображения, поэтому оно больше не исчезает",
+        "pt": "A página inicial mostra a informação mesmo sem cenas e ações\nOs grupos de informações são agrupados em vez de sair da tela; a largura das linhas é configurável\nWidget de estado: para números só de exibição, a cor não depende mais do valor máximo do objeto\nTermostato: o botão liga/desliga pode ser invertido (p. ex., no modo IP doméstico)\nCâmeras: a imagem é substituída somente após o carregamento completo, para não desaparecer mais",
+        "nl": "De startpagina toont de informatie, zelfs als er geen scènes en geen acties zijn gedefinieerd\nInfogroepen worden ingepakt in plaats van de rechterkant uit het scherm te duwen; de breedte van de informatieregels is instelbaar\nStatuswidget: voor getallen die alleen worden weergegeven, is de kleur niet meer afhankelijk van de maximale waarde van het object\nThermostaat: de aan/uit-knop kan worden omgekeerd (bijvoorbeeld voor de HomeMaticIP-regelmodus)\nCamera's: het beeld wordt pas vervangen nadat het volgende beeld volledig is geladen, zodat het niet meer verdwijnt",
+        "fr": "La page d'accueil affiche les infos même si aucune scène ni action n'est définie\nLes groupes d'info s'enroulent au lieu de pointer du côté droit de l'écran ; la largeur des lignes d'info est configurable\nWidget d'état : pour les chiffres uniquement, la couleur ne dépend plus de la valeur maximale de l'objet\nThermostat : le bouton d'alimentation peut être inversé (par exemple, pour le mode HomeMaticIP)\nCaméras : l'image n'est remplacée qu'une fois l'image suivante complètement chargée, elle ne disparaît plus",
+        "it": "La home page mostra le info anche se non sono definite scene o azioni\nI gruppi informativi si raggruppano invece di spingere a destra; la larghezza è configurabile\nWidget di stato: per i numeri da mostrare il colore non dipende più dal valore massimo dell'oggetto\nTermostato: pulsante invertibile (ad es. in modalità HomeMaticIP)\nFotocamere: l'immagine viene sostituita solo dopo il caricamento completo, quindi non scompare più",
+        "es": "La página de inicio muestra la información aunque no se definan escenas ni acciones\nLos grupos de información se ajustan en lugar de empujar la parte derecha de la pantalla; el ancho de las líneas es configurable\nWidget de estado: para los números que solo se muestran, el color ya no depende del valor máximo del objeto\nTermostato: el botón de encendido se puede invertir (p. ej., en el modo de control IP doméstico)\nCámaras: la imagen solo se reemplaza cuando se carga por completo la siguiente imagen, por lo que ya no desaparece",
+        "pl": "Strona główna pokazuje informacje, nawet jeśli nie są zdefiniowane żadne sceny ani żadne działania\nGrupy informacji zawijają się zamiast wypychać prawą stronę z ekranu; szerokość linii informacyjnych jest konfigurowalna\nWidżet stanu: w przypadku liczb wyświetlanych tylko kolor nie zależy już od maksymalnej wartości obiektu\nTermostat: przycisk zasilania można odwrócić (np. w trybie sterowania HomeMaticip)\nKamery: obraz jest wymieniany dopiero po całkowitym załadowaniu następnego obrazu, więc już nie znika",
+        "uk": "Домашня сторінка показує інформацію, навіть якщо не визначено жодних сцен і дій\nІнформаційні групи обертаються замість того, щоб виштовхувати праву сторону з екрана; ширина інформаційних рядків налаштовується\nВіджет стану: для чисел, що відображаються лише на дисплеї, колір більше не залежить від максимального значення об'єкта\nТермостат: кнопка живлення може бути перевернута (наприклад, для режиму управління HomeMaticip)\nКамери: зображення замінюється лише після того, як наступне зображення було завантажено повністю, тому воно більше не зникає",
+        "zh-cn": "即使没有定义场景和动作，主页也会显示信息\n信息组会自动换行，而不是将右侧推出屏幕；信息行的宽度是可配置的\n状态控件：对于仅显示的数字，颜色不再取决于对象的最大值\n恒温器：电源按钮可以倒置（例如，用于 HomeMaticIP 控制模式）\n相机：只有在下一张图像完全加载后才会替换图像，因此图像不会再消失"
+      },
       "1.5.2": {
         "en": "Shutter and dimmer popups: percent and memory buttons have the widget height on mobile devices",
         "de": "Shutter- und Dimmer-Popups: Prozent- und Speichertasten auf Mobilgeräten",
@@ -67,45 +93,38 @@
         "pl": "Poprawiony możliwy błąd z nieprawidłową nazwą motywu",
         "uk": "Виправлена можлива помилка з недійсною назвою теми",
         "zh-cn": "用无效的主题名称更正了可能的错误"
-      },
-      "1.4.18": {
-        "en": "Added configurable label for scenes and actions\nCorrected order of the scenes and actions",
-        "de": "Konfigurierbares Label für Szenen und Aktionen hinzugefügt\nKorrigierte Reihenfolge der Szenen und Aktionen",
-        "ru": "Добавлена настраиваемая метка для сцен и действий\nИсправленный порядок сцен и действий",
-        "pt": "Rótulo configurável adicionado para cenas e ações\nOrdem corrigida das cenas e ações",
-        "nl": "Configureerbaar label toegevoegd voor scènes en acties\nGecorrigeerde volgorde van de scènes en acties",
-        "fr": "Ajout d'une étiquette configurable pour les scènes et les actions\nOrdre corrigé des scènes et des actions",
-        "it": "Aggiunta etichetta configurabile per scene e azioni\nOrdine corretto delle scene e delle azioni",
-        "es": "Etiqueta configurable agregada para escenas y acciones\nOrden corregido de las escenas y acciones",
-        "pl": "Dodano konfigurowalną etykietę dla scen i akcji\nPoprawiony porządek scen i działań",
-        "uk": "Додано конфігурацію етикетки для сцен і дій\nВиправлено порядок сцен і дій",
-        "zh-cn": "为场景和行动添加的可配置标签\n已更正的场景和行动顺序"
-      },
-      "1.4.16": {
-        "en": "Added ON/OFF object ID for dimmer",
-        "de": "Objekt-ID für Dimmer hinzugefügt",
-        "ru": "Добавлен идентификатор объекта ON/OFF для диммера",
-        "pt": "ID de objeto ON/OFF adicionado para dimmer",
-        "nl": "Aan/uit object-ID toegevoegd voor dimmer",
-        "fr": "Ajouté l'identifiant de l'objet ON/OFF pour varimer",
-        "it": "Aggiunto ON/OFF oggetto ID per dimmer",
-        "es": "Añadido ON/OFF objeto ID for dimmer",
-        "pl": "Dodano identyfikator obiektu dla przyciemniacza",
-        "uk": "Додано ідентифікатор об'єкта ON/OFF для dimmer",
-        "zh-cn": "为 dimmer 添加 ON/OFF 对象ID"
       }
     },
     "licenseInformation": {
+      "license": "UNLICENSED",
       "type": "commercial",
-      "link": "https://github.com/ioBroker/ioBroker.vis-2-widgets-jaeger-design/blob/master/LICENSE"
+      "link": "https://www.iobroker.com/productoverview"
     },
     "titleLang": {
       "en": "Vis 2 Jaeger Styled Widgets",
-      "de": "Vis 2 Jaeger Styled Widgets"
+      "de": "Vis 2 Jaeger Styled Widgets",
+      "ru": "Vis 2 Jaeger Styled Widgets",
+      "pt": "Vis 2 Jaeger Styled Widgets",
+      "nl": "Vis 2 Jaeger Styled Widgets",
+      "fr": "Vis 2 Jaeger Styled Widgets",
+      "it": "Vis 2 Jaeger Styled Widgets",
+      "es": "Vis 2 Jaeger Styled Widgets",
+      "pl": "Vis 2 Jaeger Styled Widgets",
+      "uk": "Vis 2 Jaeger Styled Widgets",
+      "zh-cn": "Vis 2 Jaeger Styled Widgets"
     },
     "desc": {
       "en": "Vis 2 Jaeger Styled Widgets",
-      "de": "Vis 2 Jaeger Styled Widgets"
+      "de": "Vis 2 Jaeger Styled Widgets",
+      "ru": "Vis 2 Jaeger Styled Widgets",
+      "pt": "Vis 2 Jaeger Styled Widgets",
+      "nl": "Vis 2 Jaeger Styled Widgets",
+      "fr": "Vis 2 Jaeger Styled Widgets",
+      "it": "Vis 2 Jaeger Styled Widgets",
+      "es": "Vis 2 Jaeger Styled Widgets",
+      "pl": "Vis 2 Jaeger Styled Widgets",
+      "uk": "Vis 2 Jaeger Styled Widgets",
+      "zh-cn": "Vis 2 Jaeger Styled Widgets"
     },
     "authors": [
       "bluefox <dogafox@gmail.com>"
@@ -157,7 +176,7 @@
         "vis-2": ">=2.20.0"
       },
       {
-        "admin": ">=7.6.1"
+        "admin": ">=7.6.17"
       }
     ]
   },

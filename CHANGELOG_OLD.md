@@ -1,4 +1,10 @@
 # Older changes
+## 1.4.20 (2026-04-27)
+* (bluefox) Hide the menu on mobile devices if no scenes or actions are defined
+
+## 1.4.19 (2026-03-13)
+* (bluefox) Corrected possible error with invalid theme name
+
 ## 1.4.18 (2026-01-27)
 * (bluefox) Added configurable label for scenes and actions
 * (bluefox) Corrected order of the scenes and actions
