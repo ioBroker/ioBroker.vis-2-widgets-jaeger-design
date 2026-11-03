@@ -1,8 +1,21 @@
 {
   "common": {
     "name": "vis-2-widgets-jaeger-design",
-    "version": "1.5.5",
+    "version": "1.5.6",
     "news": {
+      "1.5.6": {
+        "en": "Scene widgets placed in a page no longer get a too big font and save button on mobile phones",
+        "de": "Szene-Widgets auf einer Seite sind nicht mehr zu groß und speichern auf Handys",
+        "ru": "Виджеты сцен, размещенные на странице, больше не имеют слишком большого шрифта и кнопки сохранения на мобильных телефонах",
+        "pt": "Widgets de cena em uma página não têm mais fonte e botão de salvar em celulares",
+        "nl": "Scènewidgets die op een pagina worden geplaatst, krijgen niet langer een te groot lettertype en een knop Opslaan op mobiele telefoons",
+        "fr": "Les widgets de scène placés sur une page ne sont plus trop gros ni trop gros sur le bouton Enregistrer",
+        "it": "I widget di scena in una pagina non hanno più caratteri grandi e salva",
+        "es": "Los widgets de escena de una página ya no tienen una fuente muy grande y el botón Guardar en los móviles",
+        "pl": "Widżety scen umieszczone na stronie nie otrzymują już zbyt dużej czcionki i przycisku zapisywania na telefonach komórkowych",
+        "uk": "Віджети сцени, розміщені на сторінці, більше не отримують занадто великого шрифту та кнопки збереження на мобільних телефоні",
+        "zh-cn": "放置在页面中的场景控件在手机上的字体和保存按钮不再太大"
+      },
       "1.5.5": {
         "en": "Dimmer: the popup shows the value in percent on the bar (can be hidden in the widget settings)\nPages with \"Include scenes\" or \"Include actions\" show only the scenes and actions of the current floor, the same as with \"Exclude\"\nMenu settings: \"Include scenes/actions\" offers only the items assigned to floors and shows which ones are visible on every floor\nUpdated packages",
         "de": "Dimmer: Das Popup zeigt den Wert in% auf der Leiste (in den Widget-Einstellungen verdeckbar)\nSeiten mit „Szenen einbeziehen“ oder „Aktionen einbeziehen“ zeigen nur Szenen und Aktionen der aktuellen Etage, genau wie „Ausschließen“\nMenüeinstellungen: „Szenen/Aktionen einbeziehen“ zeigt nur die Elemente der Stockwerke an und zeigt, welche sichtbar sind\nNeue Pakete",
@@ -80,19 +93,6 @@
         "pl": "Ukryj menu na urządzeniach mobilnych, jeśli nie są zdefiniowane sceny lub działania",
         "uk": "Приховати меню на мобільних пристроях, якщо не визначені події або дії",
         "zh-cn": "如果没有定义场景或动作, 在移动设备上隐藏菜单"
-      },
-      "1.4.19": {
-        "en": "Corrected possible error with invalid theme name",
-        "de": "Mögliche Fehler mit ungültigem Themennamen behoben",
-        "ru": "Исправлена возможная ошибка с некорректным названием темы",
-        "pt": "Corrigido possível erro com nome de tema inválido",
-        "nl": "Verbeterde mogelijke fout met ongeldige themanaam",
-        "fr": "Erreur possible corrigée avec nom de thème invalide",
-        "it": "Corretto errore possibile con il nome a tema non valido",
-        "es": "Corregido posible error con nombre de tema inválido",
-        "pl": "Poprawiony możliwy błąd z nieprawidłową nazwą motywu",
-        "uk": "Виправлена можлива помилка з недійсною назвою теми",
-        "zh-cn": "用无效的主题名称更正了可能的错误"
       }
     },
     "licenseInformation": {
