@@ -1,4 +1,7 @@
 # Older changes
+## 1.5.2 (2026-10-27)
+* (bluefox) Shutter and dimmer popups: percent and memory buttons have the widget height on mobile devices
+
 ## 1.5.1 (2026-10-27)
 * (bluefox) Corrected the layout of the thermostat dialog on mobile devices
 * (bluefox) Thermostat dialog shows humidity and valve position even if no actual temperature is configured

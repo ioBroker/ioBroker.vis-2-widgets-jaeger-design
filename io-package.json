@@ -1,8 +1,21 @@
 {
   "common": {
     "name": "vis-2-widgets-jaeger-design",
-    "version": "1.5.7",
+    "version": "1.5.8",
     "news": {
+      "1.5.8": {
+        "en": "The background of a floor or page view now reaches to the end when the view is scrolled\nScenes and actions with \"No active state\" are shown pressed for a moment after a click\nRedesigned the layout editor: grouped navigation, lists with search, drag & drop, duplicate and delete, fields in cards, theme previews, undo/redo (Ctrl+Z/Ctrl+Y) and animated icons\nAdded the dark theme \"Aurora\" (night blue with mint)\nDark themes: popovers of dimmer and shutter, the thermostat mode menu and the player sliders take the theme colors; a custom theme with a dark background is detected as dark",
+        "de": "Der Hintergrund einer Stockwerk- oder Seitenansicht endet nun beim Scrollen\nSzenen und Aktionen mit „Kein Status“ werden nach einem Klick kurz gedrückt\nUmgestalteter Layout-Editor: Gruppennavigation, Listen mit Suchen, Drag & Drop, Duplizieren und Löschen, Kartenfelder, Themenvorschau, Undo/Redo (Strg+Z/Strg+Y) und animierte Icons\nDunkles Thema „Aurora“ hinzugefügt (Nachtblau mit Mint)\nDunkle Themen: Dimmer- und Shutter-Popover, Thermostat-Menü und Player-Regler nehmen die Designfarben an; ein eigenes Design mit dunklem Hintergrund wird als dunkel erkannt",
+        "ru": "Теперь фон этажа или вида страницы заканчивается при прокрутке вида\nСцены и действия с надписью «Нет активного состояния» отображаются нажатыми на мгновение после нажатия\nПереработан редактор макетов: сгруппированная навигация, списки с поиском, перетаскиванием, дублированием и удалением, поля в карточках, предпросмотр тем, отмена/повтор (Ctrl+Z/Ctrl+Y) и анимированные значки\nДобавлена темная тема «Aurora» (ночной синий с мятой)\nТемные темы: всплывающие окна с диммером и затвором, меню режима термостата и ползунки проигрывателя принимают цвета темы; пользовательская тема с темным фоном считается темной",
+        "pt": "O fundo de um piso ou página agora chega ao fim quando a vista é rolada\nCenas e ações com “Sem estado ativo” são exibidas por um momento após um clique\nRedesenhou o editor de layout: navegação agrupada, listas com busca, arrastar e soltar, duplicar e excluir, campos em cartões, prévias de temas, desfazer/refazer e ícones animados\nAdicionou o tema escuro “Aurora” (azul com menta)\nTemas escuros: o menu do modo termostato e os controles deslizantes do player assumem as cores do tema; um tema personalizado com fundo escuro é detectado",
+        "nl": "De achtergrond van een verdieping- of paginaweergave bereikt nu het einde wanneer er naar de weergave wordt gescrolld\nScènes en acties met „Geen actieve status” worden na een klik even ingedrukt weergegeven\nDe opmaakeditor opnieuw ontworpen: gegroepeerde navigatie, lijsten met zoeken, slepen en neerzetten, dupliceren en verwijderen, velden in kaarten, themavoorbeelden, ongedaan maken/opnieuw uitvoeren (Ctrl+Z/Ctrl+Y) en geanimeerde pictogrammen\nHet donkere thema „Aurora” toegevoegd (nachtblauw met mint)\nDonkere thema's: bij popovers van dimmer en sluiter, in het menu voor de thermostaatmodus en de schuifregelaars voor de speler worden de themakleuren gebruikt; een aangepast thema met een donkere achtergrond wordt als donker gedetecteerd",
+        "fr": "L'arrière-plan d'un étage ou d'une page atteint désormais la fin lorsque la vue défile\nLes scènes et les actions où « État inactif » est affiché un instant après un clic\nRefonte de l'éditeur de mise en page : navigation groupée, listes avec recherche, glisser-déposer, dupliquer et supprimer, champs de cartes, aperçus de thèmes, annuler/rétablir (Ctrl+Z/Ctrl+Y) et icônes animées\nAjout du thème foncé « Aurora » (bleu nuit et menthe)\nThèmes sombres : les boutons et l'obturateur, le menu du mode thermostat et les curseurs du lecteur prennent les couleurs du thème ; un thème personnalisé sur fond foncé est détecté comme foncé",
+        "it": "Lo sfondo di un piano o di una pagina ora termina quando si scorre la vista\nLe scene e le azioni con «Non attivo» vengono premute un attimo dopo un clic\nEditor di layout ridisegnato: navigazione raggruppata, elenchi con ricerca, drag & drop, duplica ed elimina, campi a schede, anteprime dei temi, undo/redo (Ctrl+Z/Ctrl+Y) e icone animate\nAggiunto il tema scuro «Aurora» (blu notte menta)\nTemi scuri: i popover con dimmer e shutter, il menu della modalità termostato e i cursori del lettore assumono i colori del tema; un tema personalizzato con sfondo scuro",
+        "es": "El fondo de una vista de suelo o página ahora llega al final cuando se desplaza la vista\nLas escenas y acciones con «Sin estado activo» se muestran pulsadas un momento tras un clic\nRediseñó el editor de diseño: navegación agrupada, listas con buscar, arrastrar y soltar, duplicar y eliminar, campos en tarjetas, previsualizar temas, deshacer o rehacer (Ctrl+Z/Ctrl+Y) e iconos animados\nAñadió el tema oscuro «Aurora» (azul noche con menta)\nTemas oscuros: los botones de atenuador y obturador, el menú del modo termostato y los controles del reproductor toman los colores del tema; un tema personalizado con fondo oscuro se detecta como oscuro",
+        "pl": "Tło widoku podłogi lub strony osiąga teraz koniec, gdy widok jest przewijany\nSceny i akcje z „Brak stanu aktywnego” są wyświetlane naciśnięte przez chwilę po kliknięciu\nPrzeprojektowany edytor układu: nawigacja zgrupowana, listy z wyszukiwaniem, przeciąganie i upuszczanie, powielanie i usuwanie, pola w kartach, podglądy motywów, cofnij/powtórz (Ctrl+Z/Ctrl+Y) i animowane ikony\nDodano ciemny motyw „Aurora” (nocny niebieski z miętą)\nCiemne motywy: wyświetlacze ściemniacza i migawki, menu trybu termostatu i suwaki odtwarzacza przyjmują kolory motywu; niestandardowy motyw z ciemnym tłem jest wykrywany jako ciemny",
+        "uk": "Фон перегляду поверху або сторінки тепер досягає кінця, коли перегляд прокручується\nСцени та дії з «Без активного стану» відображаються натиснутими на мить після натискання\nПерероблений редактор макетів: згрупована навігація, списки з пошуком, перетягування, дублювання та видалення, поля в картках, попередній перегляд тем, скасування/повторення (Ctrl+Z/Ctrl+Y) та анімовані піктограми\nДодана темна тема «Аврора» (нічний синій з м'ятою)\nТемні теми: поповери диммера та затвора, меню режиму термостата та повзунки плеєра приймають кольори теми; спеціальна тема з темним фоном визначається як темна",
+        "zh-cn": "现在，滚动视图时，楼层视图或页面视图的背景会到达终点\n单击 “无活动状态” 的场景和动作会显示按住片刻\n重新设计了布局编辑器：分组导航、带搜索、拖放、复制和删除功能的列表、卡片中的字段、主题预览、撤消/重做（Ctrl+Z/Ctrl+Y）和动画图标\n添加了深色主题 “极光”（夜蓝配薄荷色）\n深色主题：调光器和快门弹出窗口、恒温器模式菜单和播放器滑块采用主题颜色；具有深色背景的自定义主题被检测为深色"
+      },
       "1.5.7": {
         "en": "Copying a submenu gives its items new IDs, so the copied pages no longer take the settings (e.g., included or excluded scenes) of the original pages\nMenu items with the same ID are repaired when the layout settings are opened or imported from JSON",
         "de": "Beim Kopieren von Untermenüs erhalten die Elemente neue IDs, sodass sie nicht mehr wie die Originalseiten sind\nMenüeinträge mit derselben ID werden beim Öffnen oder Import aus JSON repariert",
@@ -80,19 +93,6 @@
         "pl": "Poprawiono układ okna dialogowego termostatu na urządzeniach mobilnych\nOkno dialogowe termostatu pokazuje wilgotność i położenie zaworu, nawet jeśli faktyczna temperatura nie jest skonfigurowana",
         "uk": "Виправлено розташування діалогового вікна термостата на мобільних пристроях\nДіалогове вікно термостата показує вологість і положення клапана, навіть якщо фактична температура не налаштована",
         "zh-cn": "更正了移动设备上恒温器对话框的布局\n即使没有配置实际温度，恒温器对话框也会显示湿度和阀门位置"
-      },
-      "1.5.0": {
-        "en": "Migrated to React 19 and vis-2 2.20.0",
-        "de": "Migration zu React 19 und Vis-2 2.20.0",
-        "ru": "Перешел на React 19 и vis-2 2.20.0",
-        "pt": "Migrou para React 19 e vis-2 2.20.0",
-        "nl": "Gemigreerd naar React 19 en vis-2 2.20.0",
-        "fr": "Migré vers React 19 et vis-2 2.20.0",
-        "it": "Migrato a React 19 e vis-2 2.20.0",
-        "es": "Migró a React 19 y vis-2 2.20.0",
-        "pl": "Migracja do React 19 i vis-2 2.20.0",
-        "uk": "Перемічено до React 19 та vis-2 2.20.0",
-        "zh-cn": "迁移到 React 19 和 vis-2 2.20.0"
       }
     },
     "licenseInformation": {
