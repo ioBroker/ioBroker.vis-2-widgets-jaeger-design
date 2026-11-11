@@ -1,4 +1,11 @@
 # Older changes
+## 1.5.4 (2026-10-28)
+* (bluefox) Home page shows the info even if no scenes and no actions are defined
+* (bluefox) Info groups wrap instead of pushing the right side out of the screen; the width of info lines is configurable
+* (bluefox) State widget: for display-only numbers the color does not depend on the max value of the object anymore
+* (bluefox) Thermostat: the power button can be inverted (e.g., for HomematicIP control mode)
+* (bluefox) Cameras: the image is replaced only after the next image was loaded completely, so it does not disappear anymore
+
 ## 1.5.2 (2026-10-27)
 * (bluefox) Shutter and dimmer popups: percent and memory buttons have the widget height on mobile devices
 

@@ -149,6 +149,9 @@ A media player card: title, artist, cover, play/pause, previous/next, shuffle, m
     ### **WORK IN PROGRESS**
 -->
 ## Changelog
+### 1.5.9 (2026-11-11)
+* (bluefox) Info entries can show a symbol in front of the name or instead of it
+
 ### 1.5.8 (2026-11-10)
 * (bluefox) The background of a floor or page view now reaches to the end when the view is scrolled
 * (bluefox) Scenes and actions with "No active state" are shown pressed for a moment after a click
@@ -168,13 +171,6 @@ A media player card: title, artist, cover, play/pause, previous/next, shuffle, m
 * (bluefox) Pages with "Include scenes" or "Include actions" show only the scenes and actions of the current floor, the same as with "Exclude"
 * (bluefox) Menu settings: "Include scenes/actions" offers only the items assigned to floors and shows which ones are visible on every floor
 * (bluefox) Updated packages
-
-### 1.5.4 (2026-10-28)
-* (bluefox) Home page shows the info even if no scenes and no actions are defined
-* (bluefox) Info groups wrap instead of pushing the right side out of the screen; the width of info lines is configurable
-* (bluefox) State widget: for display-only numbers the color does not depend on the max value of the object anymore
-* (bluefox) Thermostat: the power button can be inverted (e.g., for HomematicIP control mode)
-* (bluefox) Cameras: the image is replaced only after the next image was loaded completely, so it does not disappear anymore
 
 Older changes can be found in [CHANGELOG_OLD.md](CHANGELOG_OLD.md)
 

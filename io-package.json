@@ -1,8 +1,21 @@
 {
   "common": {
     "name": "vis-2-widgets-jaeger-design",
-    "version": "1.5.8",
+    "version": "1.5.9",
     "news": {
+      "1.5.9": {
+        "en": "Info entries can show a symbol in front of the name or instead of it",
+        "de": "Infoeinträge können ein Symbol vor oder statt dem Namen haben",
+        "ru": "В информационных записях может отображаться символ перед именем или вместо него",
+        "pt": "Os dados podem exibir um símbolo antes ou não do nome.",
+        "nl": "Info-items kunnen een symbool voor de naam of in plaats daarvan weergeven",
+        "fr": "Les entrées d'info peuvent afficher un symbole devant le nom ou à sa place",
+        "it": "Le info possono avere un simbolo davanti o al posto del nome",
+        "es": "Las entradas de datos pueden mostrar un símbolo delante o en su lugar",
+        "pl": "Wpisy informacyjne mogą pokazywać symbol przed nazwą lub zamiast niej",
+        "uk": "Інформаційні записи можуть показувати символ перед іменем або замість нього",
+        "zh-cn": "信息条目可以在名称前面显示一个符号，也可以代替它"
+      },
       "1.5.8": {
         "en": "The background of a floor or page view now reaches to the end when the view is scrolled\nScenes and actions with \"No active state\" are shown pressed for a moment after a click\nRedesigned the layout editor: grouped navigation, lists with search, drag & drop, duplicate and delete, fields in cards, theme previews, undo/redo (Ctrl+Z/Ctrl+Y) and animated icons\nAdded the dark theme \"Aurora\" (night blue with mint)\nDark themes: popovers of dimmer and shutter, the thermostat mode menu and the player sliders take the theme colors; a custom theme with a dark background is detected as dark",
         "de": "Der Hintergrund einer Stockwerk- oder Seitenansicht endet nun beim Scrollen\nSzenen und Aktionen mit „Kein Status“ werden nach einem Klick kurz gedrückt\nUmgestalteter Layout-Editor: Gruppennavigation, Listen mit Suchen, Drag & Drop, Duplizieren und Löschen, Kartenfelder, Themenvorschau, Undo/Redo (Strg+Z/Strg+Y) und animierte Icons\nDunkles Thema „Aurora“ hinzugefügt (Nachtblau mit Mint)\nDunkle Themen: Dimmer- und Shutter-Popover, Thermostat-Menü und Player-Regler nehmen die Designfarben an; ein eigenes Design mit dunklem Hintergrund wird als dunkel erkannt",
@@ -80,19 +93,6 @@
         "pl": "Wyskakujące okienka migawki i ściemniacze: procent i przyciski pamięci mają wysokość widżetu na urządzeniach mobilnych",
         "uk": "Спливаючі вікна затвора та диммера: кнопки відсотків та пам'яті мають висоту віджета на мобільних пристроях",
         "zh-cn": "快门和调光器弹出窗口：百分比和内存按钮具有移动设备上的小部件高度"
-      },
-      "1.5.1": {
-        "en": "Corrected the layout of the thermostat dialog on mobile devices\nThermostat dialog shows humidity and valve position even if no actual temperature is configured",
-        "de": "Das Layout des Thermostat-Dialogs auf Mobilgeräten wurde korrigiert\nThermostat-Dialog zeigt Feuchte und Ventilposition, auch wenn keine Temperatur konfiguriert ist",
-        "ru": "Исправлено расположение диалогового окна термостата на мобильных устройствах\nДиалоговое окно термостата показывает влажность и положение клапана, даже если фактическая температура не настроена",
-        "pt": "Corrigido o layout do diálogo do termostato em celulares\nO diálogo do termostato mostra a umidade e a posição da válvula mesmo sem temperatura",
-        "nl": "De indeling van het thermostaatdialoogvenster op mobiele apparaten gecorrigeerd\nHet thermostaatdialoogvenster toont de luchtvochtigheid en de positie van de klep, zelfs als er geen werkelijke temperatuur is ingesteld",
-        "fr": "La disposition du dialogue du thermostat sur les appareils mobiles a été corrigée\nLe dialogue du thermostat indique l'humidité et la position de la vanne même si aucune température n'est configurée",
-        "it": "Corretto il layout del termostato sui dispositivi mobili\nIl termostato mostra umidità e posizione della valvola anche se non è impostata",
-        "es": "Se ha corregido el diseño del cuadro de diálogo del termostato en los móviles\nEl termostato muestra la humedad y la posición de la válvula aunque no esté configurada",
-        "pl": "Poprawiono układ okna dialogowego termostatu na urządzeniach mobilnych\nOkno dialogowe termostatu pokazuje wilgotność i położenie zaworu, nawet jeśli faktyczna temperatura nie jest skonfigurowana",
-        "uk": "Виправлено розташування діалогового вікна термостата на мобільних пристроях\nДіалогове вікно термостата показує вологість і положення клапана, навіть якщо фактична температура не налаштована",
-        "zh-cn": "更正了移动设备上恒温器对话框的布局\n即使没有配置实际温度，恒温器对话框也会显示湿度和阀门位置"
       }
     },
     "licenseInformation": {
